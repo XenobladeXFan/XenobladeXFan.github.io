@@ -1,4 +1,747 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Ambush Camouflage added.
+
+Ambush Camoflauge removed.
+
+
+type: Basic Land — Plains => 
+rules_text:  => [i](You can mark this card to represent a double-faced card in your library or hand.)[/i]
+
+Grassland Ovis
+
+Skell Repair Crew
+
+Sorcerer Papil
+
+Flight Module Frame
+
+Base Camp Supplier
+
+Ma-non Engineer
+
+Wrothian Sneaker
+
+Duelist's Longsword
+
+Eternal Millesaur
+
+Daylight Aprica
+
+Wrothian Duel
+
+Peaceful Grazing
+
+Sky High
+
+Sky Sunder
+
+Gi Zorde & Gi Zordo, Disciples
+
+Bastion Warrior's Shield
+
+Formula Zero
+
+Shadow Germivore
+
+BLADE Reinforcements
+
+Lailah Queen
+
+Expedition Lead
+
+Drone Pawn Quo
+
+Zirconium Fal-swo
+
+Settle Beyond Reality
+
+A Girl's Wings
+
+Vehicle Reclamation
+
+Atomic Hit
+
+Skell Developer
+
+Coast Visigel
+
+Glimmering Scintimure
+
+Partisan Eagle's Javelin
+
+Revelation of Old
+
+Spy Games
+
+Titan Recharge
+
+Recluse Cantor
+
+Ma-non Researcher
+
+Blast Fencer's Psycho Launchers
+
+Biological Cache
+
+Smothering Foliage
+
+Restart Development
+
+Fortun and Glory
+
+BLADE Spy
+
+BLADE Pathfinder
+
+Definian Clone
+
+Mastema White Reaper
+
+Orphean Engineer
+
+Ytterby Petramand
+
+Test Hangar
+
+Lead Skell Engineer
+
+Trade Agreement
+
+Scour FrontierNav
+
+Lend an Ear
+
+Volitarian Remake
+
+Cause and Effect
+
+Quick Cooldown
+
+Nocturnal Vesper
+
+Psychocorruptor's Knife
+
+Pawn Puge
+
+Acid Dilus
+
+Brutal Prone
+
+Dusk Adsecula
+
+Zaruboggan Cleaner
+
+Hell Gerrid
+
+Ghillie Falsaxum
+
+Black Bane
+
+Ambushing Strike
+
+Unexplored Territory
+
+Rites of Ruin
+
+Wander Too Far
+
+Lao's Redemption
+
+Deadland Caro
+
+Silent Murra
+
+Dale Gibbon, Serial Thriller
+
+Suppressor Knight Qmoeva
+
+Marnuck Cutthroat
+
+Knight Pugilith
+
+Recluse Thallus
+
+Hunt for Prey
+
+Golden-Crown Tyrant
+
+Tyrant's Grave
+
+Intimidation Tactics
+
+Gruesome Revelation
+
+Ambush Reanimate
+
+Ganglion Base
+
+Dark Matters
+
+BLADE Interceptor
+
+Thug Caecus
+
+Wasteland Evello
+
+Hunter Grex
+
+Hotshot Pilot
+
+Mirage Vivohast
+
+Winged Viper's Dual Guns
+
+Nopon Caravan
+
+Caravan Fireworks
+
+A Day In The Life
+
+Cavern Expedition
+
+Reckless Thrash
+
+Hijack the Prog Ares
+
+Rapid Misfire
+
+Rookie Training
+
+BLADE Harrier
+
+Shield Trooper's Gatling Gun
+
+Gale Auravis
+
+Milsaadi Corroder
+
+Inferno Skydon
+
+Full Metal Jaguar's Dual Blades
+
+Sandy Sabula
+
+Into the Core
+
+Threefold Thunderflash
+
+Metallic Crunch
+
+Fire Carnival
+
+Anti-Air Assault
+
+Brimstone Rain
+
+Treacherous Caverns
+
+BLADE Curator
+
+Origin Blatta
+
+Hermit Tectinsula
+
+Hallowed Progen
+
+Pike Insidia
+
+Nectar Scirpo
+
+Astral Crusader's Sniper Rifle
+
+Highland Lepyx
+
+Ocean Purgovent
+
+Brobdingnagian Sylooth
+
+Lurk in Wait
+
+A Hero's Trial
+
+Heroic Tale
+
+Mira's Expanse
+
+Mimeosome Search
+
+Urban ST
+
+Autosentry
+
+BLADE Prospector
+
+Follow Ball
+
+Scour from Existence
+
+Lifepod
+
+FrontierNav Researcher
+
+BLADE Mediator
+cost: {1} => {2}
+
+Talon Eagle Galdr
+
+Lord Xe-dom
+
+Dadapon's Sunglasses
+
+Solan, MMC Lead
+
+Swallowing Gorge
+
+Alexa, Skell Nut
+
+The Root of All Evil
+
+BLADE Commando
+
+Yelv, Reclaimer of Memory
+
+Essence Exchange
+
+Glennar, Seaswept Commander
+
+Furious Simius
+
+Mastermind's Raygun
+
+Ambush Tactics
+
+The Old Gods
+
+A Fateful Choice
+
+Police Skell
+
+Relentless Tracking
+
+BLADE Dozer
+
+Boze Lowes, the Ardent Monk
+
+Foul Sacrifole
+
+Sift Through Souls
+
+Welkin Levitath
+
+Hraesvelg Lord
+
+Galactic Knight's Photon Saber
+
+Tora, the Nopon Heir
+
+BLADE Reclaimer
+
+Samurai Gunner's Assault Rifle
+
+Iron Femina Suid
+
+Saffron Arenatect
+
+Armored Suid
+
+Volkampf, the Pursuer
+
+Frenzied Coronid
+
+Disaster Vigent
+
+Prone Funeral Ritual
+
+Golden Loot
+
+Dense Fog
+
+Nopon Cooking
+
+Gold Rush
+
+Tempered Steel
+
+XCX Draft Archetypes
+
+Raging Sandstorm
+
+Dematerialization Event
+
+Goetia, Electric Eradicator
+
+Almandal, Treachery
+
+Volitaris, Where It All Ends
+
+Escape to a New World
+
+How's It Poppin'?
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+[i]Better than you, meaning... — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+III — [i]Better than you, meaning... — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+[i]Better than you, meaning... — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+III — [i]Better than you, meaning... — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.
+
+Wrothian Battle Gauntlet
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a token that's a copy of target creature you control. When you do, it fights target creature you don't control.
+Create Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Create a token that's a copy of target creature you control. When you do, it fights target creature you don't control.
+IV — Create Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a token that's a copy of target creature you control. When you do, it fights target creature you don't control.
+Create Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Create a token that's a copy of target creature you control. When you do, it fights target creature you don't control.
+IV — Create Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.
+
+The Christoph Brothers
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature an opponent controls deals damage equal to its power to another target creature that player controls.
+[i]Blitzkrieg[/i] — Whenever a creature you control attacks this turn, put a +1/+1 counter on it.
+[i]Brotherly Love[/i] — Whenever a creature you control deals combat damage this turn, create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature an opponent controls deals damage equal to its power to another target creature that player controls.
+II — [i]Blitzkrieg[/i] — Whenever a creature you control attacks this turn, put a +1/+1 counter on it.
+III — [i]Brotherly Love[/i] — Whenever a creature you control deals combat damage this turn, create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature an opponent controls deals damage equal to its power to another target creature that player controls.
+[i]Blitzkrieg[/i] — Whenever a creature you control attacks this turn, put a +1/+1 counter on it.
+[i]Brotherly Love[/i] — Whenever a creature you control deals combat damage this turn, create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature an opponent controls deals damage equal to its power to another target creature that player controls.
+II — [i]Blitzkrieg[/i] — Whenever a creature you control attacks this turn, put a +1/+1 counter on it.
+III — [i]Brotherly Love[/i] — Whenever a creature you control deals combat damage this turn, create a Treasure token.
+
+Luxaar, Humanity's End
+
+Ma-non Ship Core
+
+Doug Barret
+
+BLADE Command Console
+
+Fortun, Definian Mother
+
+Scout Console
+
+Deliverance Park
+
+Barista Court
+
+Ma-non Ship Deck
+
+Outfitters Test Hangar
+
+Yardley's Hideaway
+
+Liesel, Test Pilot
+
+Badr Stronghold
+
+Bedrock Hold
+
+Seaswept Base
+
+Jair Fortress
+
+Boxtrap Checkpoint
+
+Milligan Supply Base
+
+Kitsune Stronghold
+
+Lakeview Stronghold
+
+Scabland Fortress
+
+Ensconced Citadel
+
+Dagahn, Ganglion Crusher
+
+Strike Launcher Zig
+
+Combat Maneuver Instructor
+
+Slovity Pagus, Cavern Crusher
+
+Holofigure Projector
+
+Lin, BLADE Bulwark
+
+Ga Buidhe, the Prince's Spear
+
+Awakened Colubrium
+
+Lao's Betrayal
+
+Wild Mephite
+
+Obscuring Spores
+
+BLADE Comm Device
+
+Multiversal Convergence
+
+Void, the Great One
+
+Ghost Cathedral
+
+Gaze Upon the Horizon
+
+Shimmer & Savy Exchange
+
+NLA Invasion Xern
+
+Wrothian Caladar
+
+Miran Safekeeping
+
+War on NLA
+
+Macabre Aeviter
+
+Glimpse the Multiverse
+
+Human Soldier
+
+Food
+
+Treasure
+
+Vehicle
+
+Ozuchi Caladar
+
+Copy
+
+Chimera Horror
+
+Hunted
+
+Boar
+
+Sheep
+
+Furious Flurry
+
+Black Tar
+
+Melancholia
+
+Relentless Expansion
+
+Rock, Celica's Friend
+
+Doug, Soldier of the Harriers
+
+Nagi, Reporting for Duty
+
+Hope, Heart of NLA
+
+Murderess, Greed and Power
+
+Volitarian Supression
+
+Assault on Volitaris
+
+False Defeat
+
+Celica, Rock's Best Friend
+
+Lurking Columbrim
+
+BLADE Savior
+
+Prog Ares
+
+Dadaan, the Strongest Prone
+rules_text: [i]Punchity Punchathon[/i] — Whenever Dadaan or an Alien you control deals combat damage, put a +1/+1 counter on it.
+[i]Dadaan Squad! — [/i]At the beginning of each upkeep, create a black 1/1 Alien creature token.
+[i]Absolute Demolisher 2056 [/i]— Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card. => [i]Punchity Punchathon[/i] — Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.
+[i]Dadaan Squad! — [/i]At the beginning of each upkeep, create a black 1/1 Alien creature token.
+[i]Absolute Demolisher 2056 [/i]— Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card.
+
+Secondary Speed
+
+Blossom Dance
+
+Mindstorm
+
+Crisis Zone
+
+Howling Soul
+
+Nopon
+
+Nexus of Fate
+
+BLADE Frontliner
+
+Kentaro Nagi
+
+Grex Pack
+
+Ridill, the Arrogant
+
+Marshalling the Troops
+
+Poach the Bounty
+
+Cooldown Augment
+
+Bizzare Insidia
+
+Poisonous Caecus
+
+Parallax Tide
+
+Mimeosome Manufacturer
+
+Imperial Seal
+
+Dead Man's Gulch
+
+Canopied Nightwood
+
+Tornado Jacul
+
+Sentinel's Nest
+
+Bestial Utopia
+
+Barracks Interior
+
+White Phosphor Lake
+
+Cleansing Spring
+
+Sunset Falls
+
+Greiving Plains
+
+Kintrees
+
+Headwater Summit
+
+Ancient Warscape
+
+Alexa, Weaponized
+
+Professor B°&7k%±|, Mystery Man
+
+Miramobile, Future and Past
+
+Heat Wave
+
+Electromagnetic Interference
+
+Mia, Stranded Surveyor
+rules_text: Vigilance
+Whenever you discover, investigate, scry, surveil, or seek one or more cards, Mia deals 2 damage to each opponent and you gain 2 life. => Vigilance
+Whenever you discover, investigate, scry, surveil, or seek one or more cards, Mia deals 2 damage to each opponent and you gain 2 life. [i](You can't seek in paper Magic.)[/i]
+
+Behemoth's Shadows
+
+BLADE Chopper
+
+Sunlit Trap
+
+Legendary Nopopopopon
+
+Skell Salvager
+
+Bounty of the Hunt
+
+Telethia, the Endbringer
+
+Pharsis, the Everqueen
+
+FrontierNav
+
+Mia is Missing!
+
+FrontierNav Developer
+
+Bahamut Wave
+
+Lin Lee Koo
+
+De-mat Zone
+
+A Hero's Ride
+
+Lakeside Getaway
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature can't be blocked this turn.
+Target creature must block this turn if able.
+Choose one —
+• Draw a card.
+• Return target creature to its owner's hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature can't be blocked this turn.
+II — Target creature must block this turn if able.
+III — Choose one —
+• Draw a card.
+• Return target creature to its owner's hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature can't be blocked this turn.
+Target creature must block this turn if able.
+Choose one —
+• Draw a card.
+• Return target creature to its owner's hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Target creature can't be blocked this turn.
+II — Target creature must block this turn if able.
+III — Choose one —
+• Draw a card.
+• Return target creature to its owner's hand.
+
+Emotion Commotion
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Put a +1/+1 counter on each of up to two target creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+II — Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+III — Put a +1/+1 counter on each of up to two target creatures you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Put a +1/+1 counter on each of up to two target creatures you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+II — Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+III — Put a +1/+1 counter on each of up to two target creatures you control.
+
+Alien
+
+Blood Despair
+
+Lifepod Recruitment
+
+Elma, Savior of the Ares
+
+Pollen Orb Smuggler
+
+Tainted Sphinx
+
+Heroic Feast
+
+Elma, BLADE Colonel
+
+Ryyz, Ganglion's Rise
+
+Lao, Traitor to Humanity
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

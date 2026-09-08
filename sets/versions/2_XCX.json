@@ -8,6 +8,27 @@
     "v_mana": "",
     "cards": [
         {
+            "card_name": "",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "[i](You can mark this card to represent a double-faced card in your library or hand.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "XCX",
+            "loyalty": "",
+            "artist": "XCX: DE",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
+            "notes": ""
+        },
+        {
             "card_name": "Grassland Ovis",
             "color": "W",
             "rarity": "common",
@@ -24,7 +45,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "0",
+            "position": "1",
             "rotated": false,
             "notes": "CW01"
         },
@@ -45,7 +66,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "1",
+            "position": "2",
             "rotated": false,
             "notes": "CW02"
         },
@@ -66,7 +87,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "2",
+            "position": "3",
             "rotated": false,
             "notes": "CW03"
         },
@@ -87,7 +108,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "3",
+            "position": "4",
             "rotated": false,
             "notes": "CW04"
         },
@@ -108,7 +129,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "4",
+            "position": "5",
             "rotated": false,
             "notes": "CW05"
         },
@@ -129,7 +150,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "5",
+            "position": "6",
             "rotated": false,
             "notes": "CW06"
         },
@@ -150,7 +171,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "6",
+            "position": "7",
             "rotated": false,
             "notes": "CW08"
         },
@@ -171,7 +192,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "7",
+            "position": "8",
             "rotated": false,
             "notes": "CW07"
         },
@@ -192,7 +213,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "8",
+            "position": "9",
             "rotated": false,
             "notes": "CG08"
         },
@@ -213,7 +234,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "9",
+            "position": "10",
             "rotated": false,
             "notes": "CG07"
         },
@@ -234,7 +255,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "10",
+            "position": "11",
             "rotated": false,
             "notes": "CW12"
         },
@@ -255,7 +276,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "11",
+            "position": "12",
             "rotated": false,
             "notes": "Flavor text\nCW13"
         },
@@ -276,7 +297,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "12",
+            "position": "13",
             "rotated": false,
             "notes": "CW14"
         },
@@ -297,7 +318,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "13",
+            "position": "14",
             "rotated": false,
             "notes": "CW15"
         },
@@ -318,7 +339,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "14",
+            "position": "15",
             "rotated": false,
             "notes": "UW06"
         },
@@ -339,7 +360,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "15",
+            "position": "16",
             "rotated": false,
             "notes": "UW02"
         },
@@ -360,7 +381,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "16",
+            "position": "17",
             "rotated": false,
             "notes": "UW03"
         },
@@ -381,7 +402,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "17",
+            "position": "18",
             "rotated": false,
             "notes": "UW04"
         },
@@ -402,7 +423,7 @@
             "loyalty": "",
             "artist": "U.S. Army",
             "alias": "",
-            "position": "18",
+            "position": "19",
             "rotated": false,
             "notes": "UW05"
         },
@@ -423,7 +444,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "19",
+            "position": "20",
             "rotated": false,
             "notes": "UW07"
         },
@@ -444,7 +465,7 @@
             "loyalty": "",
             "artist": "Bri McDaniel",
             "alias": "",
-            "position": "20",
+            "position": "21",
             "rotated": false,
             "notes": "UW08"
         },
@@ -465,7 +486,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "21",
+            "position": "22",
             "rotated": false,
             "notes": "UW09"
         },
@@ -486,7 +507,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "22",
+            "position": "23",
             "rotated": false,
             "notes": "UU07"
         },
@@ -507,7 +528,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "23",
+            "position": "24",
             "rotated": false,
             "notes": "UW12"
         },
@@ -528,7 +549,7 @@
             "loyalty": "",
             "artist": "Dapling (Tumblr)",
             "alias": "",
-            "position": "24",
+            "position": "25",
             "rotated": false,
             "notes": "UW13"
         },
@@ -549,7 +570,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "25",
+            "position": "26",
             "rotated": false,
             "notes": "UW14"
         },
@@ -570,7 +591,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "26",
+            "position": "27",
             "rotated": false,
             "notes": "UW15\nShadowstrike?"
         },
@@ -591,7 +612,7 @@
             "loyalty": "",
             "artist": "Getty Images",
             "alias": "",
-            "position": "27",
+            "position": "28",
             "rotated": false,
             "notes": "CU01"
         },
@@ -612,7 +633,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "28",
+            "position": "29",
             "rotated": false,
             "notes": "CU04"
         },
@@ -633,7 +654,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "29",
+            "position": "30",
             "rotated": false,
             "notes": "CU07"
         },
@@ -654,7 +675,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "30",
+            "position": "31",
             "rotated": false,
             "notes": "CW09"
         },
@@ -675,7 +696,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "31",
+            "position": "32",
             "rotated": false,
             "notes": "CU11"
         },
@@ -696,7 +717,7 @@
             "loyalty": "",
             "artist": "Valve",
             "alias": "",
-            "position": "32",
+            "position": "33",
             "rotated": false,
             "notes": "CU10"
         },
@@ -717,7 +738,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "33",
+            "position": "34",
             "rotated": false,
             "notes": "CU09"
         },
@@ -738,7 +759,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "34",
+            "position": "35",
             "rotated": false,
             "notes": "CG09"
         },
@@ -759,7 +780,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "35",
+            "position": "36",
             "rotated": false,
             "notes": "CU02"
         },
@@ -780,7 +801,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "36",
+            "position": "37",
             "rotated": false,
             "notes": "CR05"
         },
@@ -801,7 +822,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "37",
+            "position": "38",
             "rotated": false,
             "notes": "Adjust\nCU12"
         },
@@ -822,7 +843,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "38",
+            "position": "39",
             "rotated": false,
             "notes": "CU13"
         },
@@ -843,7 +864,7 @@
             "loyalty": "",
             "artist": "Oleksandr",
             "alias": "",
-            "position": "39",
+            "position": "40",
             "rotated": false,
             "notes": "CU14"
         },
@@ -864,7 +885,7 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "40",
+            "position": "41",
             "rotated": false,
             "notes": "CU15"
         },
@@ -885,7 +906,7 @@
             "loyalty": "",
             "artist": "Valve",
             "alias": "",
-            "position": "41",
+            "position": "42",
             "rotated": false,
             "notes": "UU01"
         },
@@ -906,7 +927,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "42",
+            "position": "43",
             "rotated": false,
             "notes": "UG03"
         },
@@ -927,7 +948,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "43",
+            "position": "44",
             "rotated": false,
             "notes": "Flavor text\nUU03"
         },
@@ -948,7 +969,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "44",
+            "position": "45",
             "rotated": false,
             "notes": "UU04"
         },
@@ -969,7 +990,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "45",
+            "position": "46",
             "rotated": false,
             "notes": "UU05"
         },
@@ -990,7 +1011,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "46",
+            "position": "47",
             "rotated": false,
             "notes": "UR16"
         },
@@ -1011,7 +1032,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "47",
+            "position": "48",
             "rotated": false,
             "notes": "UU08"
         },
@@ -1032,7 +1053,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "48",
+            "position": "49",
             "rotated": false,
             "notes": "UW10"
         },
@@ -1053,7 +1074,7 @@
             "loyalty": "",
             "artist": "Christian Anderson",
             "alias": "",
-            "position": "49",
+            "position": "50",
             "rotated": false,
             "notes": "UU09"
         },
@@ -1074,7 +1095,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "50",
+            "position": "51",
             "rotated": false,
             "notes": "UU10"
         },
@@ -1095,7 +1116,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "51",
+            "position": "52",
             "rotated": false,
             "notes": "UU12"
         },
@@ -1116,7 +1137,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "52",
+            "position": "53",
             "rotated": false,
             "notes": "UU11"
         },
@@ -1137,7 +1158,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "53",
+            "position": "54",
             "rotated": false,
             "notes": "UU13"
         },
@@ -1158,7 +1179,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "54",
+            "position": "55",
             "rotated": false,
             "notes": "Flavor text\nUU14"
         },
@@ -1179,7 +1200,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "55",
+            "position": "56",
             "rotated": false,
             "notes": "Flavor text\nCB01"
         },
@@ -1200,7 +1221,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "56",
+            "position": "57",
             "rotated": false,
             "notes": "CB02"
         },
@@ -1221,7 +1242,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "57",
+            "position": "58",
             "rotated": false,
             "notes": "CB03"
         },
@@ -1242,7 +1263,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "58",
+            "position": "59",
             "rotated": false,
             "notes": "CB04"
         },
@@ -1263,7 +1284,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "59",
+            "position": "60",
             "rotated": false,
             "notes": "CB05"
         },
@@ -1284,7 +1305,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "60",
+            "position": "61",
             "rotated": false,
             "notes": "CB06\nDouble check"
         },
@@ -1305,7 +1326,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "61",
+            "position": "62",
             "rotated": false,
             "notes": "CB07"
         },
@@ -1326,7 +1347,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "62",
+            "position": "63",
             "rotated": false,
             "notes": "CB08"
         },
@@ -1347,7 +1368,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "63",
+            "position": "64",
             "rotated": false,
             "notes": "CB09"
         },
@@ -1368,7 +1389,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "64",
+            "position": "65",
             "rotated": false,
             "notes": "CB10"
         },
@@ -1389,7 +1410,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "65",
+            "position": "66",
             "rotated": false,
             "notes": "CB11\nFlavor text"
         },
@@ -1410,7 +1431,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "66",
+            "position": "67",
             "rotated": false,
             "notes": "CB12"
         },
@@ -1431,7 +1452,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "67",
+            "position": "68",
             "rotated": false,
             "notes": "CB13"
         },
@@ -1452,7 +1473,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "68",
+            "position": "69",
             "rotated": false,
             "notes": "CB14"
         },
@@ -1473,7 +1494,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "69",
+            "position": "70",
             "rotated": false,
             "notes": "CB15"
         },
@@ -1494,7 +1515,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "70",
+            "position": "71",
             "rotated": false,
             "notes": "UB01"
         },
@@ -1515,7 +1536,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "71",
+            "position": "72",
             "rotated": false,
             "notes": "UB02"
         },
@@ -1536,7 +1557,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "72",
+            "position": "73",
             "rotated": false,
             "notes": "UB06"
         },
@@ -1557,7 +1578,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "73",
+            "position": "74",
             "rotated": false,
             "notes": "UR06"
         },
@@ -1578,7 +1599,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "74",
+            "position": "75",
             "rotated": false,
             "notes": "UB05"
         },
@@ -1599,7 +1620,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "75",
+            "position": "76",
             "rotated": false,
             "notes": "UB03"
         },
@@ -1620,7 +1641,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "76",
+            "position": "77",
             "rotated": false,
             "notes": "UB07"
         },
@@ -1641,7 +1662,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "77",
+            "position": "78",
             "rotated": false,
             "notes": "UB08"
         },
@@ -1662,7 +1683,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "78",
+            "position": "79",
             "rotated": false,
             "notes": "UB09"
         },
@@ -1683,7 +1704,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "79",
+            "position": "80",
             "rotated": false,
             "notes": "UB10"
         },
@@ -1704,7 +1725,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "80",
+            "position": "81",
             "rotated": false,
             "notes": "UB11"
         },
@@ -1725,7 +1746,7 @@
             "loyalty": "",
             "artist": "XCX: DE (FazFaz)",
             "alias": "",
-            "position": "81",
+            "position": "82",
             "rotated": false,
             "notes": "UB12"
         },
@@ -1746,7 +1767,7 @@
             "loyalty": "",
             "artist": "Unknown",
             "alias": "",
-            "position": "82",
+            "position": "83",
             "rotated": false,
             "notes": "Flavor text\nUB15"
         },
@@ -1767,7 +1788,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "83",
+            "position": "84",
             "rotated": false,
             "notes": "UB13"
         },
@@ -1788,7 +1809,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "84",
+            "position": "85",
             "rotated": false,
             "notes": "UB14"
         },
@@ -1809,7 +1830,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "85",
+            "position": "86",
             "rotated": false,
             "notes": "CR01"
         },
@@ -1830,7 +1851,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "86",
+            "position": "87",
             "rotated": false,
             "notes": "CR02"
         },
@@ -1851,7 +1872,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "87",
+            "position": "88",
             "rotated": false,
             "notes": "CR03"
         },
@@ -1872,7 +1893,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "88",
+            "position": "89",
             "rotated": false,
             "notes": "CR04"
         },
@@ -1893,7 +1914,7 @@
             "loyalty": "",
             "artist": "ishneak (Reddit)",
             "alias": "",
-            "position": "89",
+            "position": "90",
             "rotated": false,
             "notes": "CR06"
         },
@@ -1914,7 +1935,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "90",
+            "position": "91",
             "rotated": false,
             "notes": "CR07"
         },
@@ -1935,7 +1956,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "91",
+            "position": "92",
             "rotated": false,
             "notes": "CR08"
         },
@@ -1956,7 +1977,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "92",
+            "position": "93",
             "rotated": false,
             "notes": "Mmmmmaybe\nCR09"
         },
@@ -1977,7 +1998,7 @@
             "loyalty": "",
             "artist": "Yu Kodama",
             "alias": "",
-            "position": "93",
+            "position": "94",
             "rotated": false,
             "notes": "CR10"
         },
@@ -1998,7 +2019,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "94",
+            "position": "95",
             "rotated": false,
             "notes": "Maybe 2 mana\nCR11"
         },
@@ -2019,7 +2040,7 @@
             "loyalty": "",
             "artist": "Westend61",
             "alias": "",
-            "position": "95",
+            "position": "96",
             "rotated": false,
             "notes": "CR12"
         },
@@ -2040,7 +2061,7 @@
             "loyalty": "",
             "artist": "D.R.I.",
             "alias": "",
-            "position": "96",
+            "position": "97",
             "rotated": false,
             "notes": "CR14"
         },
@@ -2061,7 +2082,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "97",
+            "position": "98",
             "rotated": false,
             "notes": "CR13"
         },
@@ -2082,7 +2103,7 @@
             "loyalty": "",
             "artist": "Kentucky Ballistics",
             "alias": "",
-            "position": "98",
+            "position": "99",
             "rotated": false,
             "notes": "CR15"
         },
@@ -2103,7 +2124,7 @@
             "loyalty": "",
             "artist": "Cpl. Aneshea Yee",
             "alias": "",
-            "position": "99",
+            "position": "100",
             "rotated": false,
             "notes": "UR02"
         },
@@ -2124,7 +2145,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "100",
+            "position": "101",
             "rotated": false,
             "notes": "UR01"
         },
@@ -2145,7 +2166,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "101",
+            "position": "102",
             "rotated": false,
             "notes": "UR03"
         },
@@ -2166,7 +2187,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "102",
+            "position": "103",
             "rotated": false,
             "notes": "UR04"
         },
@@ -2187,7 +2208,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "103",
+            "position": "104",
             "rotated": false,
             "notes": "Buff/adjust\nUR05"
         },
@@ -2208,7 +2229,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "104",
+            "position": "105",
             "rotated": false,
             "notes": "UB04"
         },
@@ -2229,7 +2250,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "105",
+            "position": "106",
             "rotated": false,
             "notes": "UR07"
         },
@@ -2250,7 +2271,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "106",
+            "position": "107",
             "rotated": false,
             "notes": "UR08"
         },
@@ -2271,7 +2292,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "107",
+            "position": "108",
             "rotated": false,
             "notes": "UR09"
         },
@@ -2292,7 +2313,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "108",
+            "position": "109",
             "rotated": false,
             "notes": "UR10"
         },
@@ -2313,7 +2334,7 @@
             "loyalty": "",
             "artist": "Javier Zayas",
             "alias": "",
-            "position": "109",
+            "position": "110",
             "rotated": false,
             "notes": "UR11"
         },
@@ -2334,7 +2355,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "110",
+            "position": "111",
             "rotated": false,
             "notes": "UR12"
         },
@@ -2355,7 +2376,7 @@
             "loyalty": "",
             "artist": "Paul Gypteau",
             "alias": "",
-            "position": "111",
+            "position": "112",
             "rotated": false,
             "notes": "UR13"
         },
@@ -2376,7 +2397,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "112",
+            "position": "113",
             "rotated": false,
             "notes": "UR14"
         },
@@ -2397,7 +2418,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "113",
+            "position": "114",
             "rotated": false,
             "notes": "UR15"
         },
@@ -2418,7 +2439,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "114",
+            "position": "115",
             "rotated": false,
             "notes": "CG02"
         },
@@ -2439,7 +2460,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "115",
+            "position": "116",
             "rotated": false,
             "notes": "CG01"
         },
@@ -2460,7 +2481,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "116",
+            "position": "117",
             "rotated": false,
             "notes": "CG03"
         },
@@ -2481,7 +2502,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "117",
+            "position": "118",
             "rotated": false,
             "notes": "CG04"
         },
@@ -2502,7 +2523,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "118",
+            "position": "119",
             "rotated": false,
             "notes": "CG05"
         },
@@ -2523,7 +2544,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "119",
+            "position": "120",
             "rotated": false,
             "notes": "CG06"
         },
@@ -2544,7 +2565,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "120",
+            "position": "121",
             "rotated": false,
             "notes": "UW11"
         },
@@ -2565,7 +2586,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "121",
+            "position": "122",
             "rotated": false,
             "notes": "Potential change to something else\nCW10"
         },
@@ -2586,7 +2607,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "122",
+            "position": "123",
             "rotated": false,
             "notes": "CU08"
         },
@@ -2607,7 +2628,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "123",
+            "position": "124",
             "rotated": false,
             "notes": "CG10"
         },
@@ -2628,7 +2649,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "124",
+            "position": "125",
             "rotated": false,
             "notes": "CG12"
         },
@@ -2649,7 +2670,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "125",
+            "position": "126",
             "rotated": false,
             "notes": "CG11"
         },
@@ -2670,7 +2691,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "126",
+            "position": "127",
             "rotated": false,
             "notes": "CG13"
         },
@@ -2691,7 +2712,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "127",
+            "position": "128",
             "rotated": false,
             "notes": "CG14"
         },
@@ -2712,7 +2733,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "128",
+            "position": "129",
             "rotated": false,
             "notes": "CG15"
         },
@@ -2733,7 +2754,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "129",
+            "position": "130",
             "rotated": false,
             "notes": "CA02"
         },
@@ -2754,7 +2775,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "130",
+            "position": "131",
             "rotated": false,
             "notes": "Flavor text\nCA03"
         },
@@ -2775,7 +2796,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "131",
+            "position": "132",
             "rotated": false,
             "notes": "CA01"
         },
@@ -2796,7 +2817,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "132",
+            "position": "133",
             "rotated": false,
             "notes": "CA06"
         },
@@ -2817,7 +2838,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "133",
+            "position": "134",
             "rotated": false,
             "notes": "CA04"
         },
@@ -2838,7 +2859,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "134",
+            "position": "135",
             "rotated": false,
             "notes": "CA05"
         },
@@ -2859,7 +2880,7 @@
             "loyalty": "",
             "artist": "Northeastern University",
             "alias": "",
-            "position": "135",
+            "position": "136",
             "rotated": false,
             "notes": "UA02"
         },
@@ -2870,7 +2891,7 @@
             "type": "Artifact Creature \u2014 Human Soldier",
             "number": 275,
             "color_identity": "C",
-            "cost": "{1}",
+            "cost": "{2}",
             "rules_text": "{T}: You and target opponent each draw a card.",
             "flavor_text": "[i]\u201cLook, you agreed to pay for the development of the new water purification plan by this date. You didn't pay. I say it's only fair that you have to pay interest to make up.\u201d[/i]",
             "pt": "1/2",
@@ -2880,7 +2901,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "136",
+            "position": "137",
             "rotated": false,
             "notes": "UA01"
         },
@@ -2901,7 +2922,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "137",
+            "position": "138",
             "rotated": false,
             "notes": "UA03"
         },
@@ -2922,7 +2943,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "138",
+            "position": "139",
             "rotated": false,
             "notes": "UA04"
         },
@@ -2943,7 +2964,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "139",
+            "position": "140",
             "rotated": false,
             "notes": "UA06"
         },
@@ -2964,7 +2985,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "140",
+            "position": "141",
             "rotated": false,
             "notes": "UA07"
         },
@@ -2985,7 +3006,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "141",
+            "position": "142",
             "rotated": false,
             "notes": ""
         },
@@ -3006,7 +3027,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "142",
+            "position": "143",
             "rotated": false,
             "notes": "Flavor text\nUZ01"
         },
@@ -3027,7 +3048,7 @@
             "loyalty": "",
             "artist": "darak77",
             "alias": "",
-            "position": "143",
+            "position": "144",
             "rotated": false,
             "notes": "UZ10"
         },
@@ -3048,7 +3069,7 @@
             "loyalty": "",
             "artist": "Cpl Barry Lloyd",
             "alias": "",
-            "position": "144",
+            "position": "145",
             "rotated": false,
             "notes": "UZ09"
         },
@@ -3069,7 +3090,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "145",
+            "position": "146",
             "rotated": false,
             "notes": "UZ17"
         },
@@ -3090,7 +3111,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "146",
+            "position": "147",
             "rotated": false,
             "notes": "UZ02"
         },
@@ -3111,7 +3132,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "147",
+            "position": "148",
             "rotated": false,
             "notes": "UZ13"
         },
@@ -3132,7 +3153,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "148",
+            "position": "149",
             "rotated": false,
             "notes": "UZ04"
         },
@@ -3153,7 +3174,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "149",
+            "position": "150",
             "rotated": false,
             "notes": "CU05"
         },
@@ -3174,7 +3195,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "150",
+            "position": "151",
             "rotated": false,
             "notes": "UZ06"
         },
@@ -3195,7 +3216,7 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "151",
+            "position": "152",
             "rotated": false,
             "notes": "UZ08"
         },
@@ -3216,7 +3237,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "152",
+            "position": "153",
             "rotated": false,
             "notes": "UZ12"
         },
@@ -3237,7 +3258,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "153",
+            "position": "154",
             "rotated": false,
             "notes": "UZ11"
         },
@@ -3258,7 +3279,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "154",
+            "position": "155",
             "rotated": false,
             "notes": "UZ03"
         },
@@ -3279,7 +3300,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "155",
+            "position": "156",
             "rotated": false,
             "notes": "UZ14"
         },
@@ -3300,7 +3321,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "156",
+            "position": "157",
             "rotated": false,
             "notes": "UZ15"
         },
@@ -3321,7 +3342,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "157",
+            "position": "158",
             "rotated": false,
             "notes": "UZ16"
         },
@@ -3342,7 +3363,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "158",
+            "position": "159",
             "rotated": false,
             "notes": "UZ18"
         },
@@ -3363,7 +3384,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "159",
+            "position": "160",
             "rotated": false,
             "notes": "UZ20"
         },
@@ -3384,7 +3405,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "160",
+            "position": "161",
             "rotated": false,
             "notes": "UZ07"
         },
@@ -3405,7 +3426,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "161",
+            "position": "162",
             "rotated": false,
             "notes": "UZ19"
         },
@@ -3426,7 +3447,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "162",
+            "position": "163",
             "rotated": false,
             "notes": "UG02"
         },
@@ -3447,7 +3468,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "163",
+            "position": "164",
             "rotated": false,
             "notes": "UG01"
         },
@@ -3468,7 +3489,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "164",
+            "position": "165",
             "rotated": false,
             "notes": "UU02"
         },
@@ -3489,7 +3510,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "165",
+            "position": "166",
             "rotated": false,
             "notes": "UG04"
         },
@@ -3510,7 +3531,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "166",
+            "position": "167",
             "rotated": false,
             "notes": "UG05"
         },
@@ -3531,7 +3552,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "167",
+            "position": "168",
             "rotated": false,
             "notes": "UG06"
         },
@@ -3552,7 +3573,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "168",
+            "position": "169",
             "rotated": false,
             "notes": "UG07"
         },
@@ -3573,7 +3594,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "169",
+            "position": "170",
             "rotated": false,
             "notes": "UG08"
         },
@@ -3594,7 +3615,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "170",
+            "position": "171",
             "rotated": false,
             "notes": "UG09"
         },
@@ -3615,7 +3636,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "171",
+            "position": "172",
             "rotated": false,
             "notes": "UG10"
         },
@@ -3636,7 +3657,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "172",
+            "position": "173",
             "rotated": false,
             "notes": "UG11"
         },
@@ -3657,7 +3678,7 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "173",
+            "position": "174",
             "rotated": false,
             "notes": "UG13"
         },
@@ -3678,7 +3699,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "174",
+            "position": "175",
             "rotated": false,
             "notes": "UG14"
         },
@@ -3699,7 +3720,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "175",
+            "position": "176",
             "rotated": false,
             "notes": "UG15"
         },
@@ -3720,7 +3741,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "176",
+            "position": "177",
             "rotated": false,
             "notes": "RW08"
         },
@@ -3741,7 +3762,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "177",
+            "position": "178",
             "rotated": false,
             "notes": ""
         },
@@ -3762,19 +3783,19 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "178",
+            "position": "179",
             "rotated": false,
             "notes": "RB04"
         },
         {
-            "card_name": "Ambush Camoflauge",
+            "card_name": "Ambush Camouflage",
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
             "number": 181,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Cast this spell only during your declare attackers step, before blockers are declared.\nExile all nontoken attacking creatures you control in a face-down pile, shuffle that pile, then return them to the battlefield face-down and attacking. [i](They're colorless 2/2 creatures.)[/i] After blockers are declared, turn all face-down creatures you control face-up.",
+            "rules_text": "Cast this spell only during your declare attackers step, before blockers are declared.\nExile all nontoken attacking creatures you control, shuffle them in a face-down pile, then return them to the battlefield tapped and attacking. [i](They're colorless 2/2 creatures.)[/i] When blockers are next declared, turn all face-down creatures you control face-up.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3783,7 +3804,7 @@
             "loyalty": "",
             "artist": "Peopleimages.com",
             "alias": "",
-            "position": "179",
+            "position": "180",
             "rotated": false,
             "notes": "RG01"
         },
@@ -3804,7 +3825,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "180",
+            "position": "181",
             "rotated": false,
             "notes": "RB02"
         },
@@ -3825,7 +3846,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "181",
+            "position": "182",
             "rotated": false,
             "notes": "RZ06"
         },
@@ -3846,7 +3867,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "182",
+            "position": "183",
             "rotated": false,
             "notes": "MZ01"
         },
@@ -3867,7 +3888,7 @@
             "loyalty": "",
             "artist": "XDX: DE",
             "alias": "",
-            "position": "183",
+            "position": "184",
             "rotated": false,
             "notes": ""
         },
@@ -3888,42 +3909,9 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "184",
+            "position": "185",
             "rotated": false,
             "notes": "MG01"
-        },
-        {
-            "card_name": "Elma, BLADE Colonel",
-            "color": "WUG",
-            "rarity": "mythic",
-            "type": "Legendary Artifact Creature \u2014 Human Scout",
-            "number": 238,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "At the beginning of combat on your turn, Elma explores. When she does, return up to one target artifact card from your graveyard to your hand.\n{4}{G}{W}{U}: Transform Elma. Activate only as a sorcery.",
-            "flavor_text": "[i]\u201cStrength comes from experience. That's\ntrue on any planet.\u201d[/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "XCX",
-            "loyalty": "",
-            "artist": "Merves_artwork (X)",
-            "alias": "",
-            "position": "185",
-            "card_name2": "Elma, Savior of the Ares",
-            "color2": "",
-            "type2": "Legendary Creature \u2014 Alien Scout",
-            "cost2": "",
-            "rules_text2": "As this creature transforms into Elma, Savior of the Ares, you get an emblem with \u201cYou have no maximum hand size.\u201d\nWhenever you cast an artifact spell, copy it. Draw a card.",
-            "flavor_text2": "[i]\u201cThank you for accepting me as a friend. New LA is my home now. Let's do all we can to make it a better place.\u201d[/i]",
-            "pt2": "4/4",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Alejandro Tio Gary (Artstation)",
-            "alias2": "",
-            "rules_text3": "",
-            "rotated": false,
-            "notes": "MZ03"
         },
         {
             "card_name": "Lugalbanda, Wanderer-King",
@@ -3954,10 +3942,10 @@
             "number": 208,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i]Terrible, you? \u2014 [/i][i][/i]Put a +1/+1 counter on target creature you control.\n[i]Better than you, meaning... \u2014 [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 [i]Terrible, you? \u2014 [/i][i][/i]Put a +1/+1 counter on target creature you control.\nIII \u2014 [i]Better than you, meaning... \u2014 [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i]Terrible, you? \u2014 [/i][i][/i]Put a +1/+1 counter on target creature you control.\n[i]Better than you, meaning... \u2014 [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 [i]Terrible, you? \u2014 [/i][i][/i]Put a +1/+1 counter on target creature you control.\nIII \u2014 [i]Better than you, meaning... \u2014 [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.",
             "shape": "saga",
             "set": "XCX",
             "loyalty": "",
@@ -4428,10 +4416,10 @@
             "number": 226,
             "color_identity": "G",
             "cost": "{6}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nCreate a token that's a copy of target creature you control. When you do, it fights target creature you don't control.\nCreate Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2014 Create a token that's a copy of target creature you control. When you do, it fights target creature you don't control.\nIV \u2014 Create Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nCreate a token that's a copy of target creature you control. When you do, it fights target creature you don't control.\nCreate Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II, III \u2014 Create a token that's a copy of target creature you control. When you do, it fights target creature you don't control.\nIV \u2014 Create Ozuchi Caladar, a legendary 10/10 red Robot artifact creature token with vigilance, trample, and haste.",
             "shape": "saga",
             "set": "XCX",
             "loyalty": "",
@@ -5499,10 +5487,10 @@
             "number": 146,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget creature an opponent controls deals damage equal to its power to another target creature that player controls.\n[i]Blitzkrieg[/i] \u2014 Whenever a creature you control attacks this turn, put a +1/+1 counter on it.\n[i]Brotherly Love[/i] \u2014 Whenever a creature you control deals combat damage this turn, create a Treasure token.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature an opponent controls deals damage equal to its power to another target creature that player controls.\nII \u2014 [i]Blitzkrieg[/i] \u2014 Whenever a creature you control attacks this turn, put a +1/+1 counter on it.\nIII \u2014 [i]Brotherly Love[/i] \u2014 Whenever a creature you control deals combat damage this turn, create a Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget creature an opponent controls deals damage equal to its power to another target creature that player controls.\n[i]Blitzkrieg[/i] \u2014 Whenever a creature you control attacks this turn, put a +1/+1 counter on it.\n[i]Brotherly Love[/i] \u2014 Whenever a creature you control deals combat damage this turn, create a Treasure token.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature an opponent controls deals damage equal to its power to another target creature that player controls.\nII \u2014 [i]Blitzkrieg[/i] \u2014 Whenever a creature you control attacks this turn, put a +1/+1 counter on it.\nIII \u2014 [i]Brotherly Love[/i] \u2014 Whenever a creature you control deals combat damage this turn, create a Treasure token.",
             "shape": "saga",
             "set": "XCX",
             "loyalty": "",
@@ -5618,21 +5606,21 @@
             "notes": ""
         },
         {
-            "card_name": "Lao, Traitor to Humanity",
-            "color": "BG",
+            "card_name": "Luxaar, Humanity's End",
+            "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Artifact Creature \u2014 Human Scout Spy",
-            "number": 251,
-            "color_identity": "BG",
-            "cost": "{3}{B}{G}",
-            "rules_text": "When Lao enters, mill five cards. You may put a permanent card from among the milled cards onto the battlefield under an opponent's control. If you do, you gain X life, they lose X life, and you draw X cards, where X is that card's mana value.\n[i](Melds with Luxaar, Humanity's End.)[/i]",
+            "type": "Legendary Creature \u2014 Alien Advisor",
+            "number": 256,
+            "color_identity": "UBG",
+            "cost": "{4}{U}{B}",
+            "rules_text": "When Luxaar enters, gain control of target nonland permanent you don't control. If you owned that permanent, that opponent discards X cards, where X is that card's mana value.\n{4}{G}, Exile this card and a card named Lao, Traitor to Humanity from your graveyard: Meld them into Lao, Chimera. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
-            "pt": "5/5",
+            "pt": "6/6",
             "special_text": "",
             "shape": "transform double faced",
             "set": "XCX",
             "loyalty": "",
-            "artist": "LaoHuangsBitch (X)",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "266",
             "card_name2": "Lao, Chimera",
@@ -5648,28 +5636,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "MZ04"
-        },
-        {
-            "card_name": "Luxaar, Humanity's End",
-            "color": "UB",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Alien Advisor",
-            "number": 256,
-            "color_identity": "UBG",
-            "cost": "{4}{U}{B}",
-            "rules_text": "When Luxaar enters, gain control of target nonland permanent you don't control. If you owned that permanent, that opponent discards X cards, where X is that card's mana value.\n{4}{G}, Exile this card and a card named Lao, Traitor to Humanity from your graveyard: Meld them into Lao, Chimera. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
-            "pt": "6/6",
-            "special_text": "",
-            "shape": "normal",
-            "set": "XCX",
-            "loyalty": "",
-            "artist": "XCX: DE",
-            "alias": "",
-            "position": "267",
-            "rotated": false,
-            "notes": "MZ05"
+            "notes": "MZ05\nMZ04"
         },
         {
             "card_name": "Ma-non Ship Core",
@@ -5688,7 +5655,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Caged Sun",
-            "position": "268",
+            "position": "267",
             "rotated": false,
             "notes": ""
         },
@@ -5709,7 +5676,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Jor Kadeen, the Prevailer",
-            "position": "269",
+            "position": "268",
             "rotated": false,
             "notes": ""
         },
@@ -5730,7 +5697,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Mox Opal",
-            "position": "270",
+            "position": "269",
             "rotated": false,
             "notes": ""
         },
@@ -5751,7 +5718,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "rotated": false,
             "notes": "RU02"
         },
@@ -5772,7 +5739,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "rotated": false,
             "notes": "RA03"
         },
@@ -5793,7 +5760,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Boseiju, Who Endures",
-            "position": "273",
+            "position": "272",
             "rotated": false,
             "notes": ""
         },
@@ -5814,7 +5781,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Eiganjo, Seat of the Empire",
-            "position": "274",
+            "position": "273",
             "rotated": false,
             "notes": ""
         },
@@ -5835,7 +5802,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Otawara, Soaring City",
-            "position": "275",
+            "position": "274",
             "rotated": false,
             "notes": ""
         },
@@ -5856,7 +5823,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Sokenzan, Crucible of Defiance",
-            "position": "276",
+            "position": "275",
             "rotated": false,
             "notes": ""
         },
@@ -5877,7 +5844,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Takenuma, Abandoned Mire",
-            "position": "277",
+            "position": "276",
             "rotated": false,
             "notes": ""
         },
@@ -5898,7 +5865,7 @@
             "loyalty": "",
             "artist": "mirassi1205 (Reddit)",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "rotated": false,
             "notes": "RZ09"
         },
@@ -5919,7 +5886,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "rotated": false,
             "notes": ""
         },
@@ -5940,7 +5907,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "rotated": false,
             "notes": ""
         },
@@ -5961,7 +5928,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "rotated": false,
             "notes": ""
         },
@@ -5982,7 +5949,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "rotated": false,
             "notes": ""
         },
@@ -6003,7 +5970,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "rotated": false,
             "notes": ""
         },
@@ -6024,7 +5991,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "rotated": false,
             "notes": ""
         },
@@ -6045,7 +6012,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "rotated": false,
             "notes": ""
         },
@@ -6066,7 +6033,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "rotated": false,
             "notes": ""
         },
@@ -6087,7 +6054,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "rotated": false,
             "notes": ""
         },
@@ -6108,7 +6075,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "rotated": false,
             "notes": ""
         },
@@ -6124,34 +6091,13 @@
             "flavor_text": "[i]\u201cRyyz. Dagahn want to join fight.\u201d[/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "normal",
-            "set": "XCX",
-            "loyalty": "",
-            "artist": "XCX: DE",
-            "alias": "",
-            "position": "289",
-            "rotated": false,
-            "notes": "RZ02"
-        },
-        {
-            "card_name": "Ryyz, Ganglion's Rise",
-            "color": "U",
-            "rarity": "rare",
-            "type": "Legendary Creature \u2014 Alien Warlock",
-            "number": 77,
-            "color_identity": "UBR",
-            "cost": "{3}{U}{U}",
-            "rules_text": "Flying\nOther creatures you control have flying.\n[i](Melds with Dagahn, Ganglion Crusher.)[/i]",
-            "flavor_text": "[i]\u201cOur people can't \u2018coexist peacefully.' We can't coexist, period! It's us or you, you arrogant worm \u2014 no negotiation, no compromise, and no mercy!\u201d[/i]",
-            "pt": "3/4",
-            "special_text": "",
             "shape": "transform double faced",
             "set": "XCX",
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "290",
-            "card_name2": "Zu Phrag, the Sky Asunder",
+            "position": "288",
+            "card_name2": "Zu Pharg, the Sky Asunder",
             "color2": "",
             "type2": "Legendary Artifact Creature \u2014 Construct",
             "cost2": "",
@@ -6164,7 +6110,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "RU09"
+            "notes": "RZ02\nRU09"
         },
         {
             "card_name": "Strike Launcher Zig",
@@ -6183,7 +6129,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "291",
+            "position": "289",
             "rotated": false,
             "notes": "RB05"
         },
@@ -6204,7 +6150,7 @@
             "loyalty": "",
             "artist": "Lance Cpl. Collette Hagen",
             "alias": "",
-            "position": "292",
+            "position": "290",
             "rotated": false,
             "notes": "RR04"
         },
@@ -6225,7 +6171,7 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "293",
+            "position": "291",
             "rotated": false,
             "notes": "RR08"
         },
@@ -6246,7 +6192,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "294",
+            "position": "292",
             "rotated": false,
             "notes": "UA05"
         },
@@ -6267,7 +6213,7 @@
             "loyalty": "",
             "artist": "Scytoth (Pinterest)",
             "alias": "",
-            "position": "295",
+            "position": "293",
             "rotated": false,
             "notes": "MZ06"
         },
@@ -6288,7 +6234,7 @@
             "loyalty": "",
             "artist": "\n\u306f\u306a\u3076\u3055 (pixiv)",
             "alias": "",
-            "position": "296",
+            "position": "294",
             "rotated": false,
             "notes": "RZ04"
         },
@@ -6309,7 +6255,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "297",
+            "position": "295",
             "rotated": false,
             "notes": "RR02"
         },
@@ -6330,7 +6276,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "298",
+            "position": "296",
             "rotated": false,
             "notes": "RB03"
         },
@@ -6351,7 +6297,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "299",
+            "position": "297",
             "rotated": false,
             "notes": "RW10"
         },
@@ -6372,7 +6318,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "300",
+            "position": "298",
             "rotated": false,
             "notes": "RW06"
         },
@@ -6393,7 +6339,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "301",
+            "position": "299",
             "rotated": false,
             "notes": "UG16"
         },
@@ -6414,7 +6360,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "302",
+            "position": "300",
             "rotated": false,
             "notes": "MU01"
         },
@@ -6435,7 +6381,7 @@
             "loyalty": "",
             "artist": "VoidKissr (Reddit)",
             "alias": "",
-            "position": "303",
+            "position": "301",
             "rotated": false,
             "notes": "MB02"
         },
@@ -6456,7 +6402,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "304",
+            "position": "302",
             "rotated": false,
             "notes": "MA01"
         },
@@ -6477,7 +6423,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "305",
+            "position": "303",
             "rotated": false,
             "notes": "RG06"
         },
@@ -6498,7 +6444,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "306",
+            "position": "304",
             "rotated": false,
             "notes": "RZ16"
         },
@@ -6519,7 +6465,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "307",
+            "position": "305",
             "rotated": false,
             "notes": ""
         },
@@ -6540,7 +6486,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "308",
+            "position": "306",
             "rotated": false,
             "notes": ""
         },
@@ -6561,7 +6507,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "309",
+            "position": "307",
             "rotated": false,
             "notes": ""
         },
@@ -6582,7 +6528,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "310",
+            "position": "308",
             "rotated": false,
             "notes": ""
         },
@@ -6603,7 +6549,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "311",
+            "position": "309",
             "rotated": false,
             "notes": ""
         },
@@ -6624,7 +6570,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Phoenix Fleet Airship",
-            "position": "312",
+            "position": "310",
             "rotated": false,
             "notes": ""
         },
@@ -6645,7 +6591,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "313",
+            "position": "311",
             "rotated": false,
             "notes": "CU06"
         },
@@ -6666,7 +6612,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Equinox",
-            "position": "314",
+            "position": "312",
             "rotated": false,
             "notes": ""
         },
@@ -6687,7 +6633,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "315",
+            "position": "313",
             "rotated": false,
             "notes": "RW09"
         },
@@ -6708,7 +6654,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "316",
+            "position": "314",
             "rotated": false,
             "notes": "RU03"
         },
@@ -6729,7 +6675,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "317",
+            "position": "315",
             "rotated": false,
             "notes": "MR01"
         },
@@ -6738,7 +6684,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Human Soldier",
-            "number": 13,
+            "number": 12,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -6750,7 +6696,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "318",
+            "position": "316",
             "rotated": false,
             "notes": ""
         },
@@ -6759,7 +6705,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Food",
-            "number": 12,
+            "number": 11,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
@@ -6771,7 +6717,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "319",
+            "position": "317",
             "rotated": false,
             "notes": ""
         },
@@ -6780,7 +6726,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 15,
+            "number": 14,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
@@ -6792,7 +6738,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "320",
+            "position": "318",
             "rotated": false,
             "notes": ""
         },
@@ -6801,7 +6747,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Vehicle",
-            "number": 16,
+            "number": 15,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -6813,7 +6759,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "321",
+            "position": "319",
             "rotated": false,
             "notes": ""
         },
@@ -6822,7 +6768,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Legendary Artifact Creature \u2014 Robot",
-            "number": 9,
+            "number": 8,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Vigilance, trample, haste",
@@ -6834,7 +6780,7 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "322",
+            "position": "320",
             "rotated": false,
             "notes": ""
         },
@@ -6855,7 +6801,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "323",
+            "position": "321",
             "rotated": false,
             "notes": ""
         },
@@ -6864,7 +6810,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Chimera Horror",
-            "number": 8,
+            "number": 7,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -6876,7 +6822,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "324",
+            "position": "322",
             "rotated": false,
             "notes": ""
         },
@@ -6885,7 +6831,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Enchantment \u2014 Aura",
-            "number": 3,
+            "number": 2,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Enchant creature\nWhen enchanted creature dies, draw a card.",
@@ -6897,7 +6843,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "325",
+            "position": "323",
             "rotated": false,
             "notes": ""
         },
@@ -6906,7 +6852,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Boar",
-            "number": 10,
+            "number": 9,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -6918,7 +6864,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "326",
+            "position": "324",
             "rotated": false,
             "notes": ""
         },
@@ -6927,7 +6873,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Sheep",
-            "number": 5,
+            "number": 4,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -6939,7 +6885,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "327",
+            "position": "325",
             "rotated": false,
             "notes": ""
         },
@@ -6960,7 +6906,7 @@
             "loyalty": "",
             "artist": "Konami (MGR:R)",
             "alias": "",
-            "position": "328",
+            "position": "326",
             "rotated": false,
             "notes": "UG12"
         },
@@ -6981,7 +6927,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "329",
+            "position": "327",
             "rotated": false,
             "notes": "RB01"
         },
@@ -7002,7 +6948,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "330",
+            "position": "328",
             "rotated": false,
             "notes": "RW05"
         },
@@ -7023,7 +6969,7 @@
             "loyalty": "",
             "artist": "John Gast",
             "alias": "",
-            "position": "331",
+            "position": "329",
             "rotated": false,
             "notes": "MG02"
         },
@@ -7032,7 +6978,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Alien",
-            "number": 4,
+            "number": 3,
             "color_identity": "W",
             "cost": "",
             "rules_text": "Defender [i](This creature can't attack.)[/i]",
@@ -7044,7 +6990,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "332",
+            "position": "330",
             "rotated": false,
             "notes": ""
         },
@@ -7065,7 +7011,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "333",
+            "position": "331",
             "rotated": false,
             "notes": "RZ03"
         },
@@ -7086,7 +7032,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "334",
+            "position": "332",
             "rotated": false,
             "notes": "RZ14"
         },
@@ -7107,7 +7053,7 @@
             "loyalty": "",
             "artist": "Lisa Westbrook (Pinterest)",
             "alias": "",
-            "position": "335",
+            "position": "333",
             "rotated": false,
             "notes": "RZ08"
         },
@@ -7128,7 +7074,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "336",
+            "position": "334",
             "rotated": false,
             "notes": "RZ13"
         },
@@ -7149,7 +7095,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "337",
+            "position": "335",
             "rotated": false,
             "notes": "RU11"
         },
@@ -7170,7 +7116,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "338",
+            "position": "336",
             "rotated": false,
             "notes": "RW02"
         },
@@ -7191,7 +7137,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "339",
+            "position": "337",
             "rotated": false,
             "notes": ""
         },
@@ -7212,7 +7158,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Masako, the Humorless",
-            "position": "340",
+            "position": "338",
             "rotated": false,
             "notes": ""
         },
@@ -7233,7 +7179,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Zodiac Dragon",
-            "position": "341",
+            "position": "339",
             "rotated": false,
             "notes": ""
         },
@@ -7254,7 +7200,7 @@
             "loyalty": "",
             "artist": "Laughing Colors (Facebook)",
             "alias": "",
-            "position": "342",
+            "position": "340",
             "rotated": false,
             "notes": "RZ19"
         },
@@ -7275,7 +7221,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "343",
+            "position": "341",
             "rotated": false,
             "notes": "MZ08"
         },
@@ -7287,7 +7233,7 @@
             "number": 235,
             "color_identity": "WBRG",
             "cost": "{B}{R}{G}{W}",
-            "rules_text": "[i]Punchity Punchathon[/i] \u2014 Whenever Dadaan or an Alien you control deals combat damage, put a +1/+1 counter on it.\n[i]Dadaan Squad! \u2014 [/i]At the beginning of each upkeep, create a black 1/1 Alien creature token.\n[i]Absolute Demolisher 2056 [/i]\u2014 Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card.",
+            "rules_text": "[i]Punchity Punchathon[/i] \u2014 Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.\n[i]Dadaan Squad! \u2014 [/i]At the beginning of each upkeep, create a black 1/1 Alien creature token.\n[i]Absolute Demolisher 2056 [/i]\u2014 Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -7296,7 +7242,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "344",
+            "position": "342",
             "rotated": false,
             "notes": "Tweak\nMZ02"
         },
@@ -7317,7 +7263,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "345",
+            "position": "343",
             "rotated": false,
             "notes": "RR07"
         },
@@ -7338,7 +7284,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "346",
+            "position": "344",
             "rotated": false,
             "notes": "RR03"
         },
@@ -7359,7 +7305,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "347",
+            "position": "345",
             "rotated": false,
             "notes": "RZ12"
         },
@@ -7380,7 +7326,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "348",
+            "position": "346",
             "rotated": false,
             "notes": "RB07"
         },
@@ -7401,7 +7347,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "349",
+            "position": "347",
             "rotated": false,
             "notes": "RW04"
         },
@@ -7410,7 +7356,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Nopon",
-            "number": 11,
+            "number": 10,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -7422,7 +7368,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "350",
+            "position": "348",
             "rotated": false,
             "notes": ""
         },
@@ -7443,7 +7389,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "351",
+            "position": "349",
             "rotated": false,
             "notes": ""
         },
@@ -7464,7 +7410,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Esper Sentinel",
-            "position": "352",
+            "position": "350",
             "rotated": false,
             "notes": ""
         },
@@ -7485,7 +7431,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Dong Zhou, the Tyrant",
-            "position": "353",
+            "position": "351",
             "rotated": false,
             "notes": ""
         },
@@ -7506,7 +7452,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Wolf Pack",
-            "position": "354",
+            "position": "352",
             "rotated": false,
             "notes": ""
         },
@@ -7527,7 +7473,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Jaws, Relentless Predator",
-            "position": "355",
+            "position": "353",
             "rotated": false,
             "notes": ""
         },
@@ -7548,7 +7494,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "356",
+            "position": "354",
             "rotated": false,
             "notes": ""
         },
@@ -7569,7 +7515,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Piracy",
-            "position": "357",
+            "position": "355",
             "rotated": false,
             "notes": ""
         },
@@ -7590,7 +7536,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Amulet of Vigor",
-            "position": "358",
+            "position": "356",
             "rotated": false,
             "notes": ""
         },
@@ -7611,7 +7557,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Hunting Velociraptor",
-            "position": "359",
+            "position": "357",
             "rotated": false,
             "notes": ""
         },
@@ -7632,7 +7578,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Spitting Dilophosaurus",
-            "position": "360",
+            "position": "358",
             "rotated": false,
             "notes": ""
         },
@@ -7653,7 +7599,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "361",
+            "position": "359",
             "rotated": false,
             "notes": ""
         },
@@ -7674,7 +7620,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Simulacrum Synthesizer",
-            "position": "362",
+            "position": "360",
             "rotated": false,
             "notes": ""
         },
@@ -7695,7 +7641,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "363",
+            "position": "361",
             "rotated": false,
             "notes": ""
         },
@@ -7716,7 +7662,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Urborg, Tomb of Yawgmoth",
-            "position": "364",
+            "position": "362",
             "rotated": false,
             "notes": ""
         },
@@ -7737,7 +7683,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Yavimaya, Cradle of Growth",
-            "position": "365",
+            "position": "363",
             "rotated": false,
             "notes": ""
         },
@@ -7758,7 +7704,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "366",
+            "position": "364",
             "rotated": false,
             "notes": "CW11"
         },
@@ -7779,7 +7725,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "367",
+            "position": "365",
             "rotated": false,
             "notes": ""
         },
@@ -7800,7 +7746,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "368",
+            "position": "366",
             "rotated": false,
             "notes": ""
         },
@@ -7821,7 +7767,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "369",
+            "position": "367",
             "rotated": false,
             "notes": ""
         },
@@ -7842,7 +7788,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "370",
+            "position": "368",
             "rotated": false,
             "notes": ""
         },
@@ -7863,7 +7809,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "371",
+            "position": "369",
             "rotated": false,
             "notes": ""
         },
@@ -7884,7 +7830,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "372",
+            "position": "370",
             "rotated": false,
             "notes": ""
         },
@@ -7905,7 +7851,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "373",
+            "position": "371",
             "rotated": false,
             "notes": ""
         },
@@ -7926,7 +7872,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "374",
+            "position": "372",
             "rotated": false,
             "notes": "Name change?"
         },
@@ -7947,7 +7893,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "375",
+            "position": "373",
             "rotated": false,
             "notes": ""
         },
@@ -7968,7 +7914,7 @@
             "loyalty": "",
             "artist": "XCX:DE",
             "alias": "",
-            "position": "376",
+            "position": "374",
             "rotated": false,
             "notes": ""
         },
@@ -7989,7 +7935,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Mu Yanling, Wind Rider",
-            "position": "377",
+            "position": "375",
             "rotated": false,
             "notes": ""
         },
@@ -8010,7 +7956,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "378",
+            "position": "376",
             "rotated": false,
             "notes": "RU08"
         },
@@ -8031,7 +7977,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "379",
+            "position": "377",
             "rotated": false,
             "notes": "RU04"
         },
@@ -8052,7 +7998,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "380",
+            "position": "378",
             "rotated": false,
             "notes": "Flavor text\nchange to enchantment?\nUB16"
         },
@@ -8073,7 +8019,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "381",
+            "position": "379",
             "rotated": false,
             "notes": "UU15"
         },
@@ -8085,7 +8031,7 @@
             "number": 45,
             "color_identity": "WRG",
             "cost": "{2}{R}{GW}",
-            "rules_text": "Vigilance\nWhenever you discover, investigate, scry, surveil, or seek one or more cards, Mia deals 2 damage to each opponent and you gain 2 life.",
+            "rules_text": "Vigilance\nWhenever you discover, investigate, scry, surveil, or seek one or more cards, Mia deals 2 damage to each opponent and you gain 2 life. [i](You can't seek in paper Magic.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -8094,7 +8040,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Val, Marooned Surveryor",
-            "position": "382",
+            "position": "380",
             "rotated": false,
             "notes": ""
         },
@@ -8115,7 +8061,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Rhystic Cave",
-            "position": "383",
+            "position": "381",
             "rotated": false,
             "notes": ""
         },
@@ -8136,7 +8082,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "384",
+            "position": "382",
             "rotated": false,
             "notes": "UU06"
         },
@@ -8157,7 +8103,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "385",
+            "position": "383",
             "rotated": false,
             "notes": "RG09"
         },
@@ -8166,7 +8112,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Legendary Artifact \u2014 Equipment",
-            "number": 14,
+            "number": 13,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Equipped creature gets +X/+X, where X is the number of creatures you control.\nEquip {3}",
@@ -8178,7 +8124,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "386",
+            "position": "384",
             "rotated": false,
             "notes": ""
         },
@@ -8199,7 +8145,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Priest of Yawgmoth",
-            "position": "387",
+            "position": "385",
             "rotated": false,
             "notes": ""
         },
@@ -8220,7 +8166,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "388",
+            "position": "386",
             "rotated": false,
             "notes": ""
         },
@@ -8241,7 +8187,7 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "389",
+            "position": "387",
             "rotated": false,
             "notes": "MW03"
         },
@@ -8262,7 +8208,7 @@
             "loyalty": "",
             "artist": "Monolith Soft",
             "alias": "",
-            "position": "390",
+            "position": "388",
             "rotated": false,
             "notes": "MB03"
         },
@@ -8283,7 +8229,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "391",
+            "position": "389",
             "rotated": false,
             "notes": "RG1"
         },
@@ -8304,30 +8250,9 @@
             "loyalty": "",
             "artist": "XCX",
             "alias": "",
-            "position": "392",
+            "position": "390",
             "rotated": false,
             "notes": "UU16"
-        },
-        {
-            "card_name": "",
-            "color": "",
-            "rarity": "common",
-            "type": "",
-            "number": 1,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "[i](You can mark this card to represent a double-faced card in your library or hand.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "XCX",
-            "loyalty": "",
-            "artist": "XCX: DE",
-            "alias": "",
-            "position": "393",
-            "rotated": false,
-            "notes": ""
         },
         {
             "card_name": "FrontierNav Developer",
@@ -8346,7 +8271,7 @@
             "loyalty": "",
             "artist": "BalanceFormcreative",
             "alias": "",
-            "position": "394",
+            "position": "391",
             "rotated": false,
             "notes": "UZ05"
         },
@@ -8367,7 +8292,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "395",
+            "position": "392",
             "rotated": false,
             "notes": "RZ20"
         },
@@ -8388,7 +8313,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Zamriel, Seraph of Steel",
-            "position": "396",
+            "position": "393",
             "rotated": false,
             "notes": ""
         },
@@ -8409,7 +8334,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "Talon Gates of Madara",
-            "position": "397",
+            "position": "394",
             "rotated": false,
             "notes": ""
         },
@@ -8430,7 +8355,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "398",
+            "position": "395",
             "rotated": false,
             "notes": "UW15"
         },
@@ -8442,16 +8367,16 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget creature can't be blocked this turn.\nTarget creature must block this turn if able.\nChoose one \u2014\n\u2022 Draw a card.\n\u2022 Return target creature to its owner's hand.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature can't be blocked this turn.\nII \u2014 Target creature must block this turn if able.\nIII \u2014 Choose one \u2014\n\u2022 Draw a card.\n\u2022 Return target creature to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nTarget creature can't be blocked this turn.\nTarget creature must block this turn if able.\nChoose one \u2014\n\u2022 Draw a card.\n\u2022 Return target creature to its owner's hand.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Target creature can't be blocked this turn.\nII \u2014 Target creature must block this turn if able.\nIII \u2014 Choose one \u2014\n\u2022 Draw a card.\n\u2022 Return target creature to its owner's hand.",
             "shape": "saga",
             "set": "XCX",
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "399",
+            "position": "396",
             "rotated": false,
             "notes": "CU16"
         },
@@ -8463,16 +8388,16 @@
             "number": 150,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nHunt target creature you don't control. [i](Create a Hunted Aura token attached to it with \u201cWhen enchanted creature dies, draw a card.\u201d)[/i]\nCreate a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nPut a +1/+1 counter on each of up to two target creatures you control.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with \u201cWhen enchanted creature dies, draw a card.\u201d)[/i]\nII \u2014 Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nIII \u2014 Put a +1/+1 counter on each of up to two target creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nHunt target creature you don't control. [i](Create a Hunted Aura token attached to it with \u201cWhen enchanted creature dies, draw a card.\u201d)[/i]\nCreate a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nPut a +1/+1 counter on each of up to two target creatures you control.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with \u201cWhen enchanted creature dies, draw a card.\u201d)[/i]\nII \u2014 Create a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nIII \u2014 Put a +1/+1 counter on each of up to two target creatures you control.",
             "shape": "saga",
             "set": "XCX",
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "400",
+            "position": "397",
             "rotated": false,
             "notes": "CR16"
         },
@@ -8481,7 +8406,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Alien",
-            "number": 6,
+            "number": 5,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -8493,7 +8418,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "401",
+            "position": "398",
             "rotated": false,
             "notes": ""
         },
@@ -8502,7 +8427,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Legendary Artifact \u2014 Vehicle",
-            "number": 7,
+            "number": 6,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Menace, trample, haste\nCrew 1",
@@ -8514,7 +8439,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "402",
+            "position": "399",
             "rotated": false,
             "notes": ""
         },
@@ -8535,7 +8460,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "403",
+            "position": "400",
             "rotated": false,
             "notes": "CU03"
         },
@@ -8556,7 +8481,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "404",
+            "position": "401",
             "rotated": false,
             "notes": ""
         },
@@ -8577,7 +8502,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "405",
+            "position": "402",
             "rotated": false,
             "notes": ""
         },
@@ -8598,7 +8523,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "406",
+            "position": "403",
             "rotated": false,
             "notes": ""
         },
@@ -8619,7 +8544,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "407",
+            "position": "404",
             "rotated": false,
             "notes": ""
         },
@@ -8640,7 +8565,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "408",
+            "position": "405",
             "rotated": false,
             "notes": ""
         },
@@ -8649,7 +8574,7 @@
             "color": "",
             "rarity": "common",
             "type": "Emblem",
-            "number": 2,
+            "number": 16,
             "color_identity": "C",
             "cost": "",
             "rules_text": "You have no maximum hand size.",
@@ -8661,7 +8586,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "409",
+            "position": "406",
             "rotated": false,
             "notes": ""
         },
@@ -8682,7 +8607,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "410",
+            "position": "407",
             "rotated": false,
             "notes": ""
         },
@@ -8703,7 +8628,7 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "411",
+            "position": "408",
             "rotated": false,
             "notes": ""
         },
@@ -8724,9 +8649,108 @@
             "loyalty": "",
             "artist": "XCX: DE",
             "alias": "",
-            "position": "412",
+            "position": "409",
             "rotated": false,
             "notes": ""
+        },
+        {
+            "card_name": "Elma, BLADE Colonel",
+            "color": "WUG",
+            "rarity": "mythic",
+            "type": "Legendary Artifact Creature \u2014 Human Scout",
+            "number": 238,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "At the beginning of combat on your turn, Elma explores. When she does, return up to one target artifact card from your graveyard to your hand.\n{4}{G}{W}{U}: Transform Elma. Activate only as a sorcery.",
+            "flavor_text": "[i]\u201cStrength comes from experience. That's\ntrue on any planet.\u201d[/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "XCX",
+            "loyalty": "",
+            "artist": "Merves_artwork (X)",
+            "alias": "",
+            "position": "410",
+            "card_name2": "Elma, Savior of the Ares",
+            "color2": "",
+            "type2": "Legendary Creature \u2014 Alien Scout",
+            "cost2": "",
+            "rules_text2": "As this creature transforms into Elma, Savior of the Ares, you get an emblem with \u201cYou have no maximum hand size.\u201d\nWhenever you cast an artifact spell, copy it. Draw a card.",
+            "flavor_text2": "[i]\u201cThank you for accepting me as a friend. New LA is my home now. Let's do all we can to make it a better place.\u201d[/i]",
+            "pt2": "4/4",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Alejandro Tio Gary (Artstation)",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "MZ03\nMZ03"
+        },
+        {
+            "card_name": "Ryyz, Ganglion's Rise",
+            "color": "U",
+            "rarity": "rare",
+            "type": "Legendary Creature \u2014 Alien Warlock",
+            "number": 77,
+            "color_identity": "UBR",
+            "cost": "{3}{U}{U}",
+            "rules_text": "Flying\nOther creatures you control have flying.\n[i](Melds with Dagahn, Ganglion Crusher.)[/i]",
+            "flavor_text": "[i]\u201cOur people can't \u2018coexist peacefully.' We can't coexist, period! It's us or you, you arrogant worm \u2014 no negotiation, no compromise, and no mercy!\u201d[/i]",
+            "pt": "3/4",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "XCX",
+            "loyalty": "",
+            "artist": "XCX: DE",
+            "alias": "",
+            "position": "413",
+            "card_name2": "Zu Pharg, the Sky Asunder",
+            "color2": "",
+            "type2": "Legendary Artifact Creature \u2014 Construct",
+            "cost2": "",
+            "rules_text2": "Flying, menace, trample\nWhenever Zu Pharg attacks, destroy up to one target artifact and up to one target creature.\nWhen Zu Pharg dies, destroy two target lands.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "9/9",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "XCX: DE",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "RU09\nRU09"
+        },
+        {
+            "card_name": "Lao, Traitor to Humanity",
+            "color": "BG",
+            "rarity": "mythic",
+            "type": "Legendary Artifact Creature \u2014 Human Scout Spy",
+            "number": 251,
+            "color_identity": "BG",
+            "cost": "{3}{B}{G}",
+            "rules_text": "When Lao enters, mill five cards. You may put a permanent card from among the milled cards onto the battlefield under an opponent's control. If you do, you gain X life, they lose X life, and you draw X cards, where X is that card's mana value.\n[i](Melds with Luxaar, Humanity's End.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "XCX",
+            "loyalty": "",
+            "artist": "LaoHuangsBitch (X)",
+            "alias": "",
+            "position": "415",
+            "card_name2": "Lao, Chimera",
+            "color2": "UBG",
+            "type2": "Legendary Creature \u2014 Chimera Horror",
+            "cost2": "",
+            "rules_text2": "Vigilance, trample, menace\n[i]Puppet Master[/i] \u2014 At the beginning of combat on your turn, gain control of target permanent an opponent controls.\n[i]Apocalypse Roar[/i] \u2014 Vehicles you don't control can't become creatures.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "11/10",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "XCX: DE",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
+            "notes": "MZ04\nMZ04"
         }
     ]
 }
