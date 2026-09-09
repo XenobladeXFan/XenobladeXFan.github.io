@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-07</releasedate>
+			<releasedate>2026-09-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4658,12 +4658,10 @@ Create a 1/1 green Saproling creature token.</text>
 		<card>
 			<name>Luxaar, Humanity&apos;s End</name>
 			<text>When Luxaar enters, gain control of target nonland permanent you don&apos;t control. If you owned that permanent, that opponent discards X cards, where X is that card&apos;s mana value.
-{4}{G}, Exile this card and a card named Lao, Traitor to Humanity from your graveyard: Meld them into Lao, Chimera. Activate only as a sorcery.
----
-(Back): Lao, Chimera</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/266_front.png" num="256a">XCX</set>
+{4}{G}, Exile this card and a card named Lao, Traitor to Humanity from your graveyard: Meld them into Lao, Chimera. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/266.png" num="256">XCX</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Alien Advisor</type>
 				<maintype>Creature</maintype>
@@ -4674,29 +4672,6 @@ Create a 1/1 green Saproling creature token.</text>
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Lao, Chimera</related>
-		</card>
-		<card>
-			<name>Lao, Chimera</name>
-			<text>Vigilance, trample, menace
-Puppet Master — At the beginning of combat on your turn, gain control of target permanent an opponent controls.
-Apocalypse Roar — Vehicles you don&apos;t control can&apos;t become creatures.
----
-(Front): Luxaar, Humanity&apos;s End</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/266_back.png" num="256b">XCX</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Creature — Chimera Horror</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>UBG</colors>
-				<coloridentity>UBG</coloridentity>
-				<pt>11/10</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Luxaar, Humanity&apos;s End</related>
 		</card>
 		<card>
 			<name>Ma-non Ship Core</name>
@@ -5050,12 +5025,10 @@ Mind Shift — Whenever Liesel or a Vehicle crewed by her attacks, the next abil
 			<name>Dagahn, Ganglion Crusher</name>
 			<text>First strike, trample
 Whenever a creature you control deals combat damage to a player, exile the top card of your library. You may play it this turn.
-{3}{U}{U}: If you both control and own Dagahn and a creature named Ryyz, Ganglion&apos;s Rise, exile them, then meld them into Zu Pharg, the Sky Asunder. Activate only as a sorcery.
----
-(Back): Zu Pharg, the Sky Asunder</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/288_front.png" num="236a">XCX</set>
+{3}{U}{U}: If you both control and own Dagahn and a creature named Ryyz, Ganglion&apos;s Rise, exile them, then meld them into Zu Pharg, the Sky Asunder. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/288.png" num="236">XCX</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Alien Beast Warrior</type>
 				<maintype>Creature</maintype>
@@ -5066,28 +5039,6 @@ Whenever a creature you control deals combat damage to a player, exile the top c
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Zu Pharg, the Sky Asunder</related>
-		</card>
-		<card>
-			<name>Zu Pharg, the Sky Asunder</name>
-			<text>Flying, menace, trample
-Whenever Zu Pharg attacks, destroy up to one target artifact and up to one target creature.
-When Zu Pharg dies, destroy two target lands.
----
-(Front): Dagahn, Ganglion Crusher</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/288_back.png" num="236b">XCX</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Artifact Creature — Construct</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>UBR</coloridentity>
-				<pt>9/9</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Dagahn, Ganglion Crusher</related>
 		</card>
 		<card>
 			<name>Strike Launcher Zig</name>
@@ -7160,12 +7111,10 @@ Whenever you gain life, choose up to that many target creatures you control. Put
 		<card>
 			<name>Elma, BLADE Colonel</name>
 			<text>At the beginning of combat on your turn, Elma explores. When she does, return up to one target artifact card from your graveyard to your hand.
-{4}{G}{W}{U}: Transform Elma. Activate only as a sorcery.
----
-(Back): Elma, Savior of the Ares</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/410_front.png" num="238a">XCX</set>
+{4}{G}{W}{U}: Transform Elma. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/410.png" num="238">XCX</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Artifact Creature — Human Scout</type>
 				<maintype>Creature</maintype>
@@ -7176,18 +7125,15 @@ Whenever you gain life, choose up to that many target creatures you control. Put
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Elma, Savior of the Ares</related>
 		</card>
 		<card>
 			<name>Elma, Savior of the Ares</name>
 			<text>As this creature transforms into Elma, Savior of the Ares, you get an emblem with &quot;You have no maximum hand size.&quot;
-Whenever you cast an artifact spell, copy it. Draw a card.
----
-(Front): Elma, BLADE Colonel</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/410_back.png" num="238b">XCX</set>
+Whenever you cast an artifact spell, copy it. Draw a card.</text>
+			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/411.png" num="238">XCX</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Legendary Creature — Alien Scout</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -7196,18 +7142,33 @@ Whenever you cast an artifact spell, copy it. Draw a card.
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Elma, BLADE Colonel</related>
+		</card>
+		<card>
+			<name>Lao, Chimera</name>
+			<text>Vigilance, trample, menace
+Puppet Master — At the beginning of combat on your turn, gain control of target permanent an opponent controls.
+Apocalypse Roar — Vehicles you don&apos;t control can&apos;t become creatures.</text>
+			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/412.png" num="251">XCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Chimera Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UBG</colors>
+				<pt>11/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Ryyz, Ganglion&apos;s Rise</name>
 			<text>Flying
 Other creatures you control have flying.
-(Melds with Dagahn, Ganglion Crusher.)
----
-(Back): Zu Pharg, the Sky Asunder</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/413_front.png" num="77a">XCX</set>
+(Melds with Dagahn, Ganglion Crusher.)</text>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/413.png" num="77">XCX</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Alien Warlock</type>
 				<maintype>Creature</maintype>
@@ -7218,19 +7179,16 @@ Other creatures you control have flying.
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Zu Pharg, the Sky Asunder</related>
 		</card>
 		<card>
 			<name>Zu Pharg, the Sky Asunder</name>
 			<text>Flying, menace, trample
 Whenever Zu Pharg attacks, destroy up to one target artifact and up to one target creature.
-When Zu Pharg dies, destroy two target lands.
----
-(Front): Ryyz, Ganglion&apos;s Rise</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/413_back.png" num="77b">XCX</set>
+When Zu Pharg dies, destroy two target lands.</text>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/414.png" num="77">XCX</set>
 			<prop>
-				<layout>transform</layout>
-				<side>back</side>
+				<layout>normal</layout>
+				<side>front</side>
 				<type>Legendary Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
@@ -7239,17 +7197,14 @@ When Zu Pharg dies, destroy two target lands.
 				<pt>9/9</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Ryyz, Ganglion&apos;s Rise</related>
 		</card>
 		<card>
 			<name>Lao, Traitor to Humanity</name>
 			<text>When Lao enters, mill five cards. You may put a permanent card from among the milled cards onto the battlefield under an opponent&apos;s control. If you do, you gain X life, they lose X life, and you draw X cards, where X is that card&apos;s mana value.
-(Melds with Luxaar, Humanity&apos;s End.)
----
-(Back): Lao, Chimera</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/415_front.png" num="251a">XCX</set>
+(Melds with Luxaar, Humanity&apos;s End.)</text>
+			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/415.png" num="251">XCX</set>
 			<prop>
-				<layout>transform</layout>
+				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Artifact Creature — Human Scout Spy</type>
 				<maintype>Creature</maintype>
@@ -7260,29 +7215,6 @@ When Zu Pharg dies, destroy two target lands.
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related attach="transform">Lao, Chimera</related>
-		</card>
-		<card>
-			<name>Lao, Chimera</name>
-			<text>Vigilance, trample, menace
-Puppet Master — At the beginning of combat on your turn, gain control of target permanent an opponent controls.
-Apocalypse Roar — Vehicles you don&apos;t control can&apos;t become creatures.
----
-(Front): Lao, Traitor to Humanity</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/415_back.png" num="251b">XCX</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Creature — Chimera Horror</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>UBG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>11/10</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Lao, Traitor to Humanity</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

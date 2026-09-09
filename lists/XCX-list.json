@@ -330,7 +330,7 @@
     {
         "card_name": "Ryyz, Ganglion's Rise",
         "number": 77,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "XCX",
         "rotated": false,
         "position": "413"
@@ -1833,7 +1833,7 @@
     {
         "card_name": "Luxaar, Humanity's End",
         "number": 256,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "XCX",
         "rotated": false,
         "position": "266"
@@ -1841,7 +1841,7 @@
     {
         "card_name": "Dagahn, Ganglion Crusher",
         "number": 236,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "XCX",
         "rotated": false,
         "position": "288"
@@ -2011,7 +2011,7 @@
     {
         "card_name": "Lao, Traitor to Humanity",
         "number": 251,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "XCX",
         "rotated": false,
         "position": "415"
@@ -2193,10 +2193,18 @@
     {
         "card_name": "Elma, BLADE Colonel",
         "number": 238,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "XCX",
         "rotated": false,
         "position": "410"
+    },
+    {
+        "card_name": "Lao, Chimera",
+        "number": 251,
+        "shape": "normal",
+        "set": "XCX",
+        "rotated": false,
+        "position": "412"
     },
     {
         "card_name": "Lin, BLADE Bulwark",
@@ -2250,9 +2258,6 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -2274,6 +2279,14 @@
         "position": "302"
     },
     {
+        "card_name": "Elma, Savior of the Ares",
+        "number": 238,
+        "shape": "normal",
+        "set": "XCX",
+        "rotated": false,
+        "position": "411"
+    },
+    {
         "card_name": "The Giant Ring of Oblivia",
         "number": 281,
         "shape": "normal",
@@ -2288,6 +2301,14 @@
         "set": "XCX",
         "rotated": false,
         "position": "215"
+    },
+    {
+        "card_name": "Zu Pharg, the Sky Asunder",
+        "number": 77,
+        "shape": "normal",
+        "set": "XCX",
+        "rotated": false,
+        "position": "414"
     },
     {
         "card_name": "Collectopedia",
@@ -2424,6 +2445,15 @@
         "set": "XCX",
         "rotated": false,
         "position": "130"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
