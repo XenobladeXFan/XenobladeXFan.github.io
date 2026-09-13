@@ -1785,7 +1785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/178.png"
 			}
@@ -2666,8 +2666,15 @@
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Alien Advisor",
 			"collector_number": "256",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/266_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/266.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/266_front.png"
 			}
 		},
 		{
@@ -2886,8 +2893,15 @@
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Alien Beast Warrior",
 			"collector_number": "236",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288_front.png"
 			}
 		},
 		{
@@ -3153,7 +3167,7 @@
 		{
 			"name": "Glimpse the Multiverse",
 			"rarity": "mythic",
-			"mana_cost": "{1}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "155",
 			"image_uris": {
@@ -3165,7 +3179,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Human Soldier",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/316.png"
 			}
@@ -3175,7 +3189,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/317.png"
 			}
@@ -3185,7 +3199,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/318.png"
 			}
@@ -3195,7 +3209,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/319.png"
 			}
@@ -3845,7 +3859,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Equipment",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/384.png"
 			}
@@ -4065,7 +4079,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/406.png"
 			}
@@ -4106,28 +4120,15 @@
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Artifact Creature — Human Scout",
 			"collector_number": "238",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/410_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/410.png"
-			}
-		},
-		{
-			"name": "Elma, Savior of the Ares",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Alien Scout",
-			"collector_number": "238",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/411.png"
-			}
-		},
-		{
-			"name": "Lao, Chimera",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Creature — Chimera Horror",
-			"collector_number": "251",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/412.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/410_front.png"
 			}
 		},
 		{
@@ -4136,18 +4137,15 @@
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Alien Warlock",
 			"collector_number": "77",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/413_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/413.png"
-			}
-		},
-		{
-			"name": "Zu Pharg, the Sky Asunder",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/414.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/413_front.png"
 			}
 		},
 		{
@@ -4156,8 +4154,25 @@
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Artifact Creature — Human Scout Spy",
 			"collector_number": "251",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/415_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/415.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/415_front.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/416.png"
 			}
 		}
 	]
@@ -4271,10 +4286,7 @@
 	2 Tainted Sphinx
 	2 Heroic Feast
 	1 Elma, BLADE Colonel
-	1 Elma, Savior of the Ares
-	1 Lao, Chimera
 	2 Ryyz, Ganglion's Rise
-	2 Zu Pharg, the Sky Asunder
 	1 Lao, Traitor to Humanity
 [uncommon(3)]
 	4 Gi Zorde & Gi Zordo, Disciples
@@ -4964,10 +4976,7 @@
 	2 Tainted Sphinx
 	2 Heroic Feast
 	1 Elma, BLADE Colonel
-	1 Elma, Savior of the Ares
-	1 Lao, Chimera
 	2 Ryyz, Ganglion's Rise
-	2 Zu Pharg, the Sky Asunder
 	1 Lao, Traitor to Humanity
 [wildcard(1)]
 	6 Grassland Ovis
@@ -5283,8 +5292,5 @@
 	7 Tainted Sphinx
 	7 Heroic Feast
 	4 Elma, BLADE Colonel
-	4 Elma, Savior of the Ares
-	4 Lao, Chimera
 	7 Ryyz, Ganglion's Rise
-	7 Zu Pharg, the Sky Asunder
 	4 Lao, Traitor to Humanity

@@ -330,7 +330,7 @@
     {
         "card_name": "Ryyz, Ganglion's Rise",
         "number": 77,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "XCX",
         "rotated": false,
         "position": "413"
@@ -1833,7 +1833,7 @@
     {
         "card_name": "Luxaar, Humanity's End",
         "number": 256,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "XCX",
         "rotated": false,
         "position": "266"
@@ -1841,7 +1841,7 @@
     {
         "card_name": "Dagahn, Ganglion Crusher",
         "number": 236,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "XCX",
         "rotated": false,
         "position": "288"
@@ -2011,7 +2011,7 @@
     {
         "card_name": "Lao, Traitor to Humanity",
         "number": 251,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "XCX",
         "rotated": false,
         "position": "415"
@@ -2193,18 +2193,10 @@
     {
         "card_name": "Elma, BLADE Colonel",
         "number": 238,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "XCX",
         "rotated": false,
         "position": "410"
-    },
-    {
-        "card_name": "Lao, Chimera",
-        "number": 251,
-        "shape": "normal",
-        "set": "XCX",
-        "rotated": false,
-        "position": "412"
     },
     {
         "card_name": "Lin, BLADE Bulwark",
@@ -2258,6 +2250,9 @@
         "card_name": "e"
     },
     {
+        "card_name": "e"
+    },
+    {
         "card_name": "er"
     },
     {
@@ -2279,14 +2274,6 @@
         "position": "302"
     },
     {
-        "card_name": "Elma, Savior of the Ares",
-        "number": 238,
-        "shape": "normal",
-        "set": "XCX",
-        "rotated": false,
-        "position": "411"
-    },
-    {
         "card_name": "The Giant Ring of Oblivia",
         "number": 281,
         "shape": "normal",
@@ -2301,14 +2288,6 @@
         "set": "XCX",
         "rotated": false,
         "position": "215"
-    },
-    {
-        "card_name": "Zu Pharg, the Sky Asunder",
-        "number": 77,
-        "shape": "normal",
-        "set": "XCX",
-        "rotated": false,
-        "position": "414"
     },
     {
         "card_name": "Collectopedia",
@@ -2445,15 +2424,6 @@
         "set": "XCX",
         "rotated": false,
         "position": "130"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2828,8 +2798,16 @@
         "position": "323"
     },
     {
-        "card_name": "Food",
+        "card_name": "Clue",
         "number": 11,
+        "shape": "token",
+        "set": "XCX",
+        "rotated": false,
+        "position": "416"
+    },
+    {
+        "card_name": "Food",
+        "number": 12,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2837,7 +2815,7 @@
     },
     {
         "card_name": "Human Soldier",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2845,7 +2823,7 @@
     },
     {
         "card_name": "Legendary Nopopopopon",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2853,7 +2831,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2861,7 +2839,7 @@
     },
     {
         "card_name": "Vehicle",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2869,7 +2847,7 @@
     },
     {
         "card_name": "Elma, Savior of the Ares",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2877,7 +2855,7 @@
     },
     {
         "card_name": "XCX Draft Archetypes",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "XCX",
         "rotated": false,
@@ -2946,9 +2924,6 @@
         "set": "XCX",
         "rotated": false,
         "position": "348"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

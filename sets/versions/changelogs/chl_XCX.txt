@@ -1,4 +1,38 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Clue added.
+
+Elma, Savior of the Ares removed.
+Lao, Chimera removed.
+Zu Pharg, the Sky Asunder removed.
+
+Milsaadi Corroder
+rules_text: First strike, menace
+Whenever a creature you control dies, hunt target creature you don't control. This ability triggers only once each turn. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i] => First strike, menace
+If this creature would deal damage, you may instead prevent that damage. When you do, hunt up to that many target creatures you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+
+The Root of All Evil
+rules_text: Whenever you sacrifice an artifact token, put a +1/+1 counter on target creature you control. => Whenever you sacrifice an artifact, put a +1/+1 counter on target creature you control.
+
+Luxaar, Humanity's End
+
+Dagahn, Ganglion Crusher
+
+Ghost Cathedral
+
+Glimpse the Multiverse
+cost: {1}{R}{R} => {2}{R}{R}
+rules_text: {2}{R}{R}, Discard X cards, where X is the number of multiverse counters on this enchantment: You may play a card you own from outside the game this turn. Put a multiverse counter on this enchantment. => {1}{R}{R}, Discard X cards, where X is the number of multiverse counters on this enchantment: You may play a card you own from outside the game this turn. Put a multiverse counter on this enchantment.
+
+Elma, BLADE Colonel
+
+Ryyz, Ganglion's Rise
+
+Lao, Traitor to Humanity
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Elma, Savior of the Ares added.
