@@ -1,4 +1,371 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Probe Installation Team added.
+
+Director General Chausson removed.
+Crash of the White Whale removed.
+Ga Jiarg, Master of the Battlefield removed.
+Ma-Non Ship removed.
+Cultural Exchange removed.
+Eternity Vessel removed.
+Choice of Damnations removed.
+Yardley's Lifepod removed.
+Thickest in the Thicket removed.
+Brute Millepod removed.
+Telethia, Ruler of Fates removed.
+Sabula Mates removed.
+Skell Scrapper removed.
+Plannetary Annihilation removed.
+Atop The Giant Ring removed.
+Delusians Summit removed.
+Bihano Water-Purification Plant removed.
+The Divine Roost removed.
+Volitaris, the Great Prison removed.
+Mount M'gando removed.
+Bloodthirsty Adsecula removed.
+Sharon Effinger, Murderess removed.
+Elma, Reclaimer removed.
+Hope Alanzi removed.
+Ace Skell Engineer removed.
+Inspiring Commander removed.
+Inherit the Tainted Virus removed.
+Wish Good Luck removed.
+The Yawning Giant removed.
+Ganglion Antropolis removed.
+The Silent Mire removed.
+NLA, Humanity's Bastion removed.
+Commander Jack Vandham removed.
+The Decayed Core removed.
+Sprout Swarm removed.
+Ma-non Ship Core removed.
+Doug Barret removed.
+BLADE Command Console removed.
+Deliverance Park removed.
+Barista Court removed.
+Ma-non Ship Deck removed.
+Outfitters Test Hangar removed.
+Yardley's Hideaway removed.
+NLA Invasion Xern removed.
+Miran Safekeeping removed.
+False Defeat removed.
+Celica, Rock's Best Friend removed.
+Lurking Columbrim removed.
+Nexus of Fate removed.
+BLADE Frontliner removed.
+Kentaro Nagi removed.
+Grex Pack removed.
+Ridill, the Arrogant removed.
+Marshalling the Troops removed.
+Poach the Bounty removed.
+Cooldown Augment removed.
+Bizzare Insidia removed.
+Poisonous Caecus removed.
+Parallax Tide removed.
+Mimeosome Manufacturer removed.
+Imperial Seal removed.
+Dead Man's Gulch removed.
+Canopied Nightwood removed.
+Alexa, Weaponized removed.
+Mia, Stranded Surveyor removed.
+Behemoth's Shadows removed.
+Skell Salvager removed.
+Bounty of the Hunt removed.
+FrontierNav Developer removed.
+Lin Lee Koo removed.
+De-mat Zone removed.
+Clue removed.
+
+Skell Developer
+type: Artifact Creature — Human Artificer => Artifact Creature — Alien Human Artificer
+
+Revelation of Old
+rules_text: Draw a card. Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Flashback {3}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Draw a card. If this spell was cast from your graveyard, draw two cards instead.
+Flashback {3}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Restart Development
+
+Quick Cooldown
+
+Ambush Reanimate
+
+BLADE Harrier
+
+The Root of All Evil
+
+Ambush Camouflage
+
+White Whale 2
+
+Wrothian Battle Gauntlet
+
+Irina Akulov, Hotheaded
+
+L'cirufe, Merchant of Menageries
+
+Neilnail, High Custodian
+
+Mia, Bright-Eyed Newbie
+
+H.B., the Perfect Rival
+
+The Lifehold Core
+
+Chimeric Defenses
+
+The Sword of Legendaryness
+
+Smooth Recovery
+
+The Key We've Lost
+
+Vitriolic Cesspool
+
+Collectopedia
+
+Tatsu, Totally Not Food
+
+Kirsty, Planetary Pioneer
+
+The Giant Ring of Oblivia
+
+Rise of the Blood Lobster
+
+Alex's Hatred
+
+Frye, the Killer Ostritch
+
+Phog, Shy Guy
+
+Mech Hangar
+
+Multigun
+
+Verus Cain
+
+Amdusias Hades
+
+Excavator Skell
+
+Ares Prime
+
+Vita, Vessel of the Great One
+
+Alois Bernholt, Prodigal Hero
+
+Rexoskell
+
+The Christoph Brothers
+
+The Divine Nopopon
+
+Vandham, NLA's Bulwark
+
+Luxaar, Humanity's End
+
+Fortun, Definian Mother
+
+Scout Console
+
+Liesel, Test Pilot
+
+Badr Stronghold
+
+Bedrock Hold
+
+Seaswept Base
+
+Jair Fortress
+
+Boxtrap Checkpoint
+
+Milligan Supply Base
+
+Kitsune Stronghold
+
+Lakeview Stronghold
+
+Scabland Fortress
+
+Ensconced Citadel
+
+Dagahn, Ganglion Crusher
+
+Strike Launcher Zig
+
+Combat Maneuver Instructor
+
+Slovity Pagus, Cavern Crusher
+
+Holofigure Projector
+
+Lin, BLADE Bulwark
+
+Ga Buidhe, the Prince's Spear
+
+Awakened Colubrium
+
+Lao's Betrayal
+
+Wild Mephite
+
+Obscuring Spores
+
+BLADE Comm Device
+
+Multiversal Convergence
+
+Void, the Great One
+
+Ghost Cathedral
+
+Gaze Upon the Horizon
+
+Shimmer & Savy Exchange
+
+Wrothian Caladar
+
+War on NLA
+
+Macabre Aeviter
+
+Glimpse the Multiverse
+
+Human Soldier
+
+Food
+
+Treasure
+
+Vehicle
+
+Ozuchi Caladar
+
+Copy
+
+Chimera Horror
+
+Hunted
+
+Boar
+
+Sheep
+
+Furious Flurry
+
+Black Tar
+
+Melancholia
+
+Relentless Expansion
+
+Rock, Celica's Friend
+
+Doug, Soldier of the Harriers
+
+Nagi, Reporting for Duty
+
+Hope, Heart of NLA
+
+Murderess, Greed and Power
+
+Volitarian Supression
+
+Assault on Volitaris
+
+BLADE Savior
+
+Prog Ares
+
+Dadaan, the Strongest Prone
+
+Secondary Speed
+
+Blossom Dance
+
+Mindstorm
+
+Crisis Zone
+
+Howling Soul
+
+Nopon
+
+Tornado Jacul
+
+Sentinel's Nest
+
+Bestial Utopia
+
+Barracks Interior
+
+White Phosphor Lake
+
+Cleansing Spring
+
+Sunset Falls
+
+Greiving Plains
+
+Kintrees
+
+Headwater Summit
+
+Ancient Warscape
+
+Professor B°&7k%±|, Mystery Man
+
+Miramobile, Future and Past
+
+Heat Wave
+
+Electromagnetic Interference
+
+BLADE Chopper
+
+Sunlit Trap
+
+Legendary Nopopopopon
+
+Telethia, the Endbringer
+
+Pharsis, the Everqueen
+
+FrontierNav
+
+Mia is Missing!
+
+Bahamut Wave
+
+A Hero's Ride
+
+Lakeside Getaway
+
+Emotion Commotion
+
+Alien
+
+Blood Despair
+
+Lifepod Recruitment
+
+Elma, Savior of the Ares
+
+Pollen Orb Smuggler
+
+Tainted Sphinx
+
+Heroic Feast
+
+Elma, BLADE Colonel
+
+Ryyz, Ganglion's Rise
+
+Lao, Traitor to Humanity
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Clue added.

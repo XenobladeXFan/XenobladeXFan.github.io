@@ -1,0 +1,1201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PXCX</name>
+			<longname>XCX Promos</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ace Skell Engineer</name>
+			<text>When Ace Skell Engineer enters, exile up to one other target nonland, nontoken permanent. Its controller creates a token that&apos;s a copy of it, except it&apos;s not legendary and it&apos;s an artifact in addition to its other types.
+{1}{W}: Tokens you control gain indestructible until end of turn. Activate only once.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/0.png" num="1">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BLADE Frontliner</name>
+			<text>Whenever an opponent casts their first noncreature spell each turn, draw a card unless that player pays {X}, where X is BLADE Frontliner&apos;s power.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/1.png" num="2">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celica, Rock&apos;s Best Friend</name>
+			<text>Flash
+Tapped creatures you control can block as though they were untapped.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/2.png" num="3">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Commander Jack Vandham</name>
+			<text>As Vandham enters, choose two abilities from among first strike, vigilance, and lifelink.
+Humans you control have each of the chosen abilities.
+As long as you control four or more Humans, Humans you control get +2/+2.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/3.png" num="4">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>False Defeat</name>
+			<text>Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/4.png" num="5">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ga Jiarg, Master of the Battlefield</name>
+			<text>Whenever Ga Jiarg or another Cat you control enters, attach up to one target Equipment you control to that creature.
+Equipped creatures you control get +1/+1.
+{3}{W}{W}: Create a 2/2 white Cat creature token.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/5.png" num="6">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Commander</name>
+			<text>Whenever another creature you control with power 2 or less enters, you gain 1 life and draw a card.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/6.png" num="7">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lin Lee Koo</name>
+			<text>Flying
+During your turn, equipped creatures you control have indestructible.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/7.png" num="8">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miran Safekeeping</name>
+			<text>Enchant land
+Enchanted land has &quot;{T}: Counter target spell if it would destroy a land you control.&quot;</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/8.png" num="9">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alexa, Weaponized</name>
+			<text>When Alexa enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Vehicles you control have flying.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw a card.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/9.png" num="10">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard Pilot</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cultural Exchange</name>
+			<text>Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/10.png" num="11">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mimeosome Manufacturer</name>
+			<text>When Mimeosome Manufacturer enters, scry 2.
+Whenever another artifact you control with mana value 3 or greater enters, create a 0/0 colorless Construct artifact creature token with &quot;This token gets +1/+1 for each artifact you control.&quot;</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/11.png" num="12">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nexus of Fate</name>
+			<text>Take an extra turn after this one.
+If Nexus of Fate would be put into a graveyard from anywhere, reveal Nexus of Fate and shuffle it into its owner&apos;s library instead.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/12.png" num="13">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Parallax Tide</name>
+			<text>Fading 5
+Remove a fade counter from Parallax Tide: Exile target land.
+When Parallax Tide leaves the battlefield, each player returns to the battlefield all cards they own exiled with it.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/13.png" num="14">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Poach the Bounty</name>
+			<text>Until end of turn, you may tap lands you don&apos;t control for mana. Spend this mana only to cast spells.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/14.png" num="15">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Choice of Damnations</name>
+			<text>Target opponent chooses a number. You may have that player lose that much life. If you don&apos;t, that player sacrifices all but that many permanents of their choice.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/15.png" num="16">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Arcane</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Decayed Core</name>
+			<text>At the beginning of your upkeep, put two eon counters on The Decayed Core, then mill cards equal to the number of eon counters on it.
+If you would draw a card while your library has no cards in it, instead return a creature card from your graveyard to the battlefield. If you can&apos;t, you lose the game.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/16.png" num="17">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Seal</name>
+			<text>Search your library for a card, then shuffle and put that card on top. You lose 2 life.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/17.png" num="18">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inherit the Tainted Virus</name>
+			<text>X can&apos;t be 0.
+Draw X cards. Create an X/X black Demon creature token with flying. Your life total becomes X. You can&apos;t gain life for the rest of the game.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/18.png" num="19">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>NLA Invasion Xern</name>
+			<text>Flying
+At the beginning of your end step, if you sacrificed a permanent this turn, create a token that&apos;s a copy of this Vehicle.
+As long as you control eight or more permanents named NLA Invasion Xern, this Vehicle is an artifact creature.
+Crew 1</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/19.png" num="20">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Poisonous Caecus</name>
+			<text>Whenever Poisonous Caecus enters or attacks, put a -1/-1 counter on up to one target creature.
+Creatures your opponents control with -1/-1 counters on them can&apos;t block.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/20.png" num="21">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skell Salvager</name>
+			<text>{T}, Sacrifice an artifact: Add an amount of {B} equal to the sacrificed artifact&apos;s mana value.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/21.png" num="22">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phyrexian Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bizzare Insidia</name>
+			<text>First strike
+Dinosaur spells you cast have prowl {2}{R}.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/22.png" num="23">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brute Millepod</name>
+			<text>Flying, trample
+Whenever Brute Millepod deals combat damage to a player, untap it. After this phase, there is an additional combat phase.
+Brute Millepod can&apos;t attack a player it has already attacked this turn.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/23.png" num="24">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crash of the White Whale</name>
+			<text>Destroy target land. Crash of the White Whale deals 20 damage to each creature and each planeswalker.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/24.png" num="25">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Kentaro Nagi</name>
+			<text>When Kentaro Nagi enters, target creature an opponent controls deals damage equal to its power to that player.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/25.png" num="26">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lurking Columbrim</name>
+			<text>When Lurking Columbrim is put into your graveyard from the battlefield, you may return it to your hand.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/26.png" num="27">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>7RR</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plannetary Annihilation</name>
+			<text>Each player chooses six lands they control, then sacrifices the rest. Plannetary Annihilation deals 6 damage to each creature.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/27.png" num="28">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ridill, the Arrogant</name>
+			<text>Trample, haste
+Whenever Ridill deals combat damage to a player, create that many Blood tokens.
+Whenever a noncreature artifact is sacrificed or destroyed, Ridill deals 1 damage to each opponent.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/28.png" num="29">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skell Scrapper</name>
+			<text>Whenever an artifact you control enters, Skell Scrapper deals 1 damage to target opponent.
+{T}, Sacrifice two artifacts: Exile the top card of your library. You may play that card this turn.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/29.png" num="30">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bounty of the Hunt</name>
+			<text>You may exile a green card from your hand rather than pay Bounty of the Hunt&apos;s mana cost.
+Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/30.png" num="31">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grex Pack</name>
+			<text>You may have Grex Pack assign its combat damage as though it weren&apos;t blocked.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/31.png" num="32">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Marshalling the Troops</name>
+			<text>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/32.png" num="33">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sabula Mates</name>
+			<text>When Sabula Mates enters, create a Lander token.
+Landfall — Whenever a land you control enters, creatures you control get +1/+1 and gain vigilance and haste until end of turn.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/33.png" num="34">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sprout Swarm</name>
+			<text>Convoke
+Buyback {3}
+Create a 1/1 green Saproling creature token.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/34.png" num="35">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thickest in the Thicket</name>
+			<text>When Thickest in the Thicket enters, put X +1/+1 counters on target creature, where X is that creature&apos;s power.
+At the beginning of your end step, draw two cards if you control the creature with the greatest power or tied for the greatest power.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/35.png" num="36">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodthirsty Adsecula</name>
+			<text>Flying
+Whenever Bloodthirsty Adsecula deals combat damage to a player, look at the top three cards of that player&apos;s library, exile one of them face down, then put the rest into their graveyard. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/36.png" num="37">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Specter</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Director General Chausson</name>
+			<text>Other Humans you control get +1/+1.
+Whenever Chausson or another Human you control enters, exile target card from an opponent&apos;s graveyard.
+{2}, Sacrifice two Humans: Destroy target creature with power 4 or greater.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/37.png" num="38">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doug Barret</name>
+			<text>First strike
+Metalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/38.png" num="39">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hope Alanzi</name>
+			<text>Flying
+Other creatures you control get +1/+1.
+At the beginning of your upkeep, you may return target creature card from your graveyard to your hand.
+Partner</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/39.png" num="40">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ma-Non Ship</name>
+			<text>{1}, {T}: Draw two cards, then discard a card. Create a 1/1 colorless Pilot creature token with &quot;This token crews Vehicles as though its power were 2 greater.&quot;
+Crew 8</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/40.png" num="41">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sharon Effinger, Murderess</name>
+			<text>Murderess enters with three +1/+1 counters on her.
+Whenever a creature you control dies or is put into the command zone, if it had one or more +1/+1 counters on it, put that many +1/+1 counters on target creature.
+Partner</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/41.png" num="42">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Telethia, Ruler of Fates</name>
+			<text>This spell can&apos;t be countered.
+Flying
+You have protection from each of your opponents.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/42.png" num="43">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>6WU</manacost>
+				<cmc>8</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wish Good Luck</name>
+			<text>Create a Food token.
+Create a tapped Treasure token.
+Create a 3/2 colorless Vehicle artifact token with crew 1.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/43.png" num="44">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mia, Stranded Surveyor</name>
+			<text>Vigilance
+Whenever you discover, investigate, scry, surveil, or seek one or more cards, Mia deals 2 damage to each opponent and you gain 2 life. (You can&apos;t seek in paper Magic.)</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/44.png" num="45">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG/W</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BLADE Command Console</name>
+			<text>Metalcraft — {T}: Add one mana of any color. Activate only if you control three or more artifacts.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/45.png" num="46">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cooldown Augment</name>
+			<text>Whenever a permanent you control enters tapped, untap it.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/46.png" num="47">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elma, Reclaimer</name>
+			<text>When Elma enters, you may search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+{2}{W}{U}{B}{R}{G}: Exile the top three cards of your library. You may play them this turn without paying their mana costs.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/47.png" num="48">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternity Vessel</name>
+			<text>Eternity Vessel enters with X charge counters on it, where X is your life total.
+Landfall — Whenever a land you control enters, you may have your life total become the number of charge counters on Eternity Vessel.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/48.png" num="49">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ma-non Ship Core</name>
+			<text>As Ma-non Ship Core enters, choose a color.
+Creatures you control of the chosen color get +1/+1.
+Whenever a land&apos;s ability causes you to add one more more mana of the chosen color, add one additional mana of that color.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/49.png" num="50">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yardley&apos;s Lifepod</name>
+			<text>Imprint — {X}, {T}: You may exile an instant or sorcery card with mana value X from your hand.
+At the beginning of your upkeep, you may copy a card exiled with Yardley&apos;s Lifepod. If you do, you may cast the copy without paying its mana cost.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/50.png" num="51">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Atop The Giant Ring</name>
+			<text>Atop The Giant Ring enters tapped.
+{T}: Add {B}.
+{2}, {T}: Add {B} for each black creature card in your graveyard.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/51.png" num="52">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Barista Court</name>
+			<text>{T}: Add {W}.
+Channel — {2}{W}, Discard this card: It deals 4 damage to target attacking or blocking creature. This ability costs {1} less to activate for each legendary creature you control.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/52.png" num="53">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Behemoth&apos;s Shadows</name>
+			<text>{T}: Choose a color. Add one mana of that color unless any player pays {1}. Activate only as an instant.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/53.png" num="54">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bihano Water-Purification Plant</name>
+			<text>Bihano Water-Purification Plant enters tapped.
+{T}: Add {U}.
+{U}, {T}: Put an eon counter on Bihano Water-Purification Plant. Skip your next turn.
+{T}, Remove an eon counter from Bihano Water-Purification Plant and return it to its owner&apos;s hand: Take an extra turn after this one.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/54.png" num="55">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Canopied Nightwood</name>
+			<text>Each land is a Forest in addition to its other land types.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/55.png" num="56">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>De-mat Zone</name>
+			<text>When De-mat Zone enters, up to one target creature phases out.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{4}: Put this card from your hand onto the battlefield.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/56.png" num="57">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Gate</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dead Man&apos;s Gulch</name>
+			<text>Each land is a Swamp in addition to its other land types.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/57.png" num="58">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Deliverance Park</name>
+			<text>{T}: Add {G}.
+Channel — {1}{G}, Discard this card: Destroy target artifact, enchantment, or nonbasic land an opponent controls. That player may search their library for a land card with a basic land type, put it onto the battlefield, then shuffle. This ability costs {1} less to activate for each legendary creature you control.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/58.png" num="59">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Delusians Summit</name>
+			<text>Delusians Summit enters tapped.
+At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.
+{T}: Add {W}.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/59.png" num="60">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Divine Roost</name>
+			<text>The Divine Roost enters tapped.
+{T}: Add {G}.
+{T}: Put a +1/+1 counter on each green creature that entered this turn.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/60.png" num="61">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ganglion Antropolis</name>
+			<text>{T}: Add {C}.
+{4}{R}, {T}, Sacrifice a creature: Ganglion Antropolis deals 2 damage to any target.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/61.png" num="62">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ma-non Ship Deck</name>
+			<text>{T}: Add {U}.
+Channel — {3}{U}, Discard this card: Return target artifact, creature, enchantment, or planeswalker to its owner&apos;s hand. This ability costs {1} less to activate for each legendary creature you control.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/62.png" num="63">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mount M&apos;gando</name>
+			<text>Mount M&apos;gando enters tapped.
+Whenever a Mountain you control enters, if you control at least five other Mountains, Mount M&apos;gando deals 3 damage to up to one target.
+{T}: Add {R}.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/63.png" num="64">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>NLA, Humanity&apos;s Bastion</name>
+			<text>NLA enters tapped.
+{T}, Pay 2 life: Add {C}{C}. Spend this mana only to cast legendary spells.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/64.png" num="65">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Outfitters Test Hangar</name>
+			<text>{T}: Add {R}.
+Channel — {3}{R}, Discard this card: Create two 1/1 colorless Spirit creature tokens. They gain haste until end of turn. This ability costs {1} less to activate for each legendary creature you control.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/65.png" num="66">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Silent Mire</name>
+			<text>{T}: Add {C}.
+{3}, {T}, Sacrifice a creature: You gain life equal to the sacrificed creature&apos;s toughness.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/66.png" num="67">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Volitaris, the Great Prison</name>
+			<text>Volitaris, the Great Prison enters tapped.
+{T}: Add {C}.
+{T}: Put a +1/+1 counter on target colorless creature that entered this turn.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/67.png" num="68">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Yardley&apos;s Hideaway</name>
+			<text>{T}: Add {B}.
+Channel — {3}{B}, Discard this card: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/68.png" num="69">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Yawning Giant</name>
+			<text>Cumulative upkeep—Pay 2 life.
+When The Yawning Giant enters, sacrifice a land.
+Creatures you control can&apos;t attack.
+Prevent all damage that would be dealt to you.</text>
+			<set rarity="masterpiece" picurl="https://xenobladexfan.github.io/sets/PXCX-files/img/69.png" num="70">PXCX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

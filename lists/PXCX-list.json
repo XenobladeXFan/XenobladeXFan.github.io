@@ -1,0 +1,577 @@
+﻿[
+    {
+        "card_name": "BLADE Command Console",
+        "number": 46,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Cooldown Augment",
+        "number": 47,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Elma, Reclaimer",
+        "number": 48,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Eternity Vessel",
+        "number": 49,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Ma-non Ship Core",
+        "number": 50,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Yardley's Lifepod",
+        "number": 51,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "Atop The Giant Ring",
+        "number": 52,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Barista Court",
+        "number": 53,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Behemoth's Shadows",
+        "number": 54,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Bihano Water-Purification Plant",
+        "number": 55,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Canopied Nightwood",
+        "number": 56,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "De-mat Zone",
+        "number": 57,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Dead Man's Gulch",
+        "number": 58,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Deliverance Park",
+        "number": 59,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Delusians Summit",
+        "number": 60,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "The Divine Roost",
+        "number": 61,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Ganglion Antropolis",
+        "number": 62,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Ma-non Ship Deck",
+        "number": 63,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Mount M'gando",
+        "number": 64,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "NLA, Humanity's Bastion",
+        "number": 65,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Outfitters Test Hangar",
+        "number": 66,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "The Silent Mire",
+        "number": 67,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Volitaris, the Great Prison",
+        "number": 68,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Yardley's Hideaway",
+        "number": 69,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "The Yawning Giant",
+        "number": 70,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Ace Skell Engineer",
+        "number": 1,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "BLADE Frontliner",
+        "number": 2,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Celica, Rock's Best Friend",
+        "number": 3,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "Commander Jack Vandham",
+        "number": 4,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "False Defeat",
+        "number": 5,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Ga Jiarg, Master of the Battlefield",
+        "number": 6,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Inspiring Commander",
+        "number": 7,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Lin Lee Koo",
+        "number": 8,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Miran Safekeeping",
+        "number": 9,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "Alexa, Weaponized",
+        "number": 10,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "Cultural Exchange",
+        "number": 11,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Mimeosome Manufacturer",
+        "number": 12,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Nexus of Fate",
+        "number": 13,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Parallax Tide",
+        "number": 14,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Poach the Bounty",
+        "number": 15,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Choice of Damnations",
+        "number": 16,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "The Decayed Core",
+        "number": 17,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Imperial Seal",
+        "number": 18,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Inherit the Tainted Virus",
+        "number": 19,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "NLA Invasion Xern",
+        "number": 20,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Poisonous Caecus",
+        "number": 21,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Skell Salvager",
+        "number": 22,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Bizzare Insidia",
+        "number": 23,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Brute Millepod",
+        "number": 24,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Crash of the White Whale",
+        "number": 25,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "Kentaro Nagi",
+        "number": 26,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Lurking Columbrim",
+        "number": 27,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Plannetary Annihilation",
+        "number": 28,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Ridill, the Arrogant",
+        "number": 29,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Skell Scrapper",
+        "number": 30,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Bounty of the Hunt",
+        "number": 31,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Grex Pack",
+        "number": 32,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Marshalling the Troops",
+        "number": 33,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "Sabula Mates",
+        "number": 34,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Sprout Swarm",
+        "number": 35,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Thickest in the Thicket",
+        "number": 36,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Bloodthirsty Adsecula",
+        "number": 37,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "Director General Chausson",
+        "number": 38,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Doug Barret",
+        "number": 39,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "Hope Alanzi",
+        "number": 40,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Ma-Non Ship",
+        "number": 41,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Sharon Effinger, Murderess",
+        "number": 42,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Telethia, Ruler of Fates",
+        "number": 43,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Wish Good Luck",
+        "number": 44,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Mia, Stranded Surveyor",
+        "number": 45,
+        "shape": "normal",
+        "set": "PXCX",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

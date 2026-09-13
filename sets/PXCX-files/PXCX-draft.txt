@@ -1,0 +1,780 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Ace Skell Engineer",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/0.png"
+			}
+		},
+		{
+			"name": "BLADE Frontliner",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/1.png"
+			}
+		},
+		{
+			"name": "Celica, Rock's Best Friend",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/2.png"
+			}
+		},
+		{
+			"name": "Commander Jack Vandham",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/3.png"
+			}
+		},
+		{
+			"name": "False Defeat",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/4.png"
+			}
+		},
+		{
+			"name": "Ga Jiarg, Master of the Battlefield",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Cat Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/5.png"
+			}
+		},
+		{
+			"name": "Inspiring Commander",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/6.png"
+			}
+		},
+		{
+			"name": "Lin Lee Koo",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/7.png"
+			}
+		},
+		{
+			"name": "Miran Safekeeping",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/8.png"
+			}
+		},
+		{
+			"name": "Alexa, Weaponized",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Wizard Pilot",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/9.png"
+			}
+		},
+		{
+			"name": "Cultural Exchange",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/10.png"
+			}
+		},
+		{
+			"name": "Mimeosome Manufacturer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/11.png"
+			}
+		},
+		{
+			"name": "Nexus of Fate",
+			"rarity": "special",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/12.png"
+			}
+		},
+		{
+			"name": "Parallax Tide",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/13.png"
+			}
+		},
+		{
+			"name": "Poach the Bounty",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/14.png"
+			}
+		},
+		{
+			"name": "Choice of Damnations",
+			"rarity": "special",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery — Arcane",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/15.png"
+			}
+		},
+		{
+			"name": "The Decayed Core",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/16.png"
+			}
+		},
+		{
+			"name": "Imperial Seal",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/17.png"
+			}
+		},
+		{
+			"name": "Inherit the Tainted Virus",
+			"rarity": "special",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/18.png"
+			}
+		},
+		{
+			"name": "NLA Invasion Xern",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/19.png"
+			}
+		},
+		{
+			"name": "Poisonous Caecus",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/20.png"
+			}
+		},
+		{
+			"name": "Skell Salvager",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Phyrexian Human Cleric",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/21.png"
+			}
+		},
+		{
+			"name": "Bizzare Insidia",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/22.png"
+			}
+		},
+		{
+			"name": "Brute Millepod",
+			"rarity": "special",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/23.png"
+			}
+		},
+		{
+			"name": "Crash of the White Whale",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/24.png"
+			}
+		},
+		{
+			"name": "Kentaro Nagi",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/25.png"
+			}
+		},
+		{
+			"name": "Lurking Columbrim",
+			"rarity": "special",
+			"mana_cost": "{7}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/26.png"
+			}
+		},
+		{
+			"name": "Plannetary Annihilation",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/27.png"
+			}
+		},
+		{
+			"name": "Ridill, the Arrogant",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Shark",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/28.png"
+			}
+		},
+		{
+			"name": "Skell Scrapper",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Artificer",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/29.png"
+			}
+		},
+		{
+			"name": "Bounty of the Hunt",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/30.png"
+			}
+		},
+		{
+			"name": "Grex Pack",
+			"rarity": "special",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/31.png"
+			}
+		},
+		{
+			"name": "Marshalling the Troops",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/32.png"
+			}
+		},
+		{
+			"name": "Sabula Mates",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Leviathan",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/33.png"
+			}
+		},
+		{
+			"name": "Sprout Swarm",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/34.png"
+			}
+		},
+		{
+			"name": "Thickest in the Thicket",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/35.png"
+			}
+		},
+		{
+			"name": "Bloodthirsty Adsecula",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Specter",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/36.png"
+			}
+		},
+		{
+			"name": "Director General Chausson",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/37.png"
+			}
+		},
+		{
+			"name": "Doug Barret",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/38.png"
+			}
+		},
+		{
+			"name": "Hope Alanzi",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/39.png"
+			}
+		},
+		{
+			"name": "Ma-Non Ship",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/40.png"
+			}
+		},
+		{
+			"name": "Sharon Effinger, Murderess",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/41.png"
+			}
+		},
+		{
+			"name": "Telethia, Ruler of Fates",
+			"rarity": "special",
+			"mana_cost": "{6}{W}{U}",
+			"type": "Legendary Creature — Avatar Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/42.png"
+			}
+		},
+		{
+			"name": "Wish Good Luck",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/43.png"
+			}
+		},
+		{
+			"name": "Mia, Stranded Surveyor",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G/W}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/44.png"
+			}
+		},
+		{
+			"name": "BLADE Command Console",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/45.png"
+			}
+		},
+		{
+			"name": "Cooldown Augment",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/46.png"
+			}
+		},
+		{
+			"name": "Elma, Reclaimer",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact Creature — Scout",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/47.png"
+			}
+		},
+		{
+			"name": "Eternity Vessel",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/48.png"
+			}
+		},
+		{
+			"name": "Ma-non Ship Core",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/49.png"
+			}
+		},
+		{
+			"name": "Yardley's Lifepod",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/50.png"
+			}
+		},
+		{
+			"name": "Atop The Giant Ring",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/51.png"
+			}
+		},
+		{
+			"name": "Barista Court",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/52.png"
+			}
+		},
+		{
+			"name": "Behemoth's Shadows",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/53.png"
+			}
+		},
+		{
+			"name": "Bihano Water-Purification Plant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/54.png"
+			}
+		},
+		{
+			"name": "Canopied Nightwood",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/55.png"
+			}
+		},
+		{
+			"name": "De-mat Zone",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Gate",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/56.png"
+			}
+		},
+		{
+			"name": "Dead Man's Gulch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/57.png"
+			}
+		},
+		{
+			"name": "Deliverance Park",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/58.png"
+			}
+		},
+		{
+			"name": "Delusians Summit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/59.png"
+			}
+		},
+		{
+			"name": "The Divine Roost",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/60.png"
+			}
+		},
+		{
+			"name": "Ganglion Antropolis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/61.png"
+			}
+		},
+		{
+			"name": "Ma-non Ship Deck",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/62.png"
+			}
+		},
+		{
+			"name": "Mount M'gando",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/63.png"
+			}
+		},
+		{
+			"name": "NLA, Humanity's Bastion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/64.png"
+			}
+		},
+		{
+			"name": "Outfitters Test Hangar",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/65.png"
+			}
+		},
+		{
+			"name": "The Silent Mire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/66.png"
+			}
+		},
+		{
+			"name": "Volitaris, the Great Prison",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/67.png"
+			}
+		},
+		{
+			"name": "Yardley's Hideaway",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/68.png"
+			}
+		},
+		{
+			"name": "The Yawning Giant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://xenobladexfan.github.io/sets/PXCX-files/img/69.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+[common(6)]
+[common | masterpiece(1)]
+	3 Ace Skell Engineer
+	3 BLADE Frontliner
+	3 Celica, Rock's Best Friend
+	3 Commander Jack Vandham
+	3 False Defeat
+	3 Ga Jiarg, Master of the Battlefield
+	3 Inspiring Commander
+	3 Lin Lee Koo
+	3 Miran Safekeeping
+	3 Alexa, Weaponized
+	3 Cultural Exchange
+	3 Mimeosome Manufacturer
+	3 Nexus of Fate
+	3 Parallax Tide
+	3 Poach the Bounty
+	3 Choice of Damnations
+	3 The Decayed Core
+	3 Imperial Seal
+	3 Inherit the Tainted Virus
+	3 NLA Invasion Xern
+	3 Poisonous Caecus
+	3 Skell Salvager
+	3 Bizzare Insidia
+	3 Brute Millepod
+	3 Crash of the White Whale
+	3 Kentaro Nagi
+	3 Lurking Columbrim
+	3 Plannetary Annihilation
+	3 Ridill, the Arrogant
+	3 Skell Scrapper
+	3 Bounty of the Hunt
+	3 Grex Pack
+	3 Marshalling the Troops
+	3 Sabula Mates
+	3 Sprout Swarm
+	3 Thickest in the Thicket
+	3 Bloodthirsty Adsecula
+	3 Director General Chausson
+	3 Doug Barret
+	3 Hope Alanzi
+	3 Ma-Non Ship
+	3 Sharon Effinger, Murderess
+	3 Telethia, Ruler of Fates
+	3 Wish Good Luck
+	3 Mia, Stranded Surveyor
+	3 BLADE Command Console
+	3 Cooldown Augment
+	3 Elma, Reclaimer
+	3 Eternity Vessel
+	3 Ma-non Ship Core
+	3 Yardley's Lifepod
+	3 Atop The Giant Ring
+	3 Barista Court
+	3 Behemoth's Shadows
+	3 Bihano Water-Purification Plant
+	3 Canopied Nightwood
+	3 De-mat Zone
+	3 Dead Man's Gulch
+	3 Deliverance Park
+	3 Delusians Summit
+	3 The Divine Roost
+	3 Ganglion Antropolis
+	3 Ma-non Ship Deck
+	3 Mount M'gando
+	3 NLA, Humanity's Bastion
+	3 Outfitters Test Hangar
+	3 The Silent Mire
+	3 Volitaris, the Great Prison
+	3 Yardley's Hideaway
+	3 The Yawning Giant
+[foil(1)]
+[wildcard(1)]

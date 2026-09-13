@@ -284,7 +284,7 @@
 			"name": "Skell Developer",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Artifact Creature — Human Artificer",
+			"type": "Artifact Creature — Alien Human Artificer",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/28.png"
@@ -1485,7 +1485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Alien Soldier",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/148.png"
 			}
@@ -1495,7 +1495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Ape",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/149.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{B}{G}",
 			"type": "Instant",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/152.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/154.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/161.png"
 			}
@@ -1625,7 +1625,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/162.png"
 			}
@@ -1785,7 +1785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/178.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/182.png"
 			}
@@ -1865,7 +1865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Chimera",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/186.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Creature — Cat Mercenary Noble",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/193.png"
 			}
@@ -1981,113 +1981,13 @@
 			}
 		},
 		{
-			"name": "Director General Chausson",
-			"rarity": "special",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "38",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/198.png"
-			}
-		},
-		{
-			"name": "Crash of the White Whale",
-			"rarity": "special",
-			"mana_cost": "{5}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/199.png"
-			}
-		},
-		{
-			"name": "Ga Jiarg, Master of the Battlefield",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Cat Cleric",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/200.png"
-			}
-		},
-		{
-			"name": "Ma-Non Ship",
-			"rarity": "special",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "41",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/201.png"
-			}
-		},
-		{
-			"name": "Cultural Exchange",
-			"rarity": "special",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/202.png"
-			}
-		},
-		{
-			"name": "Eternity Vessel",
-			"rarity": "special",
-			"mana_cost": "{6}",
-			"type": "Artifact",
-			"collector_number": "49",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/203.png"
-			}
-		},
-		{
-			"name": "Choice of Damnations",
-			"rarity": "special",
-			"mana_cost": "{5}{B}",
-			"type": "Sorcery — Arcane",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/204.png"
-			}
-		},
-		{
-			"name": "Yardley's Lifepod",
-			"rarity": "special",
-			"mana_cost": "{5}",
-			"type": "Artifact",
-			"collector_number": "51",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/205.png"
-			}
-		},
-		{
-			"name": "Thickest in the Thicket",
-			"rarity": "special",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/206.png"
-			}
-		},
-		{
-			"name": "Brute Millepod",
-			"rarity": "special",
-			"mana_cost": "{5}{R}",
-			"type": "Creature — Demon",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/207.png"
-			}
-		},
-		{
 			"name": "White Whale 2",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Artifact — Spacecraft",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/208.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/198.png"
 			}
 		},
 		{
@@ -2097,7 +1997,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/209.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/199.png"
 			}
 		},
 		{
@@ -2107,7 +2007,7 @@
 			"type": "Legendary Artifact Creature — Human Soldier",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/210.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/200.png"
 			}
 		},
 		{
@@ -2115,9 +2015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Alien Artificer Nomad",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/211.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/201.png"
 			}
 		},
 		{
@@ -2127,7 +2027,7 @@
 			"type": "Legendary Creature — Alien Scientist",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/212.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/202.png"
 			}
 		},
 		{
@@ -2135,9 +2035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Artifact Creature — Human Scout",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/213.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/203.png"
 			}
 		},
 		{
@@ -2145,9 +2045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Artifact Creature — Human Scout",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/214.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/204.png"
 			}
 		},
 		{
@@ -2157,7 +2057,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/215.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/205.png"
 			}
 		},
 		{
@@ -2167,7 +2067,7 @@
 			"type": "Enchantment",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/216.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/206.png"
 			}
 		},
 		{
@@ -2177,107 +2077,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/217.png"
-			}
-		},
-		{
-			"name": "Telethia, Ruler of Fates",
-			"rarity": "special",
-			"mana_cost": "{6}{W}{U}",
-			"type": "Legendary Creature — Avatar Warrior",
-			"collector_number": "43",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/218.png"
-			}
-		},
-		{
-			"name": "Sabula Mates",
-			"rarity": "special",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Leviathan",
-			"collector_number": "34",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/219.png"
-			}
-		},
-		{
-			"name": "Skell Scrapper",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Goblin Artificer",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/220.png"
-			}
-		},
-		{
-			"name": "Plannetary Annihilation",
-			"rarity": "special",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/221.png"
-			}
-		},
-		{
-			"name": "Atop The Giant Ring",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/222.png"
-			}
-		},
-		{
-			"name": "Delusians Summit",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/223.png"
-			}
-		},
-		{
-			"name": "Bihano Water-Purification Plant",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/224.png"
-			}
-		},
-		{
-			"name": "The Divine Roost",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/225.png"
-			}
-		},
-		{
-			"name": "Volitaris, the Great Prison",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/226.png"
-			}
-		},
-		{
-			"name": "Mount M'gando",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/227.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/207.png"
 			}
 		},
 		{
@@ -2287,7 +2087,7 @@
 			"type": "Instant",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/228.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/208.png"
 			}
 		},
 		{
@@ -2297,7 +2097,7 @@
 			"type": "Sorcery",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/229.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/209.png"
 			}
 		},
 		{
@@ -2307,7 +2107,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/230.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/210.png"
 			}
 		},
 		{
@@ -2317,7 +2117,7 @@
 			"type": "Artifact",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/231.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/211.png"
 			}
 		},
 		{
@@ -2327,7 +2127,7 @@
 			"type": "Legendary Creature — Nopon",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/232.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/212.png"
 			}
 		},
 		{
@@ -2337,7 +2137,7 @@
 			"type": "Legendary Artifact Creature — Human Scientist",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/233.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/213.png"
 			}
 		},
 		{
@@ -2347,7 +2147,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/234.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/214.png"
 			}
 		},
 		{
@@ -2357,7 +2157,7 @@
 			"type": "Enchantment",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/235.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/215.png"
 			}
 		},
 		{
@@ -2367,7 +2167,7 @@
 			"type": "Enchantment",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/236.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/216.png"
 			}
 		},
 		{
@@ -2377,7 +2177,7 @@
 			"type": "Legendary Artifact Creature — Human Soldier",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/237.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/217.png"
 			}
 		},
 		{
@@ -2387,87 +2187,7 @@
 			"type": "Legendary Artifact Creature — Human Scout",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/238.png"
-			}
-		},
-		{
-			"name": "Bloodthirsty Adsecula",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Specter",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/239.png"
-			}
-		},
-		{
-			"name": "Sharon Effinger, Murderess",
-			"rarity": "special",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "42",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/240.png"
-			}
-		},
-		{
-			"name": "Elma, Reclaimer",
-			"rarity": "special",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact Creature — Scout",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/241.png"
-			}
-		},
-		{
-			"name": "Hope Alanzi",
-			"rarity": "special",
-			"mana_cost": "{3}{W}{B}",
-			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/242.png"
-			}
-		},
-		{
-			"name": "Ace Skell Engineer",
-			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Dwarf Artificer",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/243.png"
-			}
-		},
-		{
-			"name": "Inspiring Commander",
-			"rarity": "special",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/244.png"
-			}
-		},
-		{
-			"name": "Inherit the Tainted Virus",
-			"rarity": "special",
-			"mana_cost": "{X}{B}",
-			"type": "Sorcery",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/245.png"
-			}
-		},
-		{
-			"name": "Wish Good Luck",
-			"rarity": "special",
-			"mana_cost": "{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "44",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/246.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/218.png"
 			}
 		},
 		{
@@ -2477,17 +2197,7 @@
 			"type": "Land",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/247.png"
-			}
-		},
-		{
-			"name": "The Yawning Giant",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/248.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/219.png"
 			}
 		},
 		{
@@ -2497,7 +2207,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/249.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/220.png"
 			}
 		},
 		{
@@ -2507,7 +2217,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/250.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/221.png"
 			}
 		},
 		{
@@ -2517,7 +2227,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/251.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/222.png"
 			}
 		},
 		{
@@ -2527,7 +2237,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/252.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/223.png"
 			}
 		},
 		{
@@ -2537,37 +2247,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/253.png"
-			}
-		},
-		{
-			"name": "Ganglion Antropolis",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "62",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/254.png"
-			}
-		},
-		{
-			"name": "The Silent Mire",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/255.png"
-			}
-		},
-		{
-			"name": "NLA, Humanity's Bastion",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/256.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/224.png"
 			}
 		},
 		{
@@ -2577,7 +2257,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/257.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/225.png"
 			}
 		},
 		{
@@ -2587,7 +2267,7 @@
 			"type": "Legendary Creature — Human Pilot Hero",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/258.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/226.png"
 			}
 		},
 		{
@@ -2597,7 +2277,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/259.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/227.png"
 			}
 		},
 		{
@@ -2607,7 +2287,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/260.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/228.png"
 			}
 		},
 		{
@@ -2617,27 +2297,7 @@
 			"type": "Legendary Creature — Nopon Spirit God",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/261.png"
-			}
-		},
-		{
-			"name": "Commander Jack Vandham",
-			"rarity": "special",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/262.png"
-			}
-		},
-		{
-			"name": "The Decayed Core",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Enchantment",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/263.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/229.png"
 			}
 		},
 		{
@@ -2647,17 +2307,7 @@
 			"type": "Legendary Artifact Creature — Human Soldier",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/264.png"
-			}
-		},
-		{
-			"name": "Sprout Swarm",
-			"rarity": "special",
-			"mana_cost": "{1}{G}",
-			"type": "Instant",
-			"collector_number": "35",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/265.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/230.png"
 			}
 		},
 		{
@@ -2665,46 +2315,16 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Alien Advisor",
-			"collector_number": "256",
+			"collector_number": "255",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/266_back.png"
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/231_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/266_front.png"
-			}
-		},
-		{
-			"name": "Ma-non Ship Core",
-			"rarity": "special",
-			"mana_cost": "{6}",
-			"type": "Artifact",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/267.png"
-			}
-		},
-		{
-			"name": "Doug Barret",
-			"rarity": "special",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "39",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/268.png"
-			}
-		},
-		{
-			"name": "BLADE Command Console",
-			"rarity": "special",
-			"mana_cost": "{0}",
-			"type": "Legendary Artifact",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/269.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/231_front.png"
 			}
 		},
 		{
@@ -2714,7 +2334,7 @@
 			"type": "Legendary Artifact Creature — Construct Noble",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/270.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/232.png"
 			}
 		},
 		{
@@ -2724,57 +2344,7 @@
 			"type": "Artifact",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/271.png"
-			}
-		},
-		{
-			"name": "Deliverance Park",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "59",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/272.png"
-			}
-		},
-		{
-			"name": "Barista Court",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/273.png"
-			}
-		},
-		{
-			"name": "Ma-non Ship Deck",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/274.png"
-			}
-		},
-		{
-			"name": "Outfitters Test Hangar",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "66",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/275.png"
-			}
-		},
-		{
-			"name": "Yardley's Hideaway",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "69",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/276.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/233.png"
 			}
 		},
 		{
@@ -2782,9 +2352,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Artifact Creature — Human Pilot",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/277.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/234.png"
 			}
 		},
 		{
@@ -2794,7 +2364,7 @@
 			"type": "Land",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/278.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/235.png"
 			}
 		},
 		{
@@ -2804,7 +2374,7 @@
 			"type": "Land",
 			"collector_number": "307",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/279.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/236.png"
 			}
 		},
 		{
@@ -2814,7 +2384,7 @@
 			"type": "Land",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/280.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/237.png"
 			}
 		},
 		{
@@ -2824,7 +2394,7 @@
 			"type": "Land",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/281.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/238.png"
 			}
 		},
 		{
@@ -2834,7 +2404,7 @@
 			"type": "Land",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/282.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/239.png"
 			}
 		},
 		{
@@ -2844,7 +2414,7 @@
 			"type": "Land",
 			"collector_number": "313",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/283.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/240.png"
 			}
 		},
 		{
@@ -2854,7 +2424,7 @@
 			"type": "Land",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/284.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/241.png"
 			}
 		},
 		{
@@ -2864,7 +2434,7 @@
 			"type": "Land",
 			"collector_number": "312",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/285.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/242.png"
 			}
 		},
 		{
@@ -2874,7 +2444,7 @@
 			"type": "Land",
 			"collector_number": "314",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/286.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/243.png"
 			}
 		},
 		{
@@ -2884,7 +2454,7 @@
 			"type": "Land",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/287.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/244.png"
 			}
 		},
 		{
@@ -2897,11 +2467,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288_back.png"
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/245_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288_front.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/245_front.png"
 			}
 		},
 		{
@@ -2911,7 +2481,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/289.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/246.png"
 			}
 		},
 		{
@@ -2921,7 +2491,7 @@
 			"type": "Artifact Creature — Human Pilot",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/290.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/247.png"
 			}
 		},
 		{
@@ -2931,7 +2501,7 @@
 			"type": "Legendary Creature — Alien Warrior",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/291.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/248.png"
 			}
 		},
 		{
@@ -2941,7 +2511,7 @@
 			"type": "Artifact",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/292.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/249.png"
 			}
 		},
 		{
@@ -2949,9 +2519,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Artifact Creature — Human Artificer",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/293.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/250.png"
 			}
 		},
 		{
@@ -2959,9 +2529,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{W}",
 			"type": "Legendary Creature — Cat Warrior",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/294.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/251.png"
 			}
 		},
 		{
@@ -2971,7 +2541,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/295.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/252.png"
 			}
 		},
 		{
@@ -2981,7 +2551,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/296.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/253.png"
 			}
 		},
 		{
@@ -2991,7 +2561,7 @@
 			"type": "Creature — Skunk",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/297.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/254.png"
 			}
 		},
 		{
@@ -3001,7 +2571,7 @@
 			"type": "Enchantment",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/298.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/255.png"
 			}
 		},
 		{
@@ -3011,7 +2581,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/299.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/256.png"
 			}
 		},
 		{
@@ -3021,7 +2591,7 @@
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/300.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/257.png"
 			}
 		},
 		{
@@ -3031,7 +2601,7 @@
 			"type": "Legendary Creature — Alien Avatar",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/301.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/258.png"
 			}
 		},
 		{
@@ -3041,7 +2611,7 @@
 			"type": "Creature — Alien",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/302.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/259.png"
 			}
 		},
 		{
@@ -3051,7 +2621,7 @@
 			"type": "Sorcery",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/303.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/260.png"
 			}
 		},
 		{
@@ -3061,7 +2631,7 @@
 			"type": "Enchantment",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/304.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/261.png"
 			}
 		},
 		{
@@ -3071,7 +2641,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "317",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/305.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/262.png"
 			}
 		},
 		{
@@ -3081,7 +2651,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "319",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/306.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/263.png"
 			}
 		},
 		{
@@ -3091,7 +2661,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "321",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/307.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/264.png"
 			}
 		},
 		{
@@ -3101,7 +2671,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "323",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/308.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/265.png"
 			}
 		},
 		{
@@ -3111,17 +2681,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "324",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/309.png"
-			}
-		},
-		{
-			"name": "NLA Invasion Xern",
-			"rarity": "special",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/310.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/266.png"
 			}
 		},
 		{
@@ -3131,17 +2691,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/311.png"
-			}
-		},
-		{
-			"name": "Miran Safekeeping",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Enchantment — Aura",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/312.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/267.png"
 			}
 		},
 		{
@@ -3151,7 +2701,7 @@
 			"type": "Sorcery",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/313.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/268.png"
 			}
 		},
 		{
@@ -3161,7 +2711,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/314.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/269.png"
 			}
 		},
 		{
@@ -3171,7 +2721,7 @@
 			"type": "Enchantment",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/315.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/270.png"
 			}
 		},
 		{
@@ -3179,9 +2729,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Human Soldier",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/316.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/271.png"
 			}
 		},
 		{
@@ -3189,9 +2739,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/317.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/272.png"
 			}
 		},
 		{
@@ -3199,9 +2749,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/318.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/273.png"
 			}
 		},
 		{
@@ -3209,9 +2759,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Vehicle",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/319.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/274.png"
 			}
 		},
 		{
@@ -3221,7 +2771,7 @@
 			"type": "Token Legendary Artifact Creature — Robot",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/320.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/275.png"
 			}
 		},
 		{
@@ -3231,7 +2781,7 @@
 			"type": "Token",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/321.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/276.png"
 			}
 		},
 		{
@@ -3241,7 +2791,7 @@
 			"type": "Token Creature — Chimera Horror",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/322.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/277.png"
 			}
 		},
 		{
@@ -3251,7 +2801,7 @@
 			"type": "Token Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/323.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/278.png"
 			}
 		},
 		{
@@ -3261,7 +2811,7 @@
 			"type": "Token Creature — Boar",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/324.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/279.png"
 			}
 		},
 		{
@@ -3271,7 +2821,7 @@
 			"type": "Token Creature — Sheep",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/325.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/280.png"
 			}
 		},
 		{
@@ -3281,7 +2831,7 @@
 			"type": "Instant",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/326.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/281.png"
 			}
 		},
 		{
@@ -3291,7 +2841,7 @@
 			"type": "Legendary Enchantment — Aura Curse",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/327.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/282.png"
 			}
 		},
 		{
@@ -3301,7 +2851,7 @@
 			"type": "Enchantment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/328.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/283.png"
 			}
 		},
 		{
@@ -3311,7 +2861,7 @@
 			"type": "Enchantment",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/329.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/284.png"
 			}
 		},
 		{
@@ -3321,7 +2871,7 @@
 			"type": "Token Legendary Creature — Alien",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/330.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/285.png"
 			}
 		},
 		{
@@ -3331,7 +2881,7 @@
 			"type": "Legendary Artifact Creature — Human Soldier Pilot",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/331.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/286.png"
 			}
 		},
 		{
@@ -3339,9 +2889,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Artifact Creature — Human Advisor Soldier",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/332.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/287.png"
 			}
 		},
 		{
@@ -3351,7 +2901,7 @@
 			"type": "Legendary Artifact Creature — Human Soldier",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/333.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288.png"
 			}
 		},
 		{
@@ -3359,9 +2909,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Legendary Artifact Creature — Human Soldier Rogue",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/334.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/289.png"
 			}
 		},
 		{
@@ -3371,7 +2921,7 @@
 			"type": "Enchantment",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/335.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/290.png"
 			}
 		},
 		{
@@ -3381,37 +2931,7 @@
 			"type": "Sorcery",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/336.png"
-			}
-		},
-		{
-			"name": "False Defeat",
-			"rarity": "special",
-			"mana_cost": "{3}{W}",
-			"type": "Sorcery",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/337.png"
-			}
-		},
-		{
-			"name": "Celica, Rock's Best Friend",
-			"rarity": "special",
-			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/338.png"
-			}
-		},
-		{
-			"name": "Lurking Columbrim",
-			"rarity": "special",
-			"mana_cost": "{7}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/339.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/291.png"
 			}
 		},
 		{
@@ -3421,7 +2941,7 @@
 			"type": "Artifact Creature — Human Soldier",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/340.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/292.png"
 			}
 		},
 		{
@@ -3431,7 +2951,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/341.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/293.png"
 			}
 		},
 		{
@@ -3441,7 +2961,7 @@
 			"type": "Legendary Creature — Alien Warrior",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/342.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/294.png"
 			}
 		},
 		{
@@ -3451,7 +2971,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/343.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/295.png"
 			}
 		},
 		{
@@ -3461,7 +2981,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/344.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/296.png"
 			}
 		},
 		{
@@ -3469,9 +2989,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/345.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/297.png"
 			}
 		},
 		{
@@ -3481,7 +3001,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/346.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/298.png"
 			}
 		},
 		{
@@ -3491,7 +3011,7 @@
 			"type": "Enchantment",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/347.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/299.png"
 			}
 		},
 		{
@@ -3501,157 +3021,7 @@
 			"type": "Token Creature — Nopon",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/348.png"
-			}
-		},
-		{
-			"name": "Nexus of Fate",
-			"rarity": "special",
-			"mana_cost": "{5}{U}{U}",
-			"type": "Instant",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/349.png"
-			}
-		},
-		{
-			"name": "BLADE Frontliner",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/350.png"
-			}
-		},
-		{
-			"name": "Kentaro Nagi",
-			"rarity": "special",
-			"mana_cost": "{4}{R}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/351.png"
-			}
-		},
-		{
-			"name": "Grex Pack",
-			"rarity": "special",
-			"mana_cost": "{6}{G}{G}",
-			"type": "Creature — Wolf",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/352.png"
-			}
-		},
-		{
-			"name": "Ridill, the Arrogant",
-			"rarity": "special",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Legendary Creature — Shark",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/353.png"
-			}
-		},
-		{
-			"name": "Marshalling the Troops",
-			"rarity": "special",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/354.png"
-			}
-		},
-		{
-			"name": "Poach the Bounty",
-			"rarity": "special",
-			"mana_cost": "{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/355.png"
-			}
-		},
-		{
-			"name": "Cooldown Augment",
-			"rarity": "special",
-			"mana_cost": "{1}",
-			"type": "Artifact",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/356.png"
-			}
-		},
-		{
-			"name": "Bizzare Insidia",
-			"rarity": "special",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Dinosaur",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/357.png"
-			}
-		},
-		{
-			"name": "Poisonous Caecus",
-			"rarity": "special",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Dinosaur",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/358.png"
-			}
-		},
-		{
-			"name": "Parallax Tide",
-			"rarity": "special",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Enchantment",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/359.png"
-			}
-		},
-		{
-			"name": "Mimeosome Manufacturer",
-			"rarity": "special",
-			"mana_cost": "{2}{U}",
-			"type": "Artifact",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/360.png"
-			}
-		},
-		{
-			"name": "Imperial Seal",
-			"rarity": "special",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/361.png"
-			}
-		},
-		{
-			"name": "Dead Man's Gulch",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "58",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/362.png"
-			}
-		},
-		{
-			"name": "Canopied Nightwood",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "56",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/363.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/300.png"
 			}
 		},
 		{
@@ -3661,7 +3031,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/364.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/301.png"
 			}
 		},
 		{
@@ -3671,7 +3041,7 @@
 			"type": "Land",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/365.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/302.png"
 			}
 		},
 		{
@@ -3681,7 +3051,7 @@
 			"type": "Land",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/366.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/303.png"
 			}
 		},
 		{
@@ -3691,7 +3061,7 @@
 			"type": "Land",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/367.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/304.png"
 			}
 		},
 		{
@@ -3701,7 +3071,7 @@
 			"type": "Land",
 			"collector_number": "305",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/368.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/305.png"
 			}
 		},
 		{
@@ -3711,7 +3081,7 @@
 			"type": "Land",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/369.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/306.png"
 			}
 		},
 		{
@@ -3721,7 +3091,7 @@
 			"type": "Land",
 			"collector_number": "302",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/370.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/307.png"
 			}
 		},
 		{
@@ -3731,7 +3101,7 @@
 			"type": "Land",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/371.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/308.png"
 			}
 		},
 		{
@@ -3741,7 +3111,7 @@
 			"type": "Land",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/372.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/309.png"
 			}
 		},
 		{
@@ -3751,7 +3121,7 @@
 			"type": "Land",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/373.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/310.png"
 			}
 		},
 		{
@@ -3761,17 +3131,7 @@
 			"type": "Land",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/374.png"
-			}
-		},
-		{
-			"name": "Alexa, Weaponized",
-			"rarity": "special",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Creature — Human Wizard Pilot",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/375.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/311.png"
 			}
 		},
 		{
@@ -3781,7 +3141,7 @@
 			"type": "Legendary Creature — Alien Artificer",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/376.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/312.png"
 			}
 		},
 		{
@@ -3791,7 +3151,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/377.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/313.png"
 			}
 		},
 		{
@@ -3801,7 +3161,7 @@
 			"type": "Enchantment",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/378.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/314.png"
 			}
 		},
 		{
@@ -3811,27 +3171,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/379.png"
-			}
-		},
-		{
-			"name": "Mia, Stranded Surveyor",
-			"rarity": "special",
-			"mana_cost": "{2}{R}{G/W}",
-			"type": "Legendary Creature — Human Scout",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/380.png"
-			}
-		},
-		{
-			"name": "Behemoth's Shadows",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/381.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/315.png"
 			}
 		},
 		{
@@ -3841,7 +3181,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/382.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/316.png"
 			}
 		},
 		{
@@ -3851,7 +3191,7 @@
 			"type": "Sorcery",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/383.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/317.png"
 			}
 		},
 		{
@@ -3859,29 +3199,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact — Equipment",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/384.png"
-			}
-		},
-		{
-			"name": "Skell Salvager",
-			"rarity": "special",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Phyrexian Human Cleric",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/385.png"
-			}
-		},
-		{
-			"name": "Bounty of the Hunt",
-			"rarity": "special",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Instant",
-			"collector_number": "31",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/386.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/318.png"
 			}
 		},
 		{
@@ -3891,7 +3211,7 @@
 			"type": "Legendary Creature — Telethia",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/387.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/319.png"
 			}
 		},
 		{
@@ -3901,7 +3221,7 @@
 			"type": "Legendary Creature — Yggralith",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/388.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/320.png"
 			}
 		},
 		{
@@ -3911,7 +3231,7 @@
 			"type": "Artifact",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/389.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/321.png"
 			}
 		},
 		{
@@ -3921,17 +3241,17 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/390.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/322.png"
 			}
 		},
 		{
-			"name": "FrontierNav Developer",
+			"name": "Probe Installation Team",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Artifact Creature — Human Scout",
-			"collector_number": "242",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/391.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/323.png"
 			}
 		},
 		{
@@ -3941,27 +3261,7 @@
 			"type": "Sorcery",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/392.png"
-			}
-		},
-		{
-			"name": "Lin Lee Koo",
-			"rarity": "special",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Angel",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/393.png"
-			}
-		},
-		{
-			"name": "De-mat Zone",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Land — Gate",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/394.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/324.png"
 			}
 		},
 		{
@@ -3971,7 +3271,7 @@
 			"type": "Enchantment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/395.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/325.png"
 			}
 		},
 		{
@@ -3981,7 +3281,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/396.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/326.png"
 			}
 		},
 		{
@@ -3991,7 +3291,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/397.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/327.png"
 			}
 		},
 		{
@@ -4001,7 +3301,7 @@
 			"type": "Token Creature — Alien",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/398.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/328.png"
 			}
 		},
 		{
@@ -4011,7 +3311,7 @@
 			"type": "Token Legendary Artifact — Vehicle",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/399.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/329.png"
 			}
 		},
 		{
@@ -4021,7 +3321,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/400.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/330.png"
 			}
 		},
 		{
@@ -4031,7 +3331,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/401.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/331.png"
 			}
 		},
 		{
@@ -4041,7 +3341,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "318",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/402.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/332.png"
 			}
 		},
 		{
@@ -4051,7 +3351,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "320",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/403.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/333.png"
 			}
 		},
 		{
@@ -4061,7 +3361,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "322",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/404.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/334.png"
 			}
 		},
 		{
@@ -4071,7 +3371,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/405.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/335.png"
 			}
 		},
 		{
@@ -4079,9 +3379,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/406.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/336.png"
 			}
 		},
 		{
@@ -4091,7 +3391,7 @@
 			"type": "Creature — Nopon",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/407.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/337.png"
 			}
 		},
 		{
@@ -4101,7 +3401,7 @@
 			"type": "Legendary Creature — Sphinx",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/408.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/338.png"
 			}
 		},
 		{
@@ -4111,7 +3411,7 @@
 			"type": "Enchantment",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/409.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/339.png"
 			}
 		},
 		{
@@ -4124,11 +3424,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/410_back.png"
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/340_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/410_front.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/340_front.png"
 			}
 		},
 		{
@@ -4141,11 +3441,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/413_back.png"
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/343_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/413_front.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/343_front.png"
 			}
 		},
 		{
@@ -4153,28 +3453,18 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Artifact Creature — Human Scout Spy",
-			"collector_number": "251",
+			"collector_number": "250",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/415_back.png"
+					"en": "https://xenobladexfan.github.io/sets/XCX-files/img/345_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/415_front.png"
+				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/345_front.png"
 			}
 		},
-		{
-			"name": "Clue",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Clue",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/416.png"
-			}
-		}
 	]
 
 [rare(1)]
@@ -4396,7 +3686,7 @@
 	4 Electromagnetic Interference
 	4 BLADE Chopper
 	4 Mia is Missing!
-	4 FrontierNav Developer
+	4 Probe Installation Team
 	4 A Hero's Ride
 [common(6)]
 	8 Grassland Ovis
@@ -4575,51 +3865,8 @@
 	8 Lifepod
 	8 Mastermind's Raygun
 	8 How's It Poppin'?
-	3 Director General Chausson
-	3 Crash of the White Whale
-	3 Ga Jiarg, Master of the Battlefield
-	3 Ma-Non Ship
-	3 Cultural Exchange
-	3 Eternity Vessel
-	3 Choice of Damnations
-	3 Yardley's Lifepod
-	3 Thickest in the Thicket
-	3 Brute Millepod
-	3 Telethia, Ruler of Fates
-	3 Sabula Mates
-	3 Skell Scrapper
-	3 Plannetary Annihilation
-	3 Atop The Giant Ring
-	3 Delusians Summit
-	3 Bihano Water-Purification Plant
-	3 The Divine Roost
-	3 Volitaris, the Great Prison
-	3 Mount M'gando
 	8 Smooth Recovery
 	8 Vitriolic Cesspool
-	3 Bloodthirsty Adsecula
-	3 Sharon Effinger, Murderess
-	3 Elma, Reclaimer
-	3 Hope Alanzi
-	3 Ace Skell Engineer
-	3 Inspiring Commander
-	3 Inherit the Tainted Virus
-	3 Wish Good Luck
-	3 The Yawning Giant
-	3 Ganglion Antropolis
-	3 The Silent Mire
-	3 NLA, Humanity's Bastion
-	3 Commander Jack Vandham
-	3 The Decayed Core
-	3 Sprout Swarm
-	3 Ma-non Ship Core
-	3 Doug Barret
-	3 BLADE Command Console
-	3 Deliverance Park
-	3 Barista Court
-	3 Ma-non Ship Deck
-	3 Outfitters Test Hangar
-	3 Yardley's Hideaway
 	8 Badr Stronghold
 	8 Bedrock Hold
 	8 Seaswept Base
@@ -4630,35 +3877,8 @@
 	8 Lakeview Stronghold
 	8 Scabland Fortress
 	8 Ensconced Citadel
-	3 NLA Invasion Xern
 	8 Wrothian Caladar
-	3 Miran Safekeeping
-	3 False Defeat
-	3 Celica, Rock's Best Friend
-	3 Lurking Columbrim
-	3 Nexus of Fate
-	3 BLADE Frontliner
-	3 Kentaro Nagi
-	3 Grex Pack
-	3 Ridill, the Arrogant
-	3 Marshalling the Troops
-	3 Poach the Bounty
-	3 Cooldown Augment
-	3 Bizzare Insidia
-	3 Poisonous Caecus
-	3 Parallax Tide
-	3 Mimeosome Manufacturer
-	3 Imperial Seal
-	3 Dead Man's Gulch
-	3 Canopied Nightwood
 	8 Tornado Jacul
-	3 Alexa, Weaponized
-	3 Mia, Stranded Surveyor
-	3 Behemoth's Shadows
-	3 Skell Salvager
-	3 Bounty of the Hunt
-	3 Lin Lee Koo
-	3 De-mat Zone
 	8 Lakeside Getaway
 	8 Emotion Commotion
 	8 Lifepod Recruitment
@@ -4966,7 +4186,7 @@
 	1 Pharsis, the Everqueen
 	2 FrontierNav
 	6 Mia is Missing!
-	6 FrontierNav Developer
+	6 Probe Installation Team
 	2 Bahamut Wave
 	6 A Hero's Ride
 	12 Lakeside Getaway
@@ -5282,7 +4502,7 @@
 	4 Pharsis, the Everqueen
 	7 FrontierNav
 	15 Mia is Missing!
-	15 FrontierNav Developer
+	15 Probe Installation Team
 	7 Bahamut Wave
 	15 A Hero's Ride
 	6 Lakeside Getaway

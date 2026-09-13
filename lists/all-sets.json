@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "PXCX",
+            "set_name": "XCX Promos",
+            "formats": ""
+        },
+        {
             "set_code": "XCX",
             "set_name": "Xenoblade X",
             "formats": ""
