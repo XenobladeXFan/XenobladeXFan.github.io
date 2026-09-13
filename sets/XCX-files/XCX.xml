@@ -5102,10 +5102,10 @@ Whenever a hunted creature dies, you may return it to the battlefield under your
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Volitarian Supression</name>
+			<name>Volitarian Suppression</name>
 			<text>Ambush {2}{U}{U} (You may cast this spell for its ambush cost as though it had flash.)
-Permanents entering don&apos;t cause abilities to trigger.
-Other nonland permanents that entered this turn lose all abilities.</text>
+Whenever another nonland permanent enters, it loses all abilities until end of turn.
+Permanents entering don&apos;t cause abilities of permanents other than this enchantment to trigger.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/290.png" num="88">XCX</set>
 			<prop>
 				<layout>normal</layout>

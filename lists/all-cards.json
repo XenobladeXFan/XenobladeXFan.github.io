@@ -8317,14 +8317,14 @@
             "v_mana": ""
         },
         {
-            "card_name": "Volitarian Supression",
+            "card_name": "Volitarian Suppression",
             "color": "U",
             "rarity": "rare",
             "type": "Enchantment",
             "number": 88,
             "color_identity": "U",
             "cost": "{U}{U}",
-            "rules_text": "Ambush {2}{U}{U} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nPermanents entering don't cause abilities to trigger.\nOther nonland permanents that entered this turn lose all abilities.",
+            "rules_text": "Ambush {2}{U}{U} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nWhenever another nonland permanent enters, it loses all abilities until end of turn.\nPermanents entering don't cause abilities of permanents other than this enchantment to trigger.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

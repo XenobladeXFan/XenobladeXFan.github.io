@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Volitarian Suppression added.
+
+Volitarian Supression removed.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Probe Installation Team added.

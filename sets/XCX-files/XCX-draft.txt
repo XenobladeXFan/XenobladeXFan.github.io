@@ -2915,7 +2915,7 @@
 			}
 		},
 		{
-			"name": "Volitarian Supression",
+			"name": "Volitarian Suppression",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Enchantment",
@@ -3545,7 +3545,7 @@
 	2 Nagi, Reporting for Duty
 	2 Hope, Heart of NLA
 	2 Murderess, Greed and Power
-	2 Volitarian Supression
+	2 Volitarian Suppression
 	2 Assault on Volitaris
 	2 BLADE Savior
 	1 Prog Ares
@@ -4155,7 +4155,7 @@
 	2 Nagi, Reporting for Duty
 	2 Hope, Heart of NLA
 	2 Murderess, Greed and Power
-	2 Volitarian Supression
+	2 Volitarian Suppression
 	2 Assault on Volitaris
 	2 BLADE Savior
 	1 Prog Ares
@@ -4471,7 +4471,7 @@
 	7 Nagi, Reporting for Duty
 	7 Hope, Heart of NLA
 	7 Murderess, Greed and Power
-	7 Volitarian Supression
+	7 Volitarian Suppression
 	7 Assault on Volitaris
 	7 BLADE Savior
 	4 Prog Ares
