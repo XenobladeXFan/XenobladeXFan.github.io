@@ -1,4 +1,33 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Test Hangar
+rules_text: When this enchantment enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Whenever one or more artifact creatures you control deal combat damage to a player, scry 1. If it was a Vehicle, draw a card. => When this enchantment enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+Whenever one or more artifact creatures you control deal combat damage to a player, surveil 1. If it was a Vehicle, draw a card.
+
+Lend an Ear
+rules_text: Draw two cards.
+When you do, choose one —
+• [i]Become a Liaison[/i] — Scry 2.
+• [i]Become a Warrior[/i] — Put a +1/+1 counter on target creature you control. => Draw two cards.
+When you do, choose one —
+• [i]Become a Liaison[/i] — Surveil 2.
+• [i]Become a Warrior[/i] — Put a +1/+1 counter on target creature you control.
+
+Cause and Effect
+rules_text: Scry X, where X is the number of artifacts you control. [i](To scry X, look at the top X cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+Draw a card. => Surveil X, where X is the number of artifacts you control. [i](To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Draw a card.
+
+Dusk Adsecula
+
+Urban ST
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Volitarian Suppression added.

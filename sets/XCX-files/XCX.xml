@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-13</releasedate>
+			<releasedate>2026-09-14</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -861,7 +861,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Test Hangar</name>
 			<text>When this enchantment enters, create a 3/2 colorless Vehicle artifact token with crew 1.
-Whenever one or more artifact creatures you control deal combat damage to a player, scry 1. If it was a Vehicle, draw a card.</text>
+Whenever one or more artifact creatures you control deal combat damage to a player, surveil 1. If it was a Vehicle, draw a card.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/48.png" num="84">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -929,7 +929,7 @@ At the beginning of combat on your turn, target artifact creature you control ge
 			<name>Lend an Ear</name>
 			<text>Draw two cards.
 When you do, choose one —
-• Become a Liaison — Scry 2.
+• Become a Liaison — Surveil 2.
 • Become a Warrior — Put a +1/+1 counter on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/52.png" num="60">XCX</set>
 			<prop>
@@ -962,7 +962,7 @@ When you do, choose one —
 		</card>
 		<card>
 			<name>Cause and Effect</name>
-			<text>Scry X, where X is the number of artifacts you control. (To scry X, look at the top X cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+			<text>Surveil X, where X is the number of artifacts you control. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Draw a card.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/54.png" num="52">XCX</set>
 			<prop>

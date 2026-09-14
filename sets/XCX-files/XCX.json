@@ -1023,7 +1023,7 @@
             "number": 84,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this enchantment enters, create a 3/2 colorless Vehicle artifact token with crew 1.\nWhenever one or more artifact creatures you control deal combat damage to a player, scry 1. If it was a Vehicle, draw a card.",
+            "rules_text": "When this enchantment enters, create a 3/2 colorless Vehicle artifact token with crew 1.\nWhenever one or more artifact creatures you control deal combat damage to a player, surveil 1. If it was a Vehicle, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1107,7 +1107,7 @@
             "number": 60,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Draw two cards.\nWhen you do, choose one \u2014\n\u2022 [i]Become a Liaison[/i] \u2014 Scry 2.\n\u2022 [i]Become a Warrior[/i] \u2014 Put a +1/+1 counter on target creature you control.",
+            "rules_text": "Draw two cards.\nWhen you do, choose one \u2014\n\u2022 [i]Become a Liaison[/i] \u2014 Surveil 2.\n\u2022 [i]Become a Warrior[/i] \u2014 Put a +1/+1 counter on target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1149,7 +1149,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Scry X, where X is the number of artifacts you control. [i](To scry X, look at the top X cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]\nDraw a card.",
+            "rules_text": "Surveil X, where X is the number of artifacts you control. [i](To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]\nDraw a card.",
             "flavor_text": "[i]The beginning of humanity's success came with the end of Mira.[/i]",
             "pt": "",
             "special_text": "",
@@ -1297,7 +1297,7 @@
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Flying\nWhenever this creature deals combat damage to an opponent, return target creature or Vehicle card from your graveyard to your hand.",
-            "flavor_text": "[i]\u201cAnd I thought the mosquitos back home were annoying.\u201d\n\u2014 Liz, Mediator rookie[/i]",
+            "flavor_text": "[i]\u201cAnd I thought the mosquitoes back home were annoying.\u201d\n\u2014 Liz, Mediator rookie[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -2746,7 +2746,7 @@
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
-            "flavor_text": "[i]A beginner Skell given to those who have just passed their Skell License exam.[/i]",
+            "flavor_text": "[i]A beginner Skell given to those who have passed their Skell License exam.[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -7283,5 +7283,5 @@
             "notes": "MZ04\nMZ04"
         }
     ],
-    "version": 6
+    "version": 7
 }
