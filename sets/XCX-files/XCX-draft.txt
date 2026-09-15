@@ -323,7 +323,7 @@
 		{
 			"name": "Revelation of Old",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {

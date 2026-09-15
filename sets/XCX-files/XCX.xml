@@ -578,15 +578,15 @@ Equip {3}</text>
 		<card>
 			<name>Revelation of Old</name>
 			<text>Draw a card. If this spell was cast from your graveyard, draw two cards instead.
-Flashback {3}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/32.png" num="76">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -2781,7 +2781,7 @@ During turns other than yours, spells you cast cost {1} less to cast.</text>
 		</card>
 		<card>
 			<name>Sift Through Souls</name>
-			<text>At the beginning of your first main phase, mill cards equal to the number of cards in your graveyard, then return a card from your graveyard to your hand.</text>
+			<text>At the beginning of your first main phase, you may mill cards equal to the number of cards in your graveyard. If you do, return a card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/159.png" num="268">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3343,7 +3343,7 @@ Whenever Vortice or a Mountain you control enters, exile cards from the top of y
 		</card>
 		<card>
 			<name>Activate Overdrive</name>
-			<text>This spell can&apos;t be countered or copied.
+			<text>This spell can&apos;t be copied.
 Untap a land you control.
 Until end of turn, whenever you cast a spell, draw a card, then untap a land you control.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/191.png" num="48">XCX</set>
@@ -3845,11 +3845,11 @@ Whenever Phog deals combat damage to a player, reveal the top card of your libra
 		</card>
 		<card>
 			<name>Multigun</name>
-			<text>Whenever equipped creature attacks, choose one —
-• Put a +1/+1 counters on equipped creature.
+			<text>Equipped creature has &quot;Whenever this creature attacks, choose one —
+• Put a +1/+1 counters on this creature.
 • Tap target creature.
 • Put a stun counter on target tapped creature.
-• Remove a counter from any permanent you control. If you do, this Equipment deals 2 damage to any target.
+• Remove a counter from any permanent you control. If you do, Mutligun deals 2 damage to any target.&quot;
 Equip {1}</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/220.png" num="286">XCX</set>
 			<prop>

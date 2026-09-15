@@ -1,4 +1,81 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Revelation of Old
+cost: {2}{U} => {1}{U}
+rules_text: Draw a card. If this spell was cast from your graveyard, draw two cards instead.
+Flashback {3}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Draw a card. If this spell was cast from your graveyard, draw two cards instead.
+Flashback {3}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Trade Agreement
+
+Quick Cooldown
+
+Gruesome Revelation
+
+BLADE Interceptor
+
+BLADE Harrier
+
+BLADE Prospector
+
+BLADE Mediator
+
+Sift Through Souls
+rules_text: At the beginning of your first main phase, mill cards equal to the number of cards in your graveyard, then return a card from your graveyard to your hand. => At the beginning of your first main phase, you may mill cards equal to the number of cards in your graveyard. If you do, return a card from your graveyard to your hand.
+
+Volitaris, Where It All Ends
+
+Activate Overdrive
+rules_text: This spell can't be countered or copied.
+Untap a land you control.
+Until end of turn, whenever you cast a spell, draw a card, then untap a land you control. => This spell can't be copied.
+Untap a land you control.
+Until end of turn, whenever you cast a spell, draw a card, then untap a land you control.
+
+New Los Angeles
+
+Multigun
+rules_text: Whenever equipped creature attacks, choose one —
+• Put a +1/+1 counters on equipped creature.
+• Tap target creature.
+• Put a stun counter on target tapped creature.
+• Remove a counter from any permanent you control. If you do, this Equipment deals 2 damage to any target.
+Equip {1} => Equipped creature has “Whenever this creature attacks, choose one —
+• Put a +1/+1 counters on this creature.
+• Tap target creature.
+• Put a stun counter on target tapped creature.
+• Remove a counter from any permanent you control. If you do, Mutligun deals 2 damage to any target.”
+Equip {1}
+
+Relentless Expansion
+
+Volitarian Suppression
+
+Sentinel's Nest
+
+Bestial Utopia
+
+Barracks Interior
+
+White Phosphor Lake
+
+Cleansing Spring
+
+Sunset Falls
+
+Greiving Plains
+
+Kintrees
+
+Headwater Summit
+
+Ancient Warscape
+
+
+VERSION 7 CHANGELOG
 ====================
 
 

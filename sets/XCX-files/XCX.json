@@ -686,8 +686,8 @@
             "type": "Instant",
             "number": 76,
             "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "Draw a card. If this spell was cast from your graveyard, draw two cards instead.\nFlashback {3}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "cost": "{1}{U}",
+            "rules_text": "Draw a card. If this spell was cast from your graveyard, draw two cards instead.\nFlashback {3}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i]\u201cThen god is real too?\u201d\n\u2014 Tatsu[/i]",
             "pt": "",
             "special_text": "",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "UU09"
+            "notes": "UU09\n!tag wishlist"
         },
         {
             "card_name": "Scour FrontierNav",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "Flavor text\nUU14"
+            "notes": "UU14"
         },
         {
             "card_name": "Nocturnal Vesper",
@@ -1744,7 +1744,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX: DE (FazFaz)",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "82",
             "rotated": false,
@@ -1828,7 +1828,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "Monolith Soft",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "86",
             "rotated": false,
@@ -2143,7 +2143,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "Monolith Soft",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "101",
             "rotated": false,
@@ -2794,7 +2794,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "Monolith Soft",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "132",
             "rotated": false,
@@ -2899,7 +2899,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "Monolith Soft",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "137",
             "rotated": false,
@@ -3354,7 +3354,7 @@
             "number": 268,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
-            "rules_text": "At the beginning of your first main phase, mill cards equal to the number of cards in your graveyard, then return a card from your graveyard to your hand.",
+            "rules_text": "At the beginning of your first main phase, you may mill cards equal to the number of cards in your graveyard. If you do, return a card from your graveyard to your hand.",
             "flavor_text": "[i]\u201cNow, the Ares was a step ahead of me. It sifted through that huge torrent of data, and presented me with the information I most wanted in that moment.\u201d\n\u2014 Alois Bernholt[/i]",
             "pt": "",
             "special_text": "",
@@ -3365,7 +3365,7 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": "UZ18"
+            "notes": "UZ18\n!tag wishlist"
         },
         {
             "card_name": "Welkin Levitath",
@@ -3886,7 +3886,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XDX: DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "184",
             "rotated": false,
@@ -4026,7 +4026,7 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "This spell can't be countered or copied.\nUntap a land you control.\nUntil end of turn, whenever you cast a spell, draw a card, then untap a land you control.",
+            "rules_text": "This spell can't be copied.\nUntap a land you control.\nUntil end of turn, whenever you cast a spell, draw a card, then untap a land you control.",
             "flavor_text": "[i]\u201cOn me! Grant them no quarter!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -4037,7 +4037,7 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": "RU01"
+            "notes": "RU01\n!tag wishlist"
         },
         {
             "card_name": "Demise Ictus",
@@ -4150,7 +4150,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "196",
             "rotated": false,
@@ -4647,7 +4647,7 @@
             "number": 286,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Whenever equipped creature attacks, choose one \u2014\n\u2022 Put a +1/+1 counters on equipped creature.\n\u2022 Tap target creature.\n\u2022 Put a stun counter on target tapped creature.\n\u2022 Remove a counter from any permanent you control. If you do, this Equipment deals 2 damage to any target.\nEquip {1}",
+            "rules_text": "Equipped creature has \u201cWhenever this creature attacks, choose one \u2014\n\u2022 Put a +1/+1 counters on this creature.\n\u2022 Tap target creature.\n\u2022 Put a stun counter on target tapped creature.\n\u2022 Remove a counter from any permanent you control. If you do, Mutligun deals 2 damage to any target.\u201d\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6022,11 +6022,11 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "John Gast",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "MG02"
+            "notes": "MG02\n!tag wishlist"
         },
         {
             "card_name": "Rock, Celica's Friend",
@@ -6152,7 +6152,7 @@
             "alias": "",
             "position": "290",
             "rotated": false,
-            "notes": "RU11"
+            "notes": "RU11\n!tag wishlist"
         },
         {
             "card_name": "Assault on Volitaris",
@@ -6400,7 +6400,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "302",
             "rotated": false,
@@ -6421,7 +6421,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "303",
             "rotated": false,
@@ -6442,7 +6442,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "304",
             "rotated": false,
@@ -6463,7 +6463,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "305",
             "rotated": false,
@@ -6484,7 +6484,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "306",
             "rotated": false,
@@ -6505,7 +6505,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "307",
             "rotated": false,
@@ -6526,7 +6526,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "308",
             "rotated": false,
@@ -6547,7 +6547,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "309",
             "rotated": false,
@@ -6568,7 +6568,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "310",
             "rotated": false,
@@ -6589,7 +6589,7 @@
             "shape": "normal",
             "set": "XCX",
             "loyalty": "",
-            "artist": "XCX:DE",
+            "artist": "XCX: DE",
             "alias": "",
             "position": "311",
             "rotated": false,
@@ -7283,5 +7283,5 @@
             "notes": "MZ04\nMZ04"
         }
     ],
-    "version": 7
+    "version": 8
 }
