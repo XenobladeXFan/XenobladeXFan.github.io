@@ -1,4 +1,37 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Combat Revive added.
+
+Ambush Reanimate removed.
+
+Expedition Lead
+
+Spy Games
+
+BLADE Spy
+
+Cavern Expedition
+
+Reckless Thrash
+
+Metallic Crunch
+rules_text: Choose one or both —
+• Destroy target Equipment.
+• This spell deals 3 damage to any target. => Choose one or both —
+• Destroy target Equipment or Vehicle.
+• This spell deals 3 damage to any target.
+
+Furious Flurry
+
+BLADE Savior
+
+Pharsis, the Everqueen
+
+A Hero's Ride
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

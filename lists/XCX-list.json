@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Black Tar",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -536,8 +536,8 @@
         "position": "54"
     },
     {
-        "card_name": "Ambush Reanimate",
-        "number": 92,
+        "card_name": "Combat Revive",
+        "number": 96,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Ambushing Strike",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1257,7 +1257,7 @@
     },
     {
         "card_name": "Black Bane",
-        "number": 94,
+        "number": 93,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1297,7 +1297,7 @@
     },
     {
         "card_name": "Brutal Prone",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,

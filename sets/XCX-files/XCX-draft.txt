@@ -605,7 +605,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Alien Soldier",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/60.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/66.png"
 			}
@@ -831,11 +831,11 @@
 			}
 		},
 		{
-			"name": "Ambush Reanimate",
+			"name": "Combat Revive",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/83.png"
 			}
@@ -2839,7 +2839,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Enchantment — Aura Curse",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/282.png"
 			}
@@ -3618,7 +3618,7 @@
 	4 Tyrant's Grave
 	4 Intimidation Tactics
 	4 Gruesome Revelation
-	4 Ambush Reanimate
+	4 Combat Revive
 	4 Ganglion Base
 	4 Dark Matters
 	4 Rookie Training
@@ -3965,7 +3965,7 @@
 	6 Tyrant's Grave
 	6 Intimidation Tactics
 	6 Gruesome Revelation
-	6 Ambush Reanimate
+	6 Combat Revive
 	6 Ganglion Base
 	6 Dark Matters
 	12 BLADE Interceptor
@@ -4281,7 +4281,7 @@
 	15 Tyrant's Grave
 	15 Intimidation Tactics
 	15 Gruesome Revelation
-	15 Ambush Reanimate
+	15 Combat Revive
 	15 Ganglion Base
 	15 Dark Matters
 	6 BLADE Interceptor

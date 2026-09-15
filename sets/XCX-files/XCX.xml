@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-14</releasedate>
+			<releasedate>2026-09-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1069,7 +1069,7 @@ Self-Destruct — {1}, {T}, Exile this creature: It deals 1 damage to target opp
 			<name>Brutal Prone</name>
 			<text>Ambush {3}{B} (You may cast this spell for its ambush cost as though it had flash.)
 When this creature enters, hunt target creature you don&apos;t control. (Create a Hunted Aura token attached to it with &quot;When enchanted creature dies, draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/60.png" num="96">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/60.png" num="95">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1158,7 +1158,7 @@ Menace</text>
 		<card>
 			<name>Black Bane</name>
 			<text>Until end of turn, target creature an opponent controls gets -2/-2 plus an additional -2/-2 for each counter on it.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/65.png" num="94">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/65.png" num="93">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1174,7 +1174,7 @@ Menace</text>
 		<card>
 			<name>Ambushing Strike</name>
 			<text>Target creature you control gains deathtouch until end of turn. If it entered this turn, it also gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/66.png" num="93">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/66.png" num="92">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1472,10 +1472,10 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Ambush Reanimate</name>
-			<text>Ambush {5}{B}{B} (You may cast this spell for its ambush cost as though it had flash.)
-Return target creature from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/83.png" num="92">XCX</set>
+			<name>Combat Revive</name>
+			<text>Ambush {4}{B}{B} (You may cast this spell for its ambush cost as though it had flash.)
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/83.png" num="96">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1946,7 +1946,7 @@ Equip {5}</text>
 		<card>
 			<name>Metallic Crunch</name>
 			<text>Choose one or both —
-• Destroy target Equipment.
+• Destroy target Equipment or Vehicle.
 • This spell deals 3 damage to any target.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/110.png" num="161">XCX</set>
 			<prop>
@@ -4964,7 +4964,7 @@ When enchanted creature dies, draw a card.</text>
 			<text>Enchant player
 At the beginning of enchanted player&apos;s end step, put a -1/-1 counter on each creature they control that didn&apos;t enter or attack this turn.
 When enchanted player controls no creatures, sacrifice Black Tar.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/282.png" num="95">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/282.png" num="94">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
