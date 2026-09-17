@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-15</releasedate>
+			<releasedate>2026-09-17</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2391,7 +2391,7 @@ Exhaust — {6}: Put three +1/+1 counters on this creature. Its name becomes &qu
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Human Scientist</type>
+				<type>Artifact Creature — Alien Human Scientist</type>
 				<maintype>Creature</maintype>
 				<manacost>3</manacost>
 				<cmc>3</cmc>

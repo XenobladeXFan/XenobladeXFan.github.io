@@ -1,4 +1,39 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+BLADE Reinforcements
+
+Restart Development
+
+Trade Agreement
+
+Caravan Fireworks
+
+Rapid Misfire
+
+Rookie Training
+
+Anti-Air Assault
+
+FrontierNav Researcher
+type: Artifact Creature — Human Scientist => Artifact Creature — Alien Human Scientist
+
+The Root of All Evil
+
+BLADE Commando
+
+Ambush Camouflage
+
+BLADE Outfitter
+
+Combat Maneuver Instructor
+
+Awakened Colubrium
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Combat Revive added.

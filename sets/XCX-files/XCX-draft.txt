@@ -1364,7 +1364,7 @@
 			"name": "FrontierNav Researcher",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Human Scientist",
+			"type": "Artifact Creature — Alien Human Scientist",
 			"collector_number": "280",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/136.png"
