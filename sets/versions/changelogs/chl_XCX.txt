@@ -1,4 +1,164 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Homefront Invasion added.
+
+War on NLA removed.
+
+Daylight Aprica
+
+Sky Sunder
+
+Formula Zero
+
+Drone Pawn Quo
+
+Settle Beyond Reality
+
+Atomic Hit
+
+Revelation of Old
+
+Spy Games
+
+Restart Development
+
+Fortun and Glory
+
+Scour FrontierNav
+
+Lend an Ear
+
+Nocturnal Vesper
+
+Brutal Prone
+pt: 2/2 => 3/1
+
+Black Bane
+
+Rites of Ruin
+
+Wander Too Far
+rules_text: This spell costs {1}{B} less to cast if it targets a creature that explored this turn.
+Destroy target creature an opponent controls. Its controller reveals cards from the top of their library until the reveal a land card, then put all cards revealed this way into their graveyard. => This spell costs {1}{B} less to cast if it targets a creature that explored this turn.
+Destroy target creature an opponent controls. Its controller reveals cards from the top of their library until they reveal a land card, then put all cards revealed this way into their graveyard.
+
+Lao's Redemption
+
+Marnuck Cutthroat
+
+Intimidation Tactics
+
+Combat Revive
+
+Ganglion Base
+
+Dark Matters
+
+Mirage Vivohast
+
+Reckless Thrash
+
+Rapid Misfire
+
+BLADE Harrier
+
+Shield Trooper's Gatling Gun
+rules_text: Class select [i](When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)[/i]
+Equipped creature has “[i]Enrage[/i] — Whenever this creature is dealt damage, it deals 2 damage to another target.”
+Equip {2} => Class select [i](When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)[/i]
+Equipped creature has “[i]Enrage[/i] — Whenever this creature is dealt damage, it deals 2 damage to any other target.”
+Equip {2}
+
+Into the Core
+
+Metallic Crunch
+
+Fire Carnival
+
+Anti-Air Assault
+
+Brimstone Rain
+
+Hermit Tectinsula
+
+Brobdingnagian Sylooth
+
+Lurk in Wait
+
+A Hero's Trial
+
+Mira's Expanse
+
+Scour from Existence
+
+Armored Suid
+
+Disaster Vigent
+
+Golden Loot
+
+Raging Sandstorm
+
+Dematerialization Event
+
+Demise Ictus
+
+Gwin Evans, Rising BLADE
+
+Wrothian Battle Gauntlet
+
+The Key We've Lost
+
+Tatsu, Totally Not Food
+
+Fortun, Definian Mother
+
+Strike Launcher Zig
+
+Slovity Pagus, Cavern Crusher
+pt: 3/3 => 3/4
+
+Lao's Betrayal
+
+Obscuring Spores
+
+Multiversal Convergence
+
+Ghost Cathedral
+
+Gaze Upon the Horizon
+
+Furious Flurry
+
+Hope, Heart of NLA
+
+Blossom Dance
+
+Howling Soul
+
+Professor B°&7k%±|, Mystery Man
+
+Heat Wave
+
+BLADE Chopper
+
+Sunlit Trap
+
+Telethia, the Endbringer
+
+Pharsis, the Everqueen
+
+FrontierNav
+
+Mia is Missing!
+
+Pollen Orb Smuggler
+
+Tainted Sphinx
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

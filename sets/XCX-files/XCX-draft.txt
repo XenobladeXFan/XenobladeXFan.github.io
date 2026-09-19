@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Human Artificer",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Insect",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/3.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Alien",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/6.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/14.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Insect Plant",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/18.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/20.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/24.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/26.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/31.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Artifact Creature — Human Pilot",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/49.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/177.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/208.png"
 			}
@@ -2569,7 +2569,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/255.png"
 			}
@@ -2695,11 +2695,11 @@
 			}
 		},
 		{
-			"name": "War on NLA",
+			"name": "Homefront Invasion",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/268.png"
 			}
@@ -2849,7 +2849,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/283.png"
 			}
@@ -2899,7 +2899,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Artifact Creature — Human Soldier",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/288.png"
 			}
@@ -3009,7 +3009,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/299.png"
 			}
@@ -3029,7 +3029,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/301.png"
 			}
@@ -3209,7 +3209,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{7}{W}{W}{W}",
 			"type": "Legendary Creature — Telethia",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://xenobladexfan.github.io/sets/XCX-files/img/319.png"
 			}
@@ -3535,7 +3535,7 @@
 	1 Ghost Cathedral
 	2 Gaze Upon the Horizon
 	2 Shimmer & Savy Exchange
-	2 War on NLA
+	2 Homefront Invasion
 	2 Macabre Aeviter
 	1 Glimpse the Multiverse
 	2 Black Tar
@@ -4144,7 +4144,7 @@
 	2 Gaze Upon the Horizon
 	2 Shimmer & Savy Exchange
 	12 Wrothian Caladar
-	2 War on NLA
+	2 Homefront Invasion
 	2 Macabre Aeviter
 	1 Glimpse the Multiverse
 	6 Furious Flurry
@@ -4460,7 +4460,7 @@
 	7 Gaze Upon the Horizon
 	7 Shimmer & Savy Exchange
 	6 Wrothian Caladar
-	7 War on NLA
+	7 Homefront Invasion
 	7 Macabre Aeviter
 	4 Glimpse the Multiverse
 	15 Furious Flurry

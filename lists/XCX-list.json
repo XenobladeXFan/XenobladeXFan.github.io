@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Telethia, the Endbringer",
-        "number": 40,
+        "number": 41,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -240,12 +240,12 @@
         "position": "195"
     },
     {
-        "card_name": "Hope, Heart of NLA",
+        "card_name": "Homefront Invasion",
         "number": 24,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "288"
+        "position": "268"
     },
     {
         "card_name": "Phog, Shy Guy",
@@ -280,12 +280,12 @@
         "position": "206"
     },
     {
-        "card_name": "Howling Soul",
+        "card_name": "Hope, Heart of NLA",
         "number": 25,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "299"
+        "position": "288"
     },
     {
         "card_name": "Professor B\u00b0&7k%\u00b1|, Mystery Man",
@@ -320,12 +320,12 @@
         "position": "223"
     },
     {
-        "card_name": "Melancholia",
-        "number": 29,
+        "card_name": "Howling Soul",
+        "number": 26,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "283"
+        "position": "299"
     },
     {
         "card_name": "Ryyz, Ganglion's Rise",
@@ -360,12 +360,12 @@
         "position": "321"
     },
     {
-        "card_name": "Obscuring Spores",
+        "card_name": "Melancholia",
         "number": 30,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "255"
+        "position": "283"
     },
     {
         "card_name": "Scatter Across Volitaris",
@@ -400,12 +400,12 @@
         "position": "260"
     },
     {
-        "card_name": "Tempered Steel",
-        "number": 41,
+        "card_name": "Obscuring Spores",
+        "number": 31,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "177"
+        "position": "255"
     },
     {
         "card_name": "Volitarian Suppression",
@@ -440,12 +440,12 @@
         "position": "339"
     },
     {
-        "card_name": "War on NLA",
-        "number": 44,
+        "card_name": "Tempered Steel",
+        "number": 42,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "268"
+        "position": "177"
     },
     {
         "card_name": "BLADE Chopper",
@@ -961,7 +961,7 @@
     },
     {
         "card_name": "Lailah Queen",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1001,7 +1001,7 @@
     },
     {
         "card_name": "Lead Skell Engineer",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1041,7 +1041,7 @@
     },
     {
         "card_name": "Settle Beyond Reality",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1081,7 +1081,7 @@
     },
     {
         "card_name": "Shadow Germivore",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1121,7 +1121,7 @@
     },
     {
         "card_name": "Vehicle Reclamation",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1361,7 +1361,7 @@
     },
     {
         "card_name": "Ma-non Engineer",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1401,7 +1401,7 @@
     },
     {
         "card_name": "Partisan Eagle's Javelin",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1441,7 +1441,7 @@
     },
     {
         "card_name": "Peaceful Grazing",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1481,7 +1481,7 @@
     },
     {
         "card_name": "Skell Repair Crew",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1521,7 +1521,7 @@
     },
     {
         "card_name": "Sky High",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1561,7 +1561,7 @@
     },
     {
         "card_name": "Sky Sunder",
-        "number": 37,
+        "number": 38,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1601,7 +1601,7 @@
     },
     {
         "card_name": "Smooth Recovery",
-        "number": 38,
+        "number": 39,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1641,7 +1641,7 @@
     },
     {
         "card_name": "Sorcerer Papil",
-        "number": 39,
+        "number": 40,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1681,7 +1681,7 @@
     },
     {
         "card_name": "Tornado Jacul",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,

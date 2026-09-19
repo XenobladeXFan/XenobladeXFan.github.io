@@ -54,7 +54,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Human Artificer",
-            "number": 35,
+            "number": 36,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Lifelink\nWhenever this creature crews a Vehicle, that Vehicle gains lifelink until end of turn.",
@@ -75,7 +75,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Insect",
-            "number": 39,
+            "number": 40,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Flying, lifelink\nWhen this creature dies, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
@@ -138,7 +138,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Alien",
-            "number": 28,
+            "number": 29,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this creature enters or dies, create a 3/2 colorless Vehicle artifact token with crew 1. [i](Tap any number of creatures you control with total power 1 or more: That token becomes an artifact creature until end of turn.)[/i]",
@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "CG07"
+            "notes": "CG07\n!tag ramp"
         },
         {
             "card_name": "Wrothian Duel",
@@ -264,7 +264,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 32,
+            "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Enchant creature\nEnchanted creature can't attack, block, or crew Vehicles. Its activated abilities can't be activated.",
@@ -285,7 +285,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 36,
+            "number": 37,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Up to one target creature you control gets +2/+2 and gains flying until end of turn.\nPut a stun counter on up to one target creature you don't control. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]",
@@ -306,7 +306,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 37,
+            "number": 38,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Destroy target artifact, enchantment, or creature with toughness 4 or greater.",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "CW15"
+            "notes": "CW15\n!tag removal"
         },
         {
             "card_name": "Gi Zorde & Gi Zordo, Disciples",
@@ -383,14 +383,14 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "UW03"
+            "notes": "UW03\n!tag aggro-threat"
         },
         {
             "card_name": "Shadow Germivore",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Insect Plant",
-            "number": 34,
+            "number": 35,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Ambush {3}{W}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nWhen this creature enters, put a stun counter on each tapped creature target opponent controls.",
@@ -432,7 +432,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Vehicle",
-            "number": 26,
+            "number": 27,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "Whenever this Vehicle enters or attacks, you gain 3 life and put a +1/+1 counter on target creature or Vehicle you control.\nCrew 3",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "UW09"
+            "notes": "UW09\n!tag value-threat"
         },
         {
             "card_name": "Zirconium Fal-swo",
@@ -516,7 +516,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 33,
+            "number": 34,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "Choose one or both \u2014\n\u2022 Exile target creature you don't control.\n\u2022 Exile target creature you control, then return it to the battlefield under its owner's control.",
@@ -530,7 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "UW12"
+            "notes": "UW12\n!tag removal"
         },
         {
             "card_name": "A Girl's Wings",
@@ -558,7 +558,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 43,
+            "number": 44,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "When this enchantment enters and whenever you attack with two or more creatures, return target artifact or creature card from your graveyard to your hand.",
@@ -593,7 +593,7 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "UW15\nShadowstrike?"
+            "notes": "UW15\nShadowstrike?\n!tag removal"
         },
         {
             "card_name": "Skell Developer",
@@ -663,7 +663,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 31,
+            "number": 32,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Class select [i](When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)[/i]\nEquipped creature gets +1/+1 and has \u201cWhenever this creature attacks, put a stun counter on target tapped creature you don't control.\u201d [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]\nEquip {3}",
@@ -698,7 +698,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "CU11"
+            "notes": "CU11\n!tag draw"
         },
         {
             "card_name": "Spy Games",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "CU10"
+            "notes": "CU10\n!tag counterspell"
         },
         {
             "card_name": "Titan Recharge",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "CU14"
+            "notes": "CU14\n!tag removal"
         },
         {
             "card_name": "Fortun and Glory",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "CU15"
+            "notes": "CU15\n!tag draw"
         },
         {
             "card_name": "BLADE Spy",
@@ -1041,7 +1041,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Human Pilot",
-            "number": 27,
+            "number": 28,
             "color_identity": "W",
             "cost": "{5}{W}",
             "rules_text": "When this creature enters, create two 3/2 Vehicle artifact creature tokens with crew 1.\nAt the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "UU10"
+            "notes": "UU10\n!draw"
         },
         {
             "card_name": "Lend an Ear",
@@ -1118,7 +1118,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "UU12"
+            "notes": "UU12\n!tag draw"
         },
         {
             "card_name": "Volitarian Remake",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "Flavor text\nCB01"
+            "notes": "CB01\n!tag discard"
         },
         {
             "card_name": "Psychocorruptor's Knife",
@@ -1277,7 +1277,7 @@
             "cost": "{2}{B}",
             "rules_text": "Ambush {3}{B} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nWhen this creature enters, hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with \u201cWhen enchanted creature dies, draw a card.\u201d)[/i]",
             "flavor_text": "[i]\u201cFilthy Earth aliens!\u201d[/i]",
-            "pt": "2/2",
+            "pt": "3/1",
             "special_text": "",
             "shape": "normal",
             "set": "XCX",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "CB05"
+            "notes": "CB05\n!tag interactive-threat"
         },
         {
             "card_name": "Dusk Adsecula",
@@ -1391,7 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "CB10"
+            "notes": "CB10\n!tag removal"
         },
         {
             "card_name": "Ambushing Strike",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "CB13"
+            "notes": "CB13\n!tag discard"
         },
         {
             "card_name": "Wander Too Far",
@@ -1464,7 +1464,7 @@
             "number": 134,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "This spell costs {1}{B} less to cast if it targets a creature that explored this turn.\nDestroy target creature an opponent controls. Its controller reveals cards from the top of their library until the reveal a land card, then put all cards revealed this way into their graveyard.",
+            "rules_text": "This spell costs {1}{B} less to cast if it targets a creature that explored this turn.\nDestroy target creature an opponent controls. Its controller reveals cards from the top of their library until they reveal a land card, then put all cards revealed this way into their graveyard.",
             "flavor_text": "[i]Curiosity kills a lot more than cats.[/i]",
             "pt": "",
             "special_text": "",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "CB14"
+            "notes": "CB14\n!tag removal"
         },
         {
             "card_name": "Lao's Redemption",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "CB15"
+            "notes": "CB15\n!tag removal"
         },
         {
             "card_name": "Deadland Caro",
@@ -1601,7 +1601,7 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "UB05"
+            "notes": "UB05\n!tag interactive-threat"
         },
         {
             "card_name": "Knight Pugilith",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "UB11"
+            "notes": "UB11\n!tag discard"
         },
         {
             "card_name": "Gruesome Revelation",
@@ -1769,7 +1769,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "UB15"
+            "notes": "UB15\n!tag mana-cheating"
         },
         {
             "card_name": "Ganglion Base",
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "UB13"
+            "notes": "UB13\n!tag removal"
         },
         {
             "card_name": "Dark Matters",
@@ -1811,7 +1811,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "UB14"
+            "notes": "UB14\n!tag removal"
         },
         {
             "card_name": "BLADE Interceptor",
@@ -1937,7 +1937,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "CR07"
+            "notes": "CR07\nBreak????"
         },
         {
             "card_name": "Winged Viper's Dual Guns",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "CR14"
+            "notes": "CR14\n!tag removal"
         },
         {
             "card_name": "Hijack the Prog Ares",
@@ -2105,7 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "CR15"
+            "notes": "CR15\n!tag removal"
         },
         {
             "card_name": "Rookie Training",
@@ -2147,7 +2147,7 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "UR01"
+            "notes": "UR01\n!tag aggro-threat"
         },
         {
             "card_name": "Shield Trooper's Gatling Gun",
@@ -2157,7 +2157,7 @@
             "number": 170,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Class select [i](When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)[/i]\nEquipped creature has \u201c[i]Enrage[/i] \u2014 Whenever this creature is dealt damage, it deals 2 damage to another target.\u201d\nEquip {2}",
+            "rules_text": "Class select [i](When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)[/i]\nEquipped creature has \u201c[i]Enrage[/i] \u2014 Whenever this creature is dealt damage, it deals 2 damage to any other target.\u201d\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2284,7 +2284,7 @@
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Exile two target artifacts.",
-            "flavor_text": "[i]The Ganglion Federation and the the Builders of the Legacy After the Destruction of Earth clashed in the middle of the Miran ocean, fighting for the fate of humanity.[/i]",
+            "flavor_text": "[i]The Ganglion Federation and the Builders of the Legacy After the Destruction of Earth clashed in the middle of the Miran ocean, fighting for the fate of humanity.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2294,7 +2294,7 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "UR09"
+            "notes": "UR09\n!tag removal"
         },
         {
             "card_name": "Threefold Thunderflash",
@@ -2336,7 +2336,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "UR11"
+            "notes": "UR11\n!tag removal"
         },
         {
             "card_name": "Fire Carnival",
@@ -2357,7 +2357,7 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": "UR12"
+            "notes": "UR12\n!tag sweeper"
         },
         {
             "card_name": "Anti-Air Assault",
@@ -2378,7 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "UR13"
+            "notes": "UR13\n!tag removal"
         },
         {
             "card_name": "Brimstone Rain",
@@ -2399,7 +2399,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "UR14"
+            "notes": "UR14\n!tag sideboard"
         },
         {
             "card_name": "Treacherous Caverns",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "CG03"
+            "notes": "CG03\n!tag ramp"
         },
         {
             "card_name": "Hallowed Progen",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "CG10"
+            "notes": "CG10\n!tag removal"
         },
         {
             "card_name": "Lurk in Wait",
@@ -2651,7 +2651,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "CG12"
+            "notes": "CG12\n!tag removal"
         },
         {
             "card_name": "A Hero's Trial",
@@ -2672,7 +2672,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "CG11"
+            "notes": "CG11\n!tag removal"
         },
         {
             "card_name": "Heroic Tale",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "CG14"
+            "notes": "CG14\n!tag ramp"
         },
         {
             "card_name": "Mimeosome Search",
@@ -2840,7 +2840,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "CA04"
+            "notes": "CA04\n!tag removal"
         },
         {
             "card_name": "Lifepod",
@@ -3544,7 +3544,7 @@
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Ward {2}\n[i]Enrage[/i] \u2014 Whenever this creature is dealt damage, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]",
-            "flavor_text": "[i]Prone have a deep connection with all kinds of beasts. Some find companionship with Suids, raising and training them to be ferocious creatures of war.[/i]",
+            "flavor_text": "[i]Prone have a deep connection with all kinds of beasts. Some prefer Suids, raising and training them to be ferocious creatures of war.[/i]",
             "pt": "4/4",
             "special_text": "",
             "shape": "normal",
@@ -3617,7 +3617,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "UG09"
+            "notes": "UG09\n!tag removal\n!tag topend-threat"
         },
         {
             "card_name": "Prone Funeral Ritual",
@@ -3659,7 +3659,7 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": "UG11"
+            "notes": "UG11\n!tag ramp"
         },
         {
             "card_name": "Dense Fog",
@@ -3729,7 +3729,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 41,
+            "number": 42,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Artifact creatures you control get +2/+2.",
@@ -3785,7 +3785,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "RB04"
+            "notes": "RB04\n!tag sideboard"
         },
         {
             "card_name": "Ambush Camouflage",
@@ -3827,7 +3827,7 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": "RB02"
+            "notes": "RB02\n!tag sweeper"
         },
         {
             "card_name": "Goetia, Electric Eradicator",
@@ -4070,7 +4070,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "MB01"
+            "notes": "MB01\n!tag sweeper"
         },
         {
             "card_name": "Ga Jiarg, Wrothian Prince",
@@ -4112,7 +4112,7 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": "RW03"
+            "notes": "RW03\n!tag aggro-threat"
         },
         {
             "card_name": "Celica, New in New LA",
@@ -4217,7 +4217,7 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": "MG03"
+            "notes": "MG03\n!tag topend-threat"
         },
         {
             "card_name": "Irina Akulov, Hotheaded",
@@ -4392,7 +4392,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 38,
+            "number": 39,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Target permanent you control gains hexproof and indestructible until end of turn. You gain 2 life. [i](A permanent with hexproof and indestructible can't be the target of spells or abilities your opponents control. Damage and effects that say \u201cdestroy\u201d don't destroy it.)[/i]",
@@ -4427,7 +4427,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "RB06"
+            "notes": "RB06\n!tag removal"
         },
         {
             "card_name": "Vitriolic Cesspool",
@@ -4490,7 +4490,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "RG10"
+            "notes": "RG10\n!tag tutor"
         },
         {
             "card_name": "Kirsty, Planetary Pioneer",
@@ -4922,7 +4922,7 @@
             "alias": "",
             "position": "232",
             "rotated": false,
-            "notes": "RU02"
+            "notes": "RU02\n!tag topend-threat"
         },
         {
             "card_name": "Scout Console",
@@ -5228,7 +5228,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "RB05"
+            "notes": "RB05\n!tag mana-cheating"
         },
         {
             "card_name": "Combat Maneuver Instructor",
@@ -5261,7 +5261,7 @@
             "cost": "{2}{R}",
             "rules_text": "[i]Enrage[/i] \u2014 Whenever Slovity Pagus is dealt damage, exile the top card of your library. If it's a spell with mana value less than or equal to the amount of damage dealt, you may cast it without paying its mana cost. Otherwise, you may play it until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "XCX",
@@ -5375,7 +5375,7 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": "RB03"
+            "notes": "RB03\n!tag discard"
         },
         {
             "card_name": "Wild Mephite",
@@ -5403,7 +5403,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 30,
+            "number": 31,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Whenever an opponent casts a spell during their turn, they can't attack this turn.\nEach opponent who attacked this turn can't cast spells.",
@@ -5417,7 +5417,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "RW06"
+            "notes": "RW06\n!tag sideboard"
         },
         {
             "card_name": "BLADE Comm Device",
@@ -5459,7 +5459,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "MU01"
+            "notes": "MU01\n!tag draw"
         },
         {
             "card_name": "Void, the Great One",
@@ -5501,7 +5501,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "MA01"
+            "notes": "MA01\n!tag topend-threat"
         },
         {
             "card_name": "Gaze Upon the Horizon",
@@ -5522,7 +5522,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "RG06"
+            "notes": "RG06\n!tag card-advantage"
         },
         {
             "card_name": "Shimmer & Savy Exchange",
@@ -5672,11 +5672,11 @@
             "notes": "CU06"
         },
         {
-            "card_name": "War on NLA",
+            "card_name": "Homefront Invasion",
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 44,
+            "number": 24,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Ambush {5}{W}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nDestroy all creatures.",
@@ -5690,7 +5690,7 @@
             "alias": "",
             "position": "268",
             "rotated": false,
-            "notes": "RW09"
+            "notes": "RW09\n!tag sweeper"
         },
         {
             "card_name": "Macabre Aeviter",
@@ -5963,7 +5963,7 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": "UG12"
+            "notes": "UG12\n!tag removal"
         },
         {
             "card_name": "Black Tar",
@@ -5991,7 +5991,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 29,
+            "number": 30,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Whenever a source deals damage to you, put a +1/+1 counter on each creature you control.",
@@ -6096,7 +6096,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Human Soldier",
-            "number": 24,
+            "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "[i]Tacit Censure \u2014 [/i]During your turn, your opponents can't cast spells or activate abilities of that aren't mana abilities.\nAt the beginning of your end step, if you didn't cast a spell this turn, you gain 2 life and put a +1/+1 counter on Hope.",
@@ -6110,7 +6110,7 @@
             "alias": "",
             "position": "288",
             "rotated": false,
-            "notes": "RZ08"
+            "notes": "RZ08\n!tag sideboard"
         },
         {
             "card_name": "Murderess, Greed and Power",
@@ -6278,7 +6278,7 @@
             "alias": "",
             "position": "296",
             "rotated": false,
-            "notes": "RR03"
+            "notes": "RR03\n!tag removal"
         },
         {
             "card_name": "Mindstorm",
@@ -6327,7 +6327,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 25,
+            "number": 26,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Ambush {3}{W}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nWhen this enchantment enters, you may pay {1}{W}. When you do, return target creature card from your graveyard to the battlefield.\nCreatures you control get +1/+1.",
@@ -6341,7 +6341,7 @@
             "alias": "",
             "position": "299",
             "rotated": false,
-            "notes": "RW04"
+            "notes": "RW04\n!tag mana-cheating"
         },
         {
             "card_name": "Nopon",
@@ -6369,7 +6369,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Bird",
-            "number": 42,
+            "number": 43,
             "color_identity": "W",
             "cost": "{5}{W}",
             "rules_text": "Ambush {6}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]\nFlying\nWhen this creature enters, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]",
@@ -6614,7 +6614,7 @@
             "alias": "",
             "position": "312",
             "rotated": false,
-            "notes": "RU08"
+            "notes": "RU08\n!tag card-engine"
         },
         {
             "card_name": "Miramobile, Future and Past",
@@ -6656,7 +6656,7 @@
             "alias": "",
             "position": "314",
             "rotated": false,
-            "notes": "Flavor text\nchange to enchantment?\nUB16"
+            "notes": "UB16\n!tag sweeper"
         },
         {
             "card_name": "Electromagnetic Interference",
@@ -6698,7 +6698,7 @@
             "alias": "",
             "position": "316",
             "rotated": false,
-            "notes": "UU06"
+            "notes": "UU06\n!tag value-threat"
         },
         {
             "card_name": "Sunlit Trap",
@@ -6719,7 +6719,7 @@
             "alias": "",
             "position": "317",
             "rotated": false,
-            "notes": "RG09"
+            "notes": "RG09\n!tag mana-cheating"
         },
         {
             "card_name": "Legendary Nopopopopon",
@@ -6747,7 +6747,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Telethia",
-            "number": 40,
+            "number": 41,
             "color_identity": "W",
             "cost": "{7}{W}{W}{W}",
             "rules_text": "Flying, vigilance\n[i]Soul Read[/i] \u2014 Telethia enters with ten shield counters on it if it was cast. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]\nWhenever Telethia attacks, exile up to two target permanents.",
@@ -6761,7 +6761,7 @@
             "alias": "",
             "position": "319",
             "rotated": false,
-            "notes": "MW03"
+            "notes": "MW03\n!tag cheatout-threat"
         },
         {
             "card_name": "Pharsis, the Everqueen",
@@ -6782,7 +6782,7 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": "MB03"
+            "notes": "MB03\n!tag cheatout-threat"
         },
         {
             "card_name": "FrontierNav",
@@ -6803,7 +6803,7 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": "RG1"
+            "notes": "RG10\n!tag card-engine"
         },
         {
             "card_name": "Mia is Missing!",
@@ -6824,7 +6824,7 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": "UU16"
+            "notes": "UU16\n!tag removal"
         },
         {
             "card_name": "Probe Installation Team",
@@ -7139,7 +7139,7 @@
             "alias": "",
             "position": "337",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag aggro threat"
         },
         {
             "card_name": "Tainted Sphinx",
@@ -7160,7 +7160,7 @@
             "alias": "",
             "position": "338",
             "rotated": false,
-            "notes": ""
+            "notes": "!tag topend-threat"
         },
         {
             "card_name": "Heroic Feast",
