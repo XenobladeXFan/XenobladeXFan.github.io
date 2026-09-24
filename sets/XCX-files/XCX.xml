@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-18</releasedate>
+			<releasedate>2026-09-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -45,7 +45,7 @@
 			<name>Skell Repair Crew</name>
 			<text>Lifelink
 Whenever this creature crews a Vehicle, that Vehicle gains lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/2.png" num="36">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/2.png" num="35">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -63,7 +63,7 @@ Whenever this creature crews a Vehicle, that Vehicle gains lifelink until end of
 			<name>Sorcerer Papil</name>
 			<text>Flying, lifelink
 When this creature dies, target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/3.png" num="40">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/3.png" num="39">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ When this creature enters, put a +1/+1 counter on target creature you control.</
 		<card>
 			<name>Ma-non Engineer</name>
 			<text>When this creature enters or dies, create a 3/2 colorless Vehicle artifact token with crew 1. (Tap any number of creatures you control with total power 1 or more: That token becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/6.png" num="29">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/6.png" num="28">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -226,7 +226,7 @@ Whenever this creature attacks, create a Treasure token. (It&apos;s an artifact 
 			<name>Peaceful Grazing</name>
 			<text>Enchant creature
 Enchanted creature can&apos;t attack, block, or crew Vehicles. Its activated abilities can&apos;t be activated.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/12.png" num="33">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/12.png" num="32">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -243,7 +243,7 @@ Enchanted creature can&apos;t attack, block, or crew Vehicles. Its activated abi
 			<name>Sky High</name>
 			<text>Up to one target creature you control gets +2/+2 and gains flying until end of turn.
 Put a stun counter on up to one target creature you don&apos;t control. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/13.png" num="37">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/13.png" num="36">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -259,7 +259,7 @@ Put a stun counter on up to one target creature you don&apos;t control. (If a pe
 		<card>
 			<name>Sky Sunder</name>
 			<text>Destroy target artifact, enchantment, or creature with toughness 4 or greater.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/14.png" num="38">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/14.png" num="37">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -330,7 +330,7 @@ Crew 2</text>
 			<name>Shadow Germivore</name>
 			<text>Ambush {3}{W}{W} (You may cast this spell for its ambush cost as though it had flash.)
 When this creature enters, put a stun counter on each tapped creature target opponent controls.</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/18.png" num="35">XCX</set>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/18.png" num="34">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -366,7 +366,7 @@ When this creature enters, create a 2/2 colorless Human Soldier artifact creatur
 			<name>Lailah Queen</name>
 			<text>Whenever this Vehicle enters or attacks, you gain 3 life and put a +1/+1 counter on target creature or Vehicle you control.
 Crew 3</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/20.png" num="27">XCX</set>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/20.png" num="26">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -440,7 +440,7 @@ Whenever this creature or another artifact your control enters, put a +1/+1 coun
 			<text>Choose one or both —
 • Exile target creature you don&apos;t control.
 • Exile target creature you control, then return it to the battlefield under its owner&apos;s control.</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/24.png" num="34">XCX</set>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/24.png" num="33">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -473,7 +473,7 @@ Vehicles you control have flying and &quot;{3}: Put a +1/+1 counter on this Vehi
 		<card>
 			<name>Vehicle Reclamation</name>
 			<text>When this enchantment enters and whenever you attack with two or more creatures, return target artifact or creature card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/26.png" num="44">XCX</set>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/26.png" num="43">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -562,7 +562,7 @@ Whenever this creature attacks, tap target creature defending player controls. I
 			<text>Class select (When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)
 Equipped creature gets +1/+1 and has &quot;Whenever this creature attacks, put a stun counter on target tapped creature you don&apos;t control.&quot; (If a permanent with a stun counter would become untapped, remove one from it instead.)
 Equip {3}</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/31.png" num="32">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/31.png" num="31">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -578,15 +578,15 @@ Equip {3}</text>
 		<card>
 			<name>Revelation of Old</name>
 			<text>Draw a card. If this spell was cast from your graveyard, draw two cards instead.
-Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {3}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/32.png" num="76">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -861,7 +861,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 		<card>
 			<name>Test Hangar</name>
 			<text>When this enchantment enters, create a 3/2 colorless Vehicle artifact token with crew 1.
-Whenever one or more artifact creatures you control deal combat damage to a player, surveil 1. If it was a Vehicle, draw a card.</text>
+Whenever one or more artifact creatures you control deal combat damage to a player, scry 1. If it was a Vehicle, draw a card.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/48.png" num="84">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -879,7 +879,7 @@ Whenever one or more artifact creatures you control deal combat damage to a play
 			<name>Lead Skell Engineer</name>
 			<text>When this creature enters, create two 3/2 Vehicle artifact creature tokens with crew 1.
 At the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/49.png" num="28">XCX</set>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/49.png" num="27">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -929,7 +929,7 @@ At the beginning of combat on your turn, target artifact creature you control ge
 			<name>Lend an Ear</name>
 			<text>Draw two cards.
 When you do, choose one —
-• Become a Liaison — Surveil 2.
+• Become a Liaison — Scry 2.
 • Become a Warrior — Put a +1/+1 counter on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/52.png" num="60">XCX</set>
 			<prop>
@@ -962,7 +962,7 @@ When you do, choose one —
 		</card>
 		<card>
 			<name>Cause and Effect</name>
-			<text>Surveil X, where X is the number of artifacts you control. (To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+			<text>Scry X, where X is the number of artifacts you control. (To scry X, look at the top X cards of your library, then put any number of them on the bottom and the rest on top in any order.)
 Draw a card.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/54.png" num="52">XCX</set>
 			<prop>
@@ -1069,7 +1069,7 @@ Self-Destruct — {1}, {T}, Exile this creature: It deals 1 damage to target opp
 			<name>Brutal Prone</name>
 			<text>Ambush {3}{B} (You may cast this spell for its ambush cost as though it had flash.)
 When this creature enters, hunt target creature you don&apos;t control. (Create a Hunted Aura token attached to it with &quot;When enchanted creature dies, draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/60.png" num="95">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/60.png" num="96">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1079,7 +1079,7 @@ When this creature enters, hunt target creature you don&apos;t control. (Create 
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>3/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1158,7 +1158,7 @@ Menace</text>
 		<card>
 			<name>Black Bane</name>
 			<text>Until end of turn, target creature an opponent controls gets -2/-2 plus an additional -2/-2 for each counter on it.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/65.png" num="93">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/65.png" num="94">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1174,7 +1174,7 @@ Menace</text>
 		<card>
 			<name>Ambushing Strike</name>
 			<text>Target creature you control gains deathtouch until end of turn. If it entered this turn, it also gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/66.png" num="92">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/66.png" num="93">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1224,7 +1224,7 @@ Hunt up to one target creature you don&apos;t control. (Create a Hunted Aura tok
 		<card>
 			<name>Wander Too Far</name>
 			<text>This spell costs {1}{B} less to cast if it targets a creature that explored this turn.
-Destroy target creature an opponent controls. Its controller reveals cards from the top of their library until they reveal a land card, then put all cards revealed this way into their graveyard.</text>
+Destroy target creature an opponent controls. Its controller reveals cards from the top of their library until the reveal a land card, then put all cards revealed this way into their graveyard.</text>
 			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/69.png" num="134">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1472,10 +1472,10 @@ Cycling {3} ({3}, Discard this card: Draw a card.)</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Combat Revive</name>
-			<text>Ambush {4}{B}{B} (You may cast this spell for its ambush cost as though it had flash.)
-Return target creature card from your graveyard to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/83.png" num="96">XCX</set>
+			<name>Ambush Reanimate</name>
+			<text>Ambush {5}{B}{B} (You may cast this spell for its ambush cost as though it had flash.)
+Return target creature from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/83.png" num="92">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1807,7 +1807,7 @@ When you do, choose one —
 		<card>
 			<name>Shield Trooper&apos;s Gatling Gun</name>
 			<text>Class select (When this Equipment enters, create a 2/2 colorless Human Soldier artifact creature token, then attach this to it.)
-Equipped creature has &quot;Enrage — Whenever this creature is dealt damage, it deals 2 damage to any other target.&quot;
+Equipped creature has &quot;Enrage — Whenever this creature is dealt damage, it deals 2 damage to another target.&quot;
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/102.png" num="170">XCX</set>
 			<prop>
@@ -1946,7 +1946,7 @@ Equip {5}</text>
 		<card>
 			<name>Metallic Crunch</name>
 			<text>Choose one or both —
-• Destroy target Equipment or Vehicle.
+• Destroy target Equipment.
 • This spell deals 3 damage to any target.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/110.png" num="161">XCX</set>
 			<prop>
@@ -2391,7 +2391,7 @@ Exhaust — {6}: Put three +1/+1 counters on this creature. Its name becomes &qu
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Alien Human Scientist</type>
+				<type>Artifact Creature — Human Scientist</type>
 				<maintype>Creature</maintype>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -2781,7 +2781,7 @@ During turns other than yours, spells you cast cost {1} less to cast.</text>
 		</card>
 		<card>
 			<name>Sift Through Souls</name>
-			<text>At the beginning of your first main phase, you may mill cards equal to the number of cards in your graveyard. If you do, return a card from your graveyard to your hand.</text>
+			<text>At the beginning of your first main phase, mill cards equal to the number of cards in your graveyard, then return a card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/159.png" num="268">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3101,7 +3101,7 @@ Prevent all combat damage that would be dealt.</text>
 		<card>
 			<name>Tempered Steel</name>
 			<text>Artifact creatures you control get +2/+2.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/177.png" num="42">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/177.png" num="41">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3343,7 +3343,7 @@ Whenever Vortice or a Mountain you control enters, exile cards from the top of y
 		</card>
 		<card>
 			<name>Activate Overdrive</name>
-			<text>This spell can&apos;t be copied.
+			<text>This spell can&apos;t be countered or copied.
 Untap a land you control.
 Until end of turn, whenever you cast a spell, draw a card, then untap a land you control.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/191.png" num="48">XCX</set>
@@ -3643,7 +3643,7 @@ Equip {3}</text>
 		<card>
 			<name>Smooth Recovery</name>
 			<text>Target permanent you control gains hexproof and indestructible until end of turn. You gain 2 life. (A permanent with hexproof and indestructible can&apos;t be the target of spells or abilities your opponents control. Damage and effects that say &quot;destroy&quot; don&apos;t destroy it.)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/208.png" num="39">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/208.png" num="38">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3845,11 +3845,11 @@ Whenever Phog deals combat damage to a player, reveal the top card of your libra
 		</card>
 		<card>
 			<name>Multigun</name>
-			<text>Equipped creature has &quot;Whenever this creature attacks, choose one —
-• Put a +1/+1 counters on this creature.
+			<text>Whenever equipped creature attacks, choose one —
+• Put a +1/+1 counters on equipped creature.
 • Tap target creature.
 • Put a stun counter on target tapped creature.
-• Remove a counter from any permanent you control. If you do, Mutligun deals 2 damage to any target.&quot;
+• Remove a counter from any permanent you control. If you do, this Equipment deals 2 damage to any target.
 Equip {1}</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/220.png" num="286">XCX</set>
 			<prop>
@@ -4405,7 +4405,7 @@ When Zu Pharg dies, destroy two target lands.
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4516,7 +4516,7 @@ When this creature enters, opponents can&apos;t cast spells this turn.</text>
 			<name>Obscuring Spores</name>
 			<text>Whenever an opponent casts a spell during their turn, they can&apos;t attack this turn.
 Each opponent who attacked this turn can&apos;t cast spells.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/255.png" num="31">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/255.png" num="30">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4726,10 +4726,10 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Homefront Invasion</name>
+			<name>War on NLA</name>
 			<text>Ambush {5}{W}{W} (You may cast this spell for its ambush cost as though it had flash.)
 Destroy all creatures.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/268.png" num="24">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/268.png" num="44">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4964,7 +4964,7 @@ When enchanted creature dies, draw a card.</text>
 			<text>Enchant player
 At the beginning of enchanted player&apos;s end step, put a -1/-1 counter on each creature they control that didn&apos;t enter or attack this turn.
 When enchanted player controls no creatures, sacrifice Black Tar.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/282.png" num="94">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/282.png" num="95">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4980,7 +4980,7 @@ When enchanted player controls no creatures, sacrifice Black Tar.</text>
 		<card>
 			<name>Melancholia</name>
 			<text>Whenever a source deals damage to you, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/283.png" num="30">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/283.png" num="29">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5069,7 +5069,7 @@ True Stream Edge — Whenever Nagi attacks, creatures you control with power les
 			<name>Hope, Heart of NLA</name>
 			<text>Tacit Censure — During your turn, your opponents can&apos;t cast spells or activate abilities of that aren&apos;t mana abilities.
 At the beginning of your end step, if you didn&apos;t cast a spell this turn, you gain 2 life and put a +1/+1 counter on Hope.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/288.png" num="25">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/288.png" num="24">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5270,7 +5270,7 @@ The first spell you cast each turn costs {X} less to cast, where X is the amount
 			<text>Ambush {3}{W}{W} (You may cast this spell for its ambush cost as though it had flash.)
 When this enchantment enters, you may pay {1}{W}. When you do, return target creature card from your graveyard to the battlefield.
 Creatures you control get +1/+1.</text>
-			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/299.png" num="26">XCX</set>
+			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/299.png" num="25">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5306,7 +5306,7 @@ Creatures you control get +1/+1.</text>
 			<text>Ambush {6}{W} (You may cast this spell for its ambush cost as though it had flash.)
 Flying
 When this creature enters, target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/301.png" num="43">XCX</set>
+			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/301.png" num="42">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5611,7 +5611,7 @@ Equip {3}</text>
 			<text>Flying, vigilance
 Soul Read — Telethia enters with ten shield counters on it if it was cast. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
 Whenever Telethia attacks, exile up to two target permanents.</text>
-			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/319.png" num="41">XCX</set>
+			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/319.png" num="40">XCX</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
