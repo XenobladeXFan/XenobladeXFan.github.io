@@ -1,4 +1,243 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Dry Heat added.
+
+Heat Wave removed.
+
+Flight Module Frame
+rules_text: Ambush {2}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+Flying
+Whenever this Vehicle enters or attacks, target creature or Vehicle you control gets +1/+1 gains flying until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Ambush {2}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+Flying
+Whenever this Vehicle enters or attacks, target creature you control gains flying until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Base Camp Supplier
+rules_text: Ambush {4}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+When this creature enters, put a +1/+1 counter on target creature you control. => Ambush {4}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+When this creature enters, target creature you control gains lifelink until end of turn.
+
+Wrothian Sneaker
+rules_text: Ambush {3}{W}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+Vigilance
+This creature gets +1/+0 as long as it's attacking. => Ambush {3}{W}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+Vigilance
+This creature gets +2/+0 as long as it's attacking.
+pt: 3/4 => 2/4
+
+Formula Zero
+rules_text: Flying, vigilance
+Whenever this Vehicle deals combat damage to an opponent, destroy target tapped creature that player controls with toughness X or less, where X is the damage dealt.
+Crew 2 => Flying, vigilance
+Whenever this Vehicle deals combat damage to an opponent, untap up to X target Vehicles and/or creatures you control, where X is the damage dealt.
+Crew 2
+
+Shadow Germivore
+
+Settle Beyond Reality
+
+A Girl's Wings
+rules_text: When this enchantment enters, draw a card.
+Vehicles you control have flying and “{3}: Put a +1/+1 counter on this Vehicle.” => When this enchantment enters, draw a card.
+Vehicles you control have “{3}: Put a +1/+1 counter on this Vehicle. It gains flying until end of turn.”
+
+Atomic Hit
+rules_text: Ambush {2}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+This spell costs {1} less to cast for each attacking creature.
+Destroy target tapped creature. => Ambush {3}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+This spell costs {1} less to cast for each attacking creature.
+Destroy target tapped creature.
+
+Definian Clone
+rules_text: You may have this creature enter as a copy of any creature on the battlefield, except it can't be blocked and has “Whenever this creature becomes the target of a spell or ability, sacrifice it.” => You may have this creature enter as a copy of any creature on the battlefield, except it can't be blocked and has “When this creature becomes the target of a spell or ability, sacrifice it.”
+
+Trade Agreement
+cost: {1}{U} => {2}{U}{U}
+
+Lao's Redemption
+
+Deadland Caro
+pt: 2/1 => 1/1
+
+Suppressor Knight Qmoeva
+rules_text: Flying
+Whenever this creature attacks, hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+Crew 2 => Flying
+Whenever this creature attacks, you may discard a card. If you do, hunt one or two target creatures you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+Crew 2
+
+Hunt for Prey
+
+Tyrant's Grave
+
+A Day In The Life
+rules_text: Target creature gets +1/+0 and gains your choice of first strike or trample until end of turn.
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Target creature gets +1/+0 and gains your choice of first strike or trample until end of turn.
+Create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Hijack the Prog Ares
+
+Milsaadi Corroder
+rules_text: First strike, menace
+If this creature would deal damage, you may instead prevent that damage. When you do, hunt up to that many target creatures you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i] => First strike, menace
+When this creature enters, you may discard a card. When you do, hunt target creature you don't control. You may repeat this process. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+
+Brimstone Rain
+cost: {R} => {1}{R}
+rules_text: At the beginning of each player's upkeep, they lose 1 life.
+Players can't gain life. => At the beginning of each player's upkeep, this enchantment deals 1 damage to them.
+Players can't gain life.
+
+BLADE Prospector
+rules_text: When this creature enters, search your library for a basic land card, shuffle, then put that card on top.
+{2}, {T}, Sacrifice this creature: Draw a card. => When this creature enters, you may search your library for a basic land card. If you do, shuffle, then put that card on top.
+{2}, {T}, Sacrifice this creature: Draw a card.
+
+The Old Gods
+rules_text: Mill X cards.
+When you do, choose one or both —
+• Return a land card from your graveyard to the battlefield tapped.
+• Return a card from your graveyard to your hand. => Mill X cards. You may return a land card from your graveyard to the battlefield tapped. You may return a card from your graveyard to your hand.
+
+Goetia, Electric Eradicator
+
+How's It Poppin'?
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+III — [i]Better than you, meaning... — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+III — [i]Better than you, meaning . . . — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+III — [i]Better than you, meaning... — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i]Terrible, you? — [/i][i][/i]Put a +1/+1 counter on target creature you control.
+III — [i]Better than you, meaning . . . — [/i]Draw a card if you control the creature with the greatest power or tied for the greatest power.
+
+Vortice, the Deific Blast
+rules_text: Flying, trample
+Whenever Vortice or a Mountain you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card until end of turn without paying its mana cost. This ability triggers only once each turn. => Flying, trample
+Whenever Vortice or a Mountain you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card until end of turn without paying its mana cost.
+
+Demise Ictus
+
+BLADE Outfitter
+rules_text: Whenever this creature becomes equipped, put a +1/+1 counter on it. This ability triggers only once each turn. => Whenever this creature becomes equipped, put a +1/+1 counter on it. This ability triggers only once each turn. [i](An Equipment that was already equipped to it will not trigger this.)[/i]
+
+Irina Akulov, Hotheaded
+rules_text: First strike
+Whenever Irina attacks, hunt target creature you don't control. [i](Create a Hunted Aura token attached to it with “When enchanted creature dies, draw a card.”)[/i]
+[i]Quick Cannon[/i] — Whenever a creature an opponent controls dies, if it was dealt damage by a source you control this turn, Irina deals 2 damage to that creature's controller. => First strike
+Whenever Irina attacks, you may discard a card. If you do, hunt target creature you don't control twice. [i](Create two Hunted Aura tokens attached to it with “When enchanted creature dies, draw a card.”)[/i]
+[i]Quick Cannon[/i] — Whenever a creature an opponent controls dies, if it was dealt damage by a source you control this turn, Irina deals 2 damage to that creature's controller.
+
+L'cirufe, Merchant of Menageries
+rules_text: {T}: Choose one. Activate only as a sorcery. —
+• Target opponent gains control of a permanent you control. You create X Treasure tokens, where X is that permanent's mana value.
+• Exchange control of two target permanents controlled by different players that share a mana value. => Vigilance
+{2}, {T}: You and target opponent may each draw a card. For each card drawn this way, L'cirufe explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Neilnail, High Custodian
+pt: 3/4 => 2/3
+
+Chimeric Defenses
+
+The Giant Ring of Oblivia
+rules_text: Lands you control without a waste counter have “{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.” For as long as that land has a waste counter on it, it loses all land types and abilities and has “{T}: Add {C}.” => Lands you control without a waste counter have “{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.”
+Lands you control with waste counters have “{T}: Add {C}.” and lose all other abilities.
+
+Alex's Hatred
+rules_text: Non-Human creature spells you don't cast cost an additional {1} or 2 life to cast.
+[i]Alex's Last Stand[/i] — Sacrifice this enchantment and a Human you control: Humans you control gain hexproof and indestructible until end of turn. => Non-Human creature spells your opponents cast cost an additional {1} or 2 life to cast.
+[i]Alex's Last Stand[/i] — Sacrifice this enchantment and a Human you control: Humans you control gain hexproof and indestructible until end of turn.
+
+Alois Bernholt, Prodigal Hero
+rules_text: Vehicles you control have indestructible.
+Whenever a creature you control crews a Vehicle, put X +1/+1 counters on that Vehicle, where X is the amount it was crewed. => Vehicles you control have indestructible.
+Whenever a Vehicle you control attacks, put X +1/+1 counters on it, where X is the total power of creatures that crewed it this turn.
+
+Luxaar, Humanity's End
+
+Dagahn, Ganglion Crusher
+
+Combat Maneuver Instructor
+rules_text: Whenever this creature crews a Vehicle, until end of turn, that Vehicle gains “Whenever this Vehicle attacks, untap it. After this combat phase, there is an additional combat phase. This ability triggers only once each turn.” => Whenever this creature crews a Vehicle, until end of turn, that Vehicle gains “Whenever this Vehicle attacks, create a Treasure token and exile the top two cards of your library. You may play one of them this turn.”
+
+Holofigure Projector
+rules_text: {T}: This artifact becomes a copy of target creature card in your graveyard, except it's an artifact. [i](It's not a creature.)[/i] => {X}, {T}: This artifact becomes a copy of target creature card in your graveyard with mana value twice X or less, except it's an artifact. [i](It's not a creature.)[/i]
+
+Ga Buidhe, the Prince's Spear
+rules_text: Whenever a creature you control attacks alone, it gets +1/+1 for each nonlegendary creature you control until end of turn. For each legendary creature you control, choose an ability from among first strike, flying, hexproof, lifelink, and menace. That creature gains those abilities until end of turn. => Whenever a creature you control attacks alone, it gets +1/+1 for each nonlegendary creature you control until end of turn. For each legendary creature you control, choose an ability from among first strike, flying, lifelink, and menace. That creature gains those abilities until end of turn.
+
+Lao's Betrayal
+rules_text: Target opponent separates their hand into a face-down pile and a face-up pile. [i](Piles may remain empty.)[/i] You choose one pile. That player discards the chosen pile. They lose life equal to the number of cards not discarded this way. => Target opponent separates their hand into a face-down pile and a face-up pile. [i](Piles may remain empty.)[/i] You choose one pile. That player discards the chosen pile. They lose life equal to the number of cards in the other pile.
+
+Wild Mephite
+rules_text: Ambush {2}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+When this creature enters, opponents can't cast spells this turn. => Ambush {2}{W} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+When this creature enters, if it was cast, opponents can't cast spells this turn.
+
+Ghost Cathedral
+rules_text: Flying, vigilance, annihilator 1 [i](Whenever this creature attacks, defending player sacrifices a permanent.)[/i]
+As this creature enters, roll a d4. It enters with that many shield counters. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i] => Flying, vigilance, annihilator 1 [i](Whenever this creature attacks, defending player sacrifices a permanent.)[/i]
+As this creature enters, if it was cast, roll a d4. It enters with that many shield counters. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+
+Relentless Expansion
+cost: {1}{G} => {3}{G}{G}
+rules_text: You may play any number of lands.
+Whenever you play a land, if it wasn't the first land you played this turn, you lose life equal to the number of lands you played this turn minus 1. [i](The first additional loses 1, the second loses 2, the third loses 3, and so on.)[/i]
+At the beginning of the end step, sacrifice this enchantment. => You may play any number of lands on each of your turns.
+Whenever you play a land, you lose 1 life.
+You may look at the top card of your library any time.
+You may play lands from the top of your library.
+
+Prog Ares
+rules_text: Flying, vigilance, menace, haste
+Whenever Prog Ares attacks, choose one —
+• [i]Agashura Cannon[/i] — Prog Ares deals 4 damage to target opponent, planeswalker, or battle.
+• [i]Agni Gatling[/i] — Put two +1/+1 counters on each other creature you control.
+• [i]Avatara Missle[/i] — Creatures you don't control get -2/-2 until end of turn.
+• [i]Vajra Flail[/i] — Untap each creature you control.
+Crew 4 => Flying, vigilance, menace, haste
+Whenever Prog Ares attacks, choose one —
+• Prog Ares deals 4 damage to target opponent, planeswalker, or battle.
+• Put two +1/+1 counters on each creature you control.
+• Creatures you don't control get -2/-2 until end of turn.
+• Untap each creature you control.
+Crew 4
+
+Secondary Speed
+rules_text: Enchant creature you control
+Whenever enchanted creature attacks, untap it. If it's the first combat phase this turn, there is an additional combat phase after this one. 
+Enchanted creature gets +2/+2 and has haste. => Enchant creature you control
+Whenever you cast your second spell each turn or attack with two or more creatures, exile the top card of your library. You may play it this turn.
+Enchanted creature gets +2/+2.
+
+Blossom Dance
+rules_text: This spell deals 6 damage to six different targets. => This spell deals 6 damage to six different targets. [i](There must be six targets to cast this spell. This can include players.)[/i]
+
+Telethia, the Endbringer
+rules_text: Flying, vigilance
+[i]Soul Read[/i] — Telethia enters with ten shield counters on it if it was cast. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever Telethia attacks, exile up to two target permanents. => Flying, vigilance
+[i]Soul Read[/i] — Telethia enters with ten shield counters on it if it was cast. [i](If it would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Whenever Telethia attacks, exile up to two target nonland permanents.
+
+Probe Installation Team
+rules_text: Vigilance, lifelink
+Whenever a creature you control explores, you may gain life equal to its power. Do this only once each turn. => Vigilance, lifelink
+Whenever a creature you control explores, put a +1/+1 counter on this creature.
+
+Elma, BLADE Colonel
+cost: {G}{W}{U} => {1}{G}{W}{U}
+
+Ryyz, Ganglion's Rise
+
+Lao, Traitor to Humanity
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Homefront Invasion added.

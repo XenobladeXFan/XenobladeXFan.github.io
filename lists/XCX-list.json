@@ -696,12 +696,12 @@
         "position": "45"
     },
     {
-        "card_name": "Ganglion Base",
-        "number": 104,
+        "card_name": "Dry Heat",
+        "number": 103,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "84"
+        "position": "314"
     },
     {
         "card_name": "Full Metal Jaguar's Dual Blades",
@@ -736,12 +736,12 @@
         "position": "322"
     },
     {
-        "card_name": "Golden-Crown Tyrant",
-        "number": 106,
+        "card_name": "Ganglion Base",
+        "number": 105,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "79"
+        "position": "84"
     },
     {
         "card_name": "Gale Auravis",
@@ -776,12 +776,12 @@
         "position": "46"
     },
     {
-        "card_name": "Gruesome Revelation",
+        "card_name": "Golden-Crown Tyrant",
         "number": 107,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "82"
+        "position": "79"
     },
     {
         "card_name": "Into the Core",
@@ -816,12 +816,12 @@
         "position": "55"
     },
     {
-        "card_name": "Heat Wave",
+        "card_name": "Gruesome Revelation",
         "number": 108,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
-        "position": "314"
+        "position": "82"
     },
     {
         "card_name": "Metallic Crunch",
@@ -1337,7 +1337,7 @@
     },
     {
         "card_name": "Dusk Adsecula",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
@@ -1377,7 +1377,7 @@
     },
     {
         "card_name": "Ghillie Falsaxum",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "XCX",
         "rotated": false,
