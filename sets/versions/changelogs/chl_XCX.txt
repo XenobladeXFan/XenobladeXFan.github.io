@@ -1,4 +1,15 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Doug, Soldier of the Harriers
+rules_text: [i]Phenomenon[/i] — Whenever Doug becomes tapped for the first time during your turn, untap him and tap up to one target creature an opponent controls.
+[i]Starlight Duster[/i] — Whenever Doug attacks, untap each Vehicle you control. There is an additional combat phase after this one. => [i]Phenomenon[/i] — Whenever Doug becomes tapped for the first time during each of your turns, untap him and tap up to one target creature an opponent controls.
+[i]Starlight Duster[/i] — Whenever Doug attacks, untap each Vehicle you control. There is an additional combat phase after this one.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Dry Heat added.

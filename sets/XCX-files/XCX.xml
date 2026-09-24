@@ -5029,7 +5029,7 @@ You may play lands from the top of your library.</text>
 		</card>
 		<card>
 			<name>Doug, Soldier of the Harriers</name>
-			<text>Phenomenon — Whenever Doug becomes tapped for the first time during your turn, untap him and tap up to one target creature an opponent controls.
+			<text>Phenomenon — Whenever Doug becomes tapped for the first time during each of your turns, untap him and tap up to one target creature an opponent controls.
 Starlight Duster — Whenever Doug attacks, untap each Vehicle you control. There is an additional combat phase after this one.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/286.png" num="149">XCX</set>
 			<prop>
