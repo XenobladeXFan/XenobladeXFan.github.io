@@ -1,4 +1,15 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Mirage Vivohast
+rules_text: Ambush {5}{R} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+When this creature enters, it deals 2 damage to target opponent. => When this creature enters, it deals 1 damage to any target
+pt: 3/2 => 3/3
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

@@ -1614,8 +1614,7 @@ Enrage — Whenever this creature is dealt damage, it deals 1 damage to target o
 		</card>
 		<card>
 			<name>Mirage Vivohast</name>
-			<text>Ambush {5}{R} (You may cast this spell for its ambush cost as though it had flash.)
-When this creature enters, it deals 2 damage to target opponent.</text>
+			<text>When this creature enters, it deals 1 damage to any target</text>
 			<set rarity="common" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/91.png" num="163">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1626,7 +1625,7 @@ When this creature enters, it deals 2 damage to target opponent.</text>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
