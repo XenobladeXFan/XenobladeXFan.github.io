@@ -2171,7 +2171,7 @@
 			}
 		},
 		{
-			"name": "Frye, the Killer Ostritch",
+			"name": "Frye, the Killer Ostrich",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Artifact Creature — Human Soldier",
@@ -3503,7 +3503,7 @@
 	1 The Giant Ring of Oblivia
 	2 Rise of the Blood Lobster
 	2 Alex's Hatred
-	2 Frye, the Killer Ostritch
+	2 Frye, the Killer Ostrich
 	2 Phog, Shy Guy
 	2 Multigun
 	2 Verus Cain
@@ -4098,7 +4098,7 @@
 	1 The Giant Ring of Oblivia
 	2 Rise of the Blood Lobster
 	2 Alex's Hatred
-	2 Frye, the Killer Ostritch
+	2 Frye, the Killer Ostrich
 	2 Phog, Shy Guy
 	6 Mech Hangar
 	2 Multigun
@@ -4414,7 +4414,7 @@
 	4 The Giant Ring of Oblivia
 	7 Rise of the Blood Lobster
 	7 Alex's Hatred
-	7 Frye, the Killer Ostritch
+	7 Frye, the Killer Ostrich
 	7 Phog, Shy Guy
 	15 Mech Hangar
 	7 Multigun

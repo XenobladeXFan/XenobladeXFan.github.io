@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-23</releasedate>
+			<releasedate>2026-09-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2995,7 +2995,7 @@ Enrage — Whenever this creature is dealt damage, choose one —
 		</card>
 		<card>
 			<name>Disaster Vigent</name>
-			<text>Reach, trample
+			<text>Reach, trample, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Whenever this creature deals combat damage to an opponent, destroy target artifact or enchantment that player controls.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/171.png" num="193">XCX</set>
 			<prop>
@@ -3742,7 +3742,7 @@ Enchanted land has &quot;{T}: Add {C}.&quot; and loses all other abilities.</tex
 		<card>
 			<name>The Giant Ring of Oblivia</name>
 			<text>Lands you control without a waste counter have &quot;{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.&quot;
-Lands you control with waste counters have &quot;{T}: Add {C}.&quot; and lose all other abilities.</text>
+Lands you control with one or more waste counters on them have &quot;{T}: Add {C}.&quot; and lose all other abilities.</text>
 			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/214.png" num="281">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -3789,7 +3789,7 @@ Alex&apos;s Last Stand — Sacrifice this enchantment and a Human you control: H
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Frye, the Killer Ostritch</name>
+			<name>Frye, the Killer Ostrich</name>
 			<text>Bullet Twister — Whenever a player or permanent is dealt damage, if the amount of damage dealt is greater than Frye&apos;s power, put a +1/+1 counter on him and draw a card.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/217.png" num="152">XCX</set>
 			<prop>

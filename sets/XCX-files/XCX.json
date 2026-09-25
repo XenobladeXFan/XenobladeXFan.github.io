@@ -236,7 +236,7 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "CG07\n!tag ramp"
+            "notes": "CG07"
         },
         {
             "card_name": "Wrothian Duel",
@@ -320,7 +320,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "CW15\n!tag removal"
+            "notes": "CW15"
         },
         {
             "card_name": "Gi Zorde & Gi Zordo, Disciples",
@@ -383,7 +383,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "UW03\n!tag aggro-threat"
+            "notes": "UW03"
         },
         {
             "card_name": "Shadow Germivore",
@@ -488,7 +488,7 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "UW09\n!tag value-threat"
+            "notes": "UW09"
         },
         {
             "card_name": "Zirconium Fal-swo",
@@ -530,7 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "UW12\n!tag removal"
+            "notes": "UW12"
         },
         {
             "card_name": "A Girl's Wings",
@@ -698,7 +698,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "CU11\n!tag draw"
+            "notes": "CU11"
         },
         {
             "card_name": "Spy Games",
@@ -719,7 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "CU10\n!tag counterspell"
+            "notes": "CU10"
         },
         {
             "card_name": "Titan Recharge",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "CU14\n!tag removal"
+            "notes": "CU14"
         },
         {
             "card_name": "Fortun and Glory",
@@ -887,7 +887,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "CU15\n!tag draw"
+            "notes": "CU15"
         },
         {
             "card_name": "BLADE Spy",
@@ -950,7 +950,7 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "Flavor text\nUU03"
+            "notes": "UU03\n!tag wishlist"
         },
         {
             "card_name": "Mastema White Reaper",
@@ -1076,7 +1076,7 @@
             "alias": "",
             "position": "50",
             "rotated": false,
-            "notes": "UU09\n!tag wishlist"
+            "notes": "UU09"
         },
         {
             "card_name": "Scour FrontierNav",
@@ -1097,7 +1097,7 @@
             "alias": "",
             "position": "51",
             "rotated": false,
-            "notes": "UU10\n!draw"
+            "notes": "UU10\n!tag draw"
         },
         {
             "card_name": "Lend an Ear",
@@ -1118,7 +1118,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "UU12\n!tag draw"
+            "notes": "UU12"
         },
         {
             "card_name": "Volitarian Remake",
@@ -1181,7 +1181,7 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "UU14"
+            "notes": "UU14\n!tag cantrip"
         },
         {
             "card_name": "Nocturnal Vesper",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "CB01\n!tag discard"
+            "notes": "CB01"
         },
         {
             "card_name": "Psychocorruptor's Knife",
@@ -1255,7 +1255,7 @@
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "[i]Enrage[/i] \u2014 Whenever this creature is dealt damage, target creature an opponent controls gets -1/-1 until end of turn.",
-            "flavor_text": "[i]They lurk in shallow bodies of water, waiting for whatever prey is either curious enough or stupid enough to step too close to it's spot.[/i]",
+            "flavor_text": "[i]They lurk in shallow bodies of water, waiting for whatever prey is either curious enough or stupid enough to step too close to its spot.[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -1286,7 +1286,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "CB05\n!tag interactive-threat"
+            "notes": "CB05"
         },
         {
             "card_name": "Dusk Adsecula",
@@ -1391,7 +1391,7 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "CB10\n!tag removal"
+            "notes": "CB10"
         },
         {
             "card_name": "Ambushing Strike",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "CB13\n!tag discard"
+            "notes": "CB13"
         },
         {
             "card_name": "Wander Too Far",
@@ -1475,7 +1475,7 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "CB14\n!tag removal"
+            "notes": "CB14"
         },
         {
             "card_name": "Lao's Redemption",
@@ -1496,7 +1496,7 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "CB15\n!tag removal"
+            "notes": "CB15"
         },
         {
             "card_name": "Deadland Caro",
@@ -1727,7 +1727,7 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "UB11\n!tag discard"
+            "notes": "UB11"
         },
         {
             "card_name": "Gruesome Revelation",
@@ -1790,7 +1790,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "UB13\n!tag removal"
+            "notes": "UB13"
         },
         {
             "card_name": "Dark Matters",
@@ -1811,7 +1811,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "UB14\n!tag removal"
+            "notes": "UB14"
         },
         {
             "card_name": "BLADE Interceptor",
@@ -1937,7 +1937,7 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "CR07\nBreak????"
+            "notes": "CR07"
         },
         {
             "card_name": "Winged Viper's Dual Guns",
@@ -2021,7 +2021,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "Maybe 2 mana\nCR11"
+            "notes": "CR11"
         },
         {
             "card_name": "Cavern Expedition",
@@ -2063,7 +2063,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "CR14\n!tag removal"
+            "notes": "CR14"
         },
         {
             "card_name": "Hijack the Prog Ares",
@@ -2105,7 +2105,7 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "CR15\n!tag removal"
+            "notes": "CR15"
         },
         {
             "card_name": "Rookie Training",
@@ -2294,7 +2294,7 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "UR09\n!tag removal"
+            "notes": "UR09"
         },
         {
             "card_name": "Threefold Thunderflash",
@@ -2336,7 +2336,7 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "UR11\n!tag removal"
+            "notes": "UR11"
         },
         {
             "card_name": "Fire Carnival",
@@ -2378,7 +2378,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "UR13\n!tag removal"
+            "notes": "UR13"
         },
         {
             "card_name": "Brimstone Rain",
@@ -2483,7 +2483,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "CG03\n!tag ramp"
+            "notes": "CG03"
         },
         {
             "card_name": "Hallowed Progen",
@@ -2630,7 +2630,7 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": "CG10\n!tag removal"
+            "notes": "CG10"
         },
         {
             "card_name": "Lurk in Wait",
@@ -2651,7 +2651,7 @@
             "alias": "",
             "position": "125",
             "rotated": false,
-            "notes": "CG12\n!tag removal"
+            "notes": "CG12"
         },
         {
             "card_name": "A Hero's Trial",
@@ -2672,7 +2672,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": "CG11\n!tag removal"
+            "notes": "CG11"
         },
         {
             "card_name": "Heroic Tale",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "CG14\n!tag ramp"
+            "notes": "CG14"
         },
         {
             "card_name": "Mimeosome Search",
@@ -2840,7 +2840,7 @@
             "alias": "",
             "position": "134",
             "rotated": false,
-            "notes": "CA04\n!tag removal"
+            "notes": "CA04"
         },
         {
             "card_name": "Lifepod",
@@ -3606,7 +3606,7 @@
             "number": 193,
             "color_identity": "G",
             "cost": "{6}{G}",
-            "rules_text": "Reach, trample\nWhenever this creature deals combat damage to an opponent, destroy target artifact or enchantment that player controls.",
+            "rules_text": "Reach, trample, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nWhenever this creature deals combat damage to an opponent, destroy target artifact or enchantment that player controls.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -3617,7 +3617,7 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": "UG09\n!tag removal\n!tag topend-threat"
+            "notes": "UG09"
         },
         {
             "card_name": "Prone Funeral Ritual",
@@ -3659,7 +3659,7 @@
             "alias": "",
             "position": "173",
             "rotated": false,
-            "notes": "UG11\n!tag ramp"
+            "notes": "UG11"
         },
         {
             "card_name": "Dense Fog",
@@ -3785,7 +3785,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "RB04\n!tag sideboard"
+            "notes": "RB04"
         },
         {
             "card_name": "Ambush Camouflage",
@@ -3827,7 +3827,7 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": "RB02\n!tag sweeper"
+            "notes": "RB02"
         },
         {
             "card_name": "Goetia, Electric Eradicator",
@@ -4217,7 +4217,7 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": "MG03\n!tag topend-threat"
+            "notes": "MG03"
         },
         {
             "card_name": "Irina Akulov, Hotheaded",
@@ -4427,7 +4427,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "RB06\n!tag removal"
+            "notes": "RB06"
         },
         {
             "card_name": "Vitriolic Cesspool",
@@ -4490,7 +4490,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "RG10\n!tag tutor"
+            "notes": "RG10"
         },
         {
             "card_name": "Kirsty, Planetary Pioneer",
@@ -4521,7 +4521,7 @@
             "number": 281,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Lands you control without a waste counter have \u201c{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.\u201d\nLands you control with waste counters have \u201c{T}: Add {C}.\u201d and lose all other abilities.",
+            "rules_text": "Lands you control without a waste counter have \u201c{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.\u201d\nLands you control with one or more waste counters on them have \u201c{T}: Add {C}.\u201d and lose all other abilities.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4577,7 +4577,7 @@
             "notes": "RW01"
         },
         {
-            "card_name": "Frye, the Killer Ostritch",
+            "card_name": "Frye, the Killer Ostrich",
             "color": "R",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Human Soldier",
@@ -4595,7 +4595,7 @@
             "alias": "",
             "position": "217",
             "rotated": false,
-            "notes": "RR05"
+            "notes": "RR05\n!tag wishlist"
         },
         {
             "card_name": "Phog, Shy Guy",
@@ -5228,7 +5228,7 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": "RB05\n!tag mana-cheating"
+            "notes": "RB05"
         },
         {
             "card_name": "Combat Maneuver Instructor",
@@ -5417,7 +5417,7 @@
             "alias": "",
             "position": "255",
             "rotated": false,
-            "notes": "RW06\n!tag sideboard"
+            "notes": "RW06"
         },
         {
             "card_name": "BLADE Comm Device",
@@ -5459,7 +5459,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "MU01\n!tag draw"
+            "notes": "MU01"
         },
         {
             "card_name": "Void, the Great One",
@@ -5501,7 +5501,7 @@
             "alias": "",
             "position": "259",
             "rotated": false,
-            "notes": "MA01\n!tag topend-threat"
+            "notes": "MA01"
         },
         {
             "card_name": "Gaze Upon the Horizon",
@@ -5963,7 +5963,7 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": "UG12\n!tag removal"
+            "notes": "UG12"
         },
         {
             "card_name": "Black Tar",
@@ -6026,7 +6026,7 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "MG02\n!tag wishlist"
+            "notes": "MG02"
         },
         {
             "card_name": "Rock, Celica's Friend",
@@ -6110,7 +6110,7 @@
             "alias": "",
             "position": "288",
             "rotated": false,
-            "notes": "RZ08\n!tag sideboard"
+            "notes": "RZ08"
         },
         {
             "card_name": "Murderess, Greed and Power",
@@ -6278,7 +6278,7 @@
             "alias": "",
             "position": "296",
             "rotated": false,
-            "notes": "RR03\n!tag removal"
+            "notes": "RR03"
         },
         {
             "card_name": "Mindstorm",
@@ -6614,7 +6614,7 @@
             "alias": "",
             "position": "312",
             "rotated": false,
-            "notes": "RU08\n!tag card-engine"
+            "notes": "RU08"
         },
         {
             "card_name": "Miramobile, Future and Past",
@@ -6656,7 +6656,7 @@
             "alias": "",
             "position": "314",
             "rotated": false,
-            "notes": "UB16\n!tag sweeper"
+            "notes": "UB16"
         },
         {
             "card_name": "Electromagnetic Interference",
@@ -6824,7 +6824,7 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": "UU16\n!tag removal"
+            "notes": "UU16"
         },
         {
             "card_name": "Probe Installation Team",
@@ -7139,7 +7139,7 @@
             "alias": "",
             "position": "337",
             "rotated": false,
-            "notes": "!tag aggro threat"
+            "notes": ""
         },
         {
             "card_name": "Tainted Sphinx",
@@ -7160,7 +7160,7 @@
             "alias": "",
             "position": "338",
             "rotated": false,
-            "notes": "!tag topend-threat"
+            "notes": ""
         },
         {
             "card_name": "Heroic Feast",
@@ -7283,5 +7283,5 @@
             "notes": "MZ04\nMZ04"
         }
     ],
-    "version": 14
+    "version": 15
 }

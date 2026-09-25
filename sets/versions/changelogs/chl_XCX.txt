@@ -1,4 +1,134 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Frye, the Killer Ostrich added.
+
+Frye, the Killer Ostritch removed.
+
+Daylight Aprica
+
+Sky Sunder
+
+Formula Zero
+
+Drone Pawn Quo
+
+Settle Beyond Reality
+
+Revelation of Old
+
+Spy Games
+
+Restart Development
+
+Fortun and Glory
+
+Definian Clone
+
+Trade Agreement
+
+Scour FrontierNav
+
+Lend an Ear
+
+Quick Cooldown
+
+Nocturnal Vesper
+
+Acid Dilus
+
+Brutal Prone
+
+Black Bane
+
+Rites of Ruin
+
+Wander Too Far
+
+Lao's Redemption
+
+Intimidation Tactics
+
+Ganglion Base
+
+Dark Matters
+
+Mirage Vivohast
+
+A Day In The Life
+
+Reckless Thrash
+
+Rapid Misfire
+
+Into the Core
+
+Metallic Crunch
+
+Anti-Air Assault
+
+Hermit Tectinsula
+
+Brobdingnagian Sylooth
+
+Lurk in Wait
+
+A Hero's Trial
+
+Mira's Expanse
+
+Scour from Existence
+
+Disaster Vigent
+rules_text: Reach, trample
+Whenever this creature deals combat damage to an opponent, destroy target artifact or enchantment that player controls. => Reach, trample, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Whenever this creature deals combat damage to an opponent, destroy target artifact or enchantment that player controls.
+
+Golden Loot
+
+Raging Sandstorm
+
+Dematerialization Event
+
+Wrothian Battle Gauntlet
+
+The Key We've Lost
+
+Tatsu, Totally Not Food
+
+The Giant Ring of Oblivia
+rules_text: Lands you control without a waste counter have “{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.”
+Lands you control with waste counters have “{T}: Add {C}.” and lose all other abilities. => Lands you control without a waste counter have “{T}: Add two mana of any color that this land could produce. Put a waste counter on this land.”
+Lands you control with one or more waste counters on them have “{T}: Add {C}.” and lose all other abilities.
+
+Strike Launcher Zig
+
+Obscuring Spores
+
+Multiversal Convergence
+
+Ghost Cathedral
+
+Furious Flurry
+
+Relentless Expansion
+
+Hope, Heart of NLA
+
+Blossom Dance
+
+Professor B°&7k%±|, Mystery Man
+
+Dry Heat
+
+Mia is Missing!
+
+Pollen Orb Smuggler
+
+Tainted Sphinx
+
+
+VERSION 14 CHANGELOG
 ====================
 
 
