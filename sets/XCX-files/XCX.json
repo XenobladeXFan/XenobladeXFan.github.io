@@ -5522,7 +5522,7 @@
             "alias": "",
             "position": "260",
             "rotated": false,
-            "notes": "RG06\n!tag card-advantage"
+            "notes": "RG06\n!tag draw"
         },
         {
             "card_name": "Shimmer & Savy Exchange",
@@ -7283,5 +7283,5 @@
             "notes": "MZ04\nMZ04"
         }
     ],
-    "version": 15
+    "version": 16
 }

@@ -1,4 +1,12 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Gaze Upon the Horizon
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Frye, the Killer Ostrich added.
