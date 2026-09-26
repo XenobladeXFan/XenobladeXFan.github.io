@@ -1,4 +1,38 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Lead Skell Engineer
+rules_text: When this creature enters, create two 3/2 Vehicle artifact creature tokens with crew 1.
+At the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control. => When this creature enters, create two 3/2 colorless Vehicle artifact tokens with crew 1.
+At the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.
+
+Rookie Training
+rules_text: Create a colorless 2/2 Human Soldier artifact creature token.
+When you do, choose one —
+• Attach target Equipment you control to target creature you control.
+• Creatures you control gain haste until end of turn. => Create a 2/2 colorless Human Soldier artifact creature token.
+When you do, choose one —
+• Attach target Equipment you control to target creature you control.
+• Creatures you control gain haste until end of turn.
+
+Rise of the Blood Lobster
+rules_text: At the beginning of your upkeep, put a lobster counter on this enchantment, then it deals 1 damage to each opponent.
+Exile this enchantment: Create Blood Despair, an X/X legendary black Vehicle artifact token with menace, trample, haste, and crew 1, where X is the number of lobster counters on this enchantment. Activate only as a sorcery. => At the beginning of your upkeep, put a lobster counter on this enchantment, then it deals 1 damage to each opponent.
+Exile this enchantment: Create Blood Despair, a legendary X/X black Vehicle artifact token with menace, trample, haste, and crew 1, where X is the number of lobster counters on this enchantment. Activate only as a sorcery.
+
+Dadaan, the Strongest Prone
+rules_text: [i]Punchity Punchathon[/i] — Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.
+[i]Dadaan Squad! — [/i]At the beginning of each upkeep, create a black 1/1 Alien creature token.
+[i]Absolute Demolisher 2056 [/i]— Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card. => [i]Punchity Punchathon[/i] — Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.
+[i]Dadaan Squad! — [/i]At the beginning of each upkeep, create a 1/1 black Alien creature token.
+[i]Absolute Demolisher 2056 [/i]— Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card.
+
+Blood Despair
+
+
+VERSION 16 CHANGELOG
 ====================
 
 

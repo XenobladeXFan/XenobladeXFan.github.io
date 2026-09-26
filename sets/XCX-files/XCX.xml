@@ -877,7 +877,7 @@ Whenever one or more artifact creatures you control deal combat damage to a play
 		</card>
 		<card>
 			<name>Lead Skell Engineer</name>
-			<text>When this creature enters, create two 3/2 Vehicle artifact creature tokens with crew 1.
+			<text>When this creature enters, create two 3/2 colorless Vehicle artifact tokens with crew 1.
 At the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.</text>
 			<set rarity="uncommon" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/49.png" num="28">XCX</set>
 			<prop>
@@ -1769,7 +1769,7 @@ You may discard a card. If you do, draw two cards.</text>
 		</card>
 		<card>
 			<name>Rookie Training</name>
-			<text>Create a colorless 2/2 Human Soldier artifact creature token.
+			<text>Create a 2/2 colorless Human Soldier artifact creature token.
 When you do, choose one —
 • Attach target Equipment you control to target creature you control.
 • Creatures you control gain haste until end of turn.</text>
@@ -3757,7 +3757,7 @@ Lands you control with one or more waste counters on them have &quot;{T}: Add {C
 		<card>
 			<name>Rise of the Blood Lobster</name>
 			<text>At the beginning of your upkeep, put a lobster counter on this enchantment, then it deals 1 damage to each opponent.
-Exile this enchantment: Create Blood Despair, an X/X legendary black Vehicle artifact token with menace, trample, haste, and crew 1, where X is the number of lobster counters on this enchantment. Activate only as a sorcery.</text>
+Exile this enchantment: Create Blood Despair, a legendary X/X black Vehicle artifact token with menace, trample, haste, and crew 1, where X is the number of lobster counters on this enchantment. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/215.png" num="125">XCX</set>
 			<prop>
 				<layout>normal</layout>
@@ -5176,7 +5176,7 @@ Crew 4</text>
 		<card>
 			<name>Dadaan, the Strongest Prone</name>
 			<text>Punchity Punchathon — Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.
-Dadaan Squad! — At the beginning of each upkeep, create a black 1/1 Alien creature token.
+Dadaan Squad! — At the beginning of each upkeep, create a 1/1 black Alien creature token.
 Absolute Demolisher 2056 — Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature&apos;s power was 4 or greater, draw a card.</text>
 			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/294.png" num="235">XCX</set>
 			<prop>

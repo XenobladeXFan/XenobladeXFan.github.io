@@ -1044,7 +1044,7 @@
             "number": 28,
             "color_identity": "W",
             "cost": "{5}{W}",
-            "rules_text": "When this creature enters, create two 3/2 Vehicle artifact creature tokens with crew 1.\nAt the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.",
+            "rules_text": "When this creature enters, create two 3/2 colorless Vehicle artifact tokens with crew 1.\nAt the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2115,7 +2115,7 @@
             "number": 167,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Create a colorless 2/2 Human Soldier artifact creature token.\nWhen you do, choose one \u2014\n\u2022 Attach target Equipment you control to target creature you control.\n\u2022 Creatures you control gain haste until end of turn.",
+            "rules_text": "Create a 2/2 colorless Human Soldier artifact creature token.\nWhen you do, choose one \u2014\n\u2022 Attach target Equipment you control to target creature you control.\n\u2022 Creatures you control gain haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4542,7 +4542,7 @@
             "number": 125,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "At the beginning of your upkeep, put a lobster counter on this enchantment, then it deals 1 damage to each opponent.\nExile this enchantment: Create Blood Despair, an X/X legendary black Vehicle artifact token with menace, trample, haste, and crew 1, where X is the number of lobster counters on this enchantment. Activate only as a sorcery.",
+            "rules_text": "At the beginning of your upkeep, put a lobster counter on this enchantment, then it deals 1 damage to each opponent.\nExile this enchantment: Create Blood Despair, a legendary X/X black Vehicle artifact token with menace, trample, haste, and crew 1, where X is the number of lobster counters on this enchantment. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6225,7 +6225,7 @@
             "number": 235,
             "color_identity": "WBRG",
             "cost": "{B}{R}{G}{W}",
-            "rules_text": "[i]Punchity Punchathon[/i] \u2014 Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.\n[i]Dadaan Squad! \u2014 [/i]At the beginning of each upkeep, create a black 1/1 Alien creature token.\n[i]Absolute Demolisher 2056 [/i]\u2014 Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card.",
+            "rules_text": "[i]Punchity Punchathon[/i] \u2014 Whenever Dadaan or another Alien you control deals combat damage, put a +1/+1 counter on it.\n[i]Dadaan Squad! \u2014 [/i]At the beginning of each upkeep, create a 1/1 black Alien creature token.\n[i]Absolute Demolisher 2056 [/i]\u2014 Sacrifice another Alien: Destroy target Vehicle. If the sacrificed creature's power was 4 or greater, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -6961,7 +6961,7 @@
             "color_identity": "B",
             "cost": "",
             "rules_text": "Menace, trample, haste\nCrew 1",
-            "flavor_text": "[i]\u201cBehold! The culmination of Definian and human technology!\u201d\n\u2014 Justin[/i]",
+            "flavor_text": "[i]\u201cBehold! The culmination of Definian and human technology!\u201d\n\u2014 The Blood Lobster[/i]",
             "pt": "*/*",
             "special_text": "",
             "shape": "token",
@@ -7283,5 +7283,5 @@
             "notes": "MZ04\nMZ04"
         }
     ],
-    "version": 16
+    "version": 17
 }
