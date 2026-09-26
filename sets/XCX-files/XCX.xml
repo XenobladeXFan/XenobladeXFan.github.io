@@ -5,7 +5,7 @@
 			<name>XCX</name>
 			<longname>Xenoblade X</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-25</releasedate>
+			<releasedate>2026-09-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3974,7 +3974,7 @@ Whenever a Vehicle you control attacks, put X +1/+1 counters on it, where X is t
 			<name>Rexoskell</name>
 			<text>Menace, trample
 Your opponents can&apos;t gain life.
-Whenever Rexoskell deals combat damage to an opponent, until your next turn, whenever that player casts a spell, they lose X life, where X is the amount of damage dealt they were dealt by Rexoskell, rounded up.
+Whenever Rexoskell deals combat damage to an opponent, until your next turn, whenever that player casts a spell, they lose X life, where X is the amount of damage dealt by Rexoskell.
 Crew 4</text>
 			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/227.png" num="265">XCX</set>
 			<prop>
@@ -4124,7 +4124,7 @@ Apocalypse Roar — Vehicles you don&apos;t control can&apos;t become creatures.
 		<card>
 			<name>Liesel, Test Pilot</name>
 			<text>Vigilance, haste
-Mind Shift — Whenever Liesel or a Vehicle crewed by her attacks, the next ability you activate this turn that isn&apos;t a mana ability costs {2} less to activate.
+Mind Shift — Whenever Liesel or a Vehicle crewed by her this turn attacks, the next ability you activate this turn that isn&apos;t a mana ability costs {2} less to activate.
 {3}, {T}: Liesel deals 2 damage to any target.</text>
 			<set rarity="rare" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/234.png" num="252">XCX</set>
 			<prop>
@@ -4422,7 +4422,7 @@ When Zu Pharg dies, destroy two target lands.
 		<card>
 			<name>Lin, BLADE Bulwark</name>
 			<text>Lin enters with a shield counter on her. (If a permanent with a shield counter would be dealt damage or destroyed, remove a shield counter from it instead.)
-Other artifacts you control enter with a shield counter.
+Other artifacts you control enter with a shield counter on them.
 Drum Roll — Whenever Lin attacks, put a +1/+1 counter on each creature and Vehicle you control.</text>
 			<set rarity="mythic" picurl="https://xenobladexfan.github.io/sets/XCX-files/img/250.png" num="253">XCX</set>
 			<prop>

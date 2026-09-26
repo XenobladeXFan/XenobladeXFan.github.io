@@ -1,4 +1,33 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Rexoskell
+rules_text: Menace, trample
+Your opponents can't gain life.
+Whenever Rexoskell deals combat damage to an opponent, until your next turn, whenever that player casts a spell, they lose X life, where X is the amount of damage dealt they were dealt by Rexoskell, rounded up.
+Crew 4 => Menace, trample
+Your opponents can't gain life.
+Whenever Rexoskell deals combat damage to an opponent, until your next turn, whenever that player casts a spell, they lose X life, where X is the amount of damage dealt by Rexoskell.
+Crew 4
+
+Liesel, Test Pilot
+rules_text: Vigilance, haste
+[i]Mind Shift[/i] — Whenever Liesel or a Vehicle crewed by her attacks, the next ability you activate this turn that isn't a mana ability costs {2} less to activate.
+{3}, {T}: Liesel deals 2 damage to any target. => Vigilance, haste
+[i]Mind Shift[/i] — Whenever Liesel or a Vehicle crewed by her this turn attacks, the next ability you activate this turn that isn't a mana ability costs {2} less to activate.
+{3}, {T}: Liesel deals 2 damage to any target.
+
+Lin, BLADE Bulwark
+rules_text: Lin enters with a shield counter on her. [i](If a permanent with a shield counter would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Other artifacts you control enter with a shield counter.
+[i]Drum Roll — [/i]Whenever Lin attacks, put a +1/+1 counter on each creature and Vehicle you control. => Lin enters with a shield counter on her. [i](If a permanent with a shield counter would be dealt damage or destroyed, remove a shield counter from it instead.)[/i]
+Other artifacts you control enter with a shield counter on them.
+[i]Drum Roll — [/i]Whenever Lin attacks, put a +1/+1 counter on each creature and Vehicle you control.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 
