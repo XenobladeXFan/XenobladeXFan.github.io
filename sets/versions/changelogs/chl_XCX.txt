@@ -1,4 +1,80 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Drone Pawn Quo
+rules_text: Flying
+Whenever this creature attacks, choose one —
+• Another target creature gains lifelink until end of turn.
+• Another target creature gets +X/+X until end of turn, where X is this creature's power. => Flying
+Whenever this creature attacks, another target creature you control gets +1/+1 and gains lifelink until end of turn.
+
+Lead Skell Engineer
+cost: {5}{W} => {4}{W}
+rules_text: When this creature enters, create two 3/2 colorless Vehicle artifact tokens with crew 1.
+At the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control. => When this creature enters, create a 3/2 colorless Vehicle artifact token with crew 1.
+At the beginning of combat on your turn, target artifact creature you control gets +X/+X until end of turn, where X is the number of artifacts you control.
+pt: 3/3 => 1/2
+
+BLADE Harrier
+type: Artifact Creature — Human Artificer => Artifact Creature — Human Soldier
+
+Milsaadi Corroder
+
+Dense Fog
+rules_text: Ambush {1}{G} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+At the beginning of your upkeep, sacrifice this enchantment.
+Prevent all combat damage that would be dealt. => Ambush {3}{G} [i](You may cast this spell for its ambush cost as though it had flash.)[/i]
+At the beginning of your upkeep, sacrifice this enchantment.
+Prevent all combat damage that would be dealt.
+
+Gold Rush
+cost: {G} => {1}{G}
+
+Activate Overdrive
+cost: {3}{U}{U} => {1}{U}{U}
+rules_text: This spell can't be copied.
+Untap a land you control.
+Until end of turn, whenever you cast a spell, draw a card, then untap a land you control. => Until end of turn, instant and sorcery spells you cast cost {1} less to cast. Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.
+
+Collectopedia
+rules_text: {T}: Choose one or both —
+• Exile target card from a graveyard.
+• Exile the top card of target player's library.
+{T}: Draw a card. Activate only if there are four or more card types among cards exiled with this artifact. => {T}: Choose one or both —
+• Exile target card from a graveyard.
+• Exile the top card of target player's library.
+{2}, {T}: Draw a card. Activate only if there are four or more card types among cards exiled with this artifact.
+
+Multigun
+rules_text: Equipped creature has “Whenever this creature attacks, choose one —
+• Put a +1/+1 counters on this creature.
+• Tap target creature.
+• Put a stun counter on target tapped creature.
+• Remove a counter from any permanent you control. If you do, Mutligun deals 2 damage to any target.”
+Equip {1} => Whenever equipped creature attacks, choose one —
+• Put a +1/+1 counter on equipped creature.
+• Tap target creature.
+• Put a stun counter on target tapped creature.
+• Remove a counter from any permanent you control. When you do, this Equipment deals 2 damage to any target.
+Equip {1}
+
+Blossom Dance
+rules_text: This spell deals 6 damage to six different targets. [i](There must be six targets to cast this spell. This can include players.)[/i] => This spell deals 6 damage to each of six different targets. [i](There must be six targets to cast this spell. This can include players.)[/i]
+
+Mindstorm
+cost: {1}{W}{U} => {2}{W}{U}
+
+Dry Heat
+type: Enchantment => Sorcery
+cost: {X}{B}{B} => {X}{B}{B}{B}
+rules_text: This enchantment enters with X heat counters on it.
+Creatures get -1/-1 for each heat counter on this enchantment.
+At the beginning of your upkeep, sacrifice this enchantment. => Each creature gets -X/-X until end of turn.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 
