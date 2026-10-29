@@ -1,4 +1,104 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+The Tainted Sphinx added.
+Ace Skell Engineer added.
+Celica, Rock's Best Friend added.
+Inspiring Commander added.
+Lin Lee Koo added.
+NLA Defense Dome added.
+Cultural Exchange added.
+Mimeosome Manufacturer added.
+Nexus of Fate added.
+Poach the Bounty added.
+Choice of Damnations added.
+The Decayed Core added.
+Inherit the Tainted Virus added.
+Poisonous Caecus added.
+Skell Salvager added.
+Bizzare Insidia added.
+Crash of the White Whale added.
+Kentaro Nagi added.
+Lurking Columbrim added.
+Skell Scrapper added.
+Bounty of the Hunt added.
+Grex Pack added.
+Marshaling the Troops added.
+Sabula Mates added.
+Thickest in the Thicket added.
+Bloodthirsty Adsecula added.
+Director General Chausson added.
+Doug Barret added.
+Hope Alanzi added.
+Ma-Non Ship added.
+Sharon Effinger, Murderess added.
+Telethia, Ruler of Fates added.
+Wish Good Luck added.
+Mia, Stranded Surveyor added.
+BLADE Command Console added.
+Cooldown Augment added.
+Elma, Reclaimer added.
+Eternity Vessel added.
+Ma-non Ship Core added.
+Yardley's Lifepod added.
+Atop The Giant Ring added.
+Barista Court added.
+Behemoth's Shadows added.
+Bihano Water-Purification Plant added.
+Canopied Nightwood added.
+De-mat Zone added.
+Dead Man's Gulch added.
+Deliverance Park added.
+Delusians Summit added.
+The Divine Roost added.
+Ganglion Antropolis added.
+Ma-non Ship Deck added.
+Mount M'gando added.
+NLA, Humanity's Bastion added.
+Outfitters Test Hangar added.
+The Silent Mire added.
+Volitaris, the Great Prison added.
+Yardley's Hideaway added.
+The Yawning Giant added.
+Liesel, Skell Refiner added.
+Everywhere added.
+
+Tainted Sphinx removed.
+
+Mirage Vivohast
+rules_text: When this creature enters, it deals 1 damage to any target => When this creature enters, it deals 1 damage to any target.
+
+Lurk in Wait
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control. If either creature entered this turn, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i] => Target creature you control explores. When it does, it deals damage equal to its power to target creature you don't control. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+A Hero's Trial
+cost: {1}{G} => {G}
+rules_text: Target creature you control fights target creature you don't control. When the creature you control wins the fight, put two +1/+1 counters on it. [i](Each deals damage equal to its power to the other. To win a fight, your creature must live and their creature must die.)[/i] => Target creature you control fights target creature you don't control. When the creature you control wins the fight, put a +1/+1 counter on it and create a Food token. [i](To win a fight, your creature must live and their creature must die. Food tokens are artifacts with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Alexa, Skell Nut
+
+Escape to a New World
+rules_text: Exile all lands you control. For each land exiled this way, search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. => Exile each land you control. For each land exiled this way, search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Then for each land not put onto the battlefield this way, create a number tapped colorless land token named Everywhere that are every basic land type equal to the difference.
+
+Frye, the Killer Ostrich
+rules_text: [i]Bullet Twister[/i] — Whenever a player or permanent is dealt damage, if the amount of damage dealt is greater than Frye's power, put a +1/+1 counter on him and draw a card. => [i]Bullet Twister[/i] — Whenever a player or permanent is dealt damage, if the amount of damage dealt is greater than Frye's power, put a +1/+1 counter on one or two target creatures you control.
+pt: 3/2 => 3/3
+
+Macabre Aeviter
+cost: {3}{U} => {2}{U}{U}
+
+Hope, Heart of NLA
+rules_text: [i]Tacit Censure — [/i]During your turn, your opponents can't cast spells or activate abilities of that aren't mana abilities.
+At the beginning of your end step, if you didn't cast a spell this turn, you gain 2 life and put a +1/+1 counter on Hope. => [i]Tacit Censure — [/i]During your turn, your opponents can't cast spells or activate abilities of that aren't mana abilities.
+At the beginning of your upkeep, you may have two target players each draw a card. If you do, you gain 2 life.
+
+Probe Installation Team
+rules_text: Vigilance, lifelink
+Whenever a creature you control explores, put a +1/+1 counter on this creature. => Vigilance, trample
+Whenever a creature you control explores, put a +1/+1 counter on this creature.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
